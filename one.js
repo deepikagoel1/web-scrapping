@@ -1,0 +1,2644 @@
+://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "cache-control": "max-age=0",
+    "if-none-match": "W/\"9f2e7-4jTxVhZQu/W80+0ikr8v743HlKk\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "cookie": "_ga=GA1.2.1255903939.1617261943; _gid=GA1.2.1833083756.1617261943; __gads=ID=030d5819442da21b:T=1617261949:S=ALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ; _gaexp=GAX1.2.Kf76WMEcSTyfIdmux1llcQ.18770.1; NOTIFY_NVP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; popupCount=2; NOTIFY_VP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; ldCookie=closed; _gat=1"
+  },
+  "referrerPolicy": "no-referrer",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://polyfill.io/v3/polyfill.min.js?features=requestIdleCallback%2CIntersectionObserver", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.googleoptimize.com/optimize.js?id=GTM-N47J54N", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.6/postscribe.min.js?v=2.0.6", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/analytics.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/asset/img/cd_logo.png?tr=c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/asset/img/collegedunia_logo.png?tr=c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==", {
+  "referrer": "",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/asset/font/sourcesans_new.woff2", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/asset/font/din/DINPro-Medium.woff2", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/asset/font/din/DINPro-Regular.woff2", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ampcid.google.com/v1/publisher:getClientId?key=AIzaSyA65lEHUEizIsNtlbNo-l2K18dT680nsaM", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "__Secure-3PSID=7ge5SS2Tp_NGaLU4DDa1I0lFHI4vI0jTJmJPyNiWTnZRZ2GP9QmZeKR5MrJJZRh6UUtT2w.; __Secure-3PAPISID=bdNnw1J1_p50tkZs/A7-B0O4SFKzzG3e1_; NID=212=sxVnfgw_aEld3ZDeJyFw3F0guGAAiT0QZ9vRjxTVDFWoneiYlnTi33MIJzt7AKAESXuKwmx5Fbu7aI9WpONiWknA0-bPq0GH-QdPJi32SE6FzzoQlMwdc3wFjTOqXKcU9194dPG2lwax9jpPw4f7tgUPCLHgt99_sjnG2fKbnWg5HlGeOyJ2Ttcx27-W3cKqnJNC2j7uNFsiKLIOe7Mt8am1rXF0x7_uvHtIpWT-f93CXIEl; 1P_JAR=2021-04-01-08; __Secure-3PSIDCC=AJi4QfHuVkK_d7_PUS6W4q4e9pUnRp3GP3UEBNntiRdWAPyfCVHDy4bwNOqZVbkjzcMuTSa3x9WQ"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"originScope\":\"AMP_ECID_GOOGLE\"}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/DfKWiLnS3SbOXTkLQ6ywf/_buildManifest.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/DfKWiLnS3SbOXTkLQ6ywf/_ssgManifest.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/asset/img/favicon.png", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "cache-control": "no-cache",
+    "pragma": "no-cache",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ampcid.google.co.in/v1/publisher:getClientId?key=AIzaSyA65lEHUEizIsNtlbNo-l2K18dT680nsaM", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "__Secure-3PSID=7ge5SS2Tp_NGaLU4DDa1I0lFHI4vI0jTJmJPyNiWTnZRZ2GP9QmZeKR5MrJJZRh6UUtT2w.; __Secure-3PAPISID=bdNnw1J1_p50tkZs/A7-B0O4SFKzzG3e1_; NID=211=SYzt35PCNGZ5XIfkX1uYNOP_Pw24AXY8WyTelcEVOH1UVdnesAHbgPm0z5Txw-FlW-jsbpuB59uJgo2tkG6EvN4VTivMkdK32FC7boi2F2qeNDgcCpGh282VKUAPnqCtdumwXhVOreoAXaEGsSvxjXD47XkXHSqRRsoSscs9gpk7-t9_"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"originScope\":\"AMP_ECID_GOOGLE\"}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/j/collect?v=1&_v=j89&a=441851974&t=pageview&_s=1&dl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&ul=en-gb&de=UTF-8&dt=HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022&sd=24-bit&sr=1920x1080&vp=610x891&je=0&_u=CACAAEABAAQCAC~&jid=&gjid=&cid=1255903939.1617261943&tid=UA-51322859-1&_gid=1833083756.1617261943&_slc=1&z=1470499559", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/ce96b8a345be642fa22b04845a91775e14f2c667.d719689e42bea937e676.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/0b88e6cdfe80eecdb0b20888cf123300043074ab.3d7eba1624c38956cb5f.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/ee16e956cdb3559a7cd06b7d94a261dff8cc04bd.b9a150f67f593a35ddda.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/387.8aebf5603fa266c6103b.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/f48be1057d9b359836064f9265a5d2d5adbbb615.50f81d5f323680cd0942.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/333.dd3ab89413b32ee45f3f.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/708.013eb0ae11ce24e3da70.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/0241ed5564cda7219a43bf9e78614adabda0f6c5.27230e2907606791b1c0.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/536.8c0fb624f11cef78ef07.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/728.76f812f7d0b5188d515f.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/729.e1d5a5eac4cb2e31f0d9.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/472.31787d0db56097ced805.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/507.6fa9a2cb049a462a236f.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/362.55a53a916dc442e8ddb9.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/49.0600ec49794b45a08844.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/30a65d03f36baa032b2f851702f8578d2cb03870.a4dc27ad2e374e56646c.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/347.f8bebb1d2aeb2b574959.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/348.a88b64d2d284f51c2f4a.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/77.ee5f87c06b1ff6c8a87d.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/349.13050e975b0adafcfc16.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/26.90d55745f590f3881ac6.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/350.f895ff489e85036e8b59.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/143.ab1658b3ba61e3059640.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/29107295.2de1350257cc33a8bebf.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/522.9eb96fef5fac0c34b4bd.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/445.8cd67fdea12e32505376.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/711.c429964be027c332ed94.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/712.fc4c27a245a33d56d7f2.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/722.5ba89b44fb43cbcde308.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/723.6a90d280eb979dff3ef6.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/f8cce8635ec3e3c63ed2debdff7e603114406e6e.9875352406811fff2f88.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/31.b3d5c29c0836cbcb4749.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/698.17fe3dba3dd09db122c0.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/699.b31d517e44f89a3e76b4.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/145.658fedb0c896190cf4a7.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/730.1abf785826026a23a1da.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/731.92b900b5c00ef1564e16.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/3c4859d19f00ad0f5d804de5d236492f40221cb1.958d259a3fbebe5845b7.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/141.cdb29ab5aaaa396a37ae.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/407.de4108e802b3406b91b7.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/376.333a368614d9c57a8e0d.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/365.99ab1a560643f86f67a2.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/371.1b62707c9c9accb8144d.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/463.7496bba4df7321f99c59.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/359.397e88985de61fea33db.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/598.bafc248c25eb47197740.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/86.65a818f07e1471b0e2ac.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/405.873f0e814c69a9478caf.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/726.c3edd43f9518ecdb5c4c.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/602.af93670c72fa1d90d2c4.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/585.169fc54450cc6fb6be19.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/583.0311f100fdb4759e5a32.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/468.5c93dadd9259ea0c5310.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/549.b2814350ced30a748b0c.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/482.1ed808a53ca7a01d8166.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/449.afef778952f027570d64.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/784.64dbbe0f5625f8682ce7.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/672.21992033973c4f50d37c.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/main-1f5ac5450727ef9b238b.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/webpack-4f6f6d1e665a7241832b.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/framework.b5aa52f3c411397cee17.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/commons.c0b8edfbf15203c53268.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/051a117209f9c0cfbe5758c0a0952d08320a5b6d.4c7b6314981c1b73d41d.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/716f3b561912bcf074873b3e0e045e770f631dc6.5f5873182527c1d0ba06.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/42edecee525abb054c74e9d42625ae825472886f.91babbe3395a3e0e6132.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/d7d1c5466081e90983516bc5ff73aa418b95602b.f9158f2864ce1fece1cb.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/c5afcc8d936c01b3c21cf49fb4ac771f1b133a48.dc75616cfd3956838215.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/f241882d5645f9c1ee7bbdfe4d10cff4174c0bb2.a9a202b234a7fca9982c.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/pages/_app-bc884e3a64a5675ccb47.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/c1eafc655d82cff311012876d3b572d74a119bc1.4ede176df96bb6a8ea8e.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/pages/college/[college]-452d4096b9aac00236d8.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://collegedunia.com/notification/fetch-notification", {
+  "headers": {
+    "accept": "application/json",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "authorization": "Bearer",
+    "cache-control": "max-age=0",
+    "content-type": "application/x-www-form-urlencoded",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": "_ga=GA1.2.1255903939.1617261943; _gid=GA1.2.1833083756.1617261943; __gads=ID=030d5819442da21b:T=1617261949:S=ALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ; _gaexp=GAX1.2.Kf76WMEcSTyfIdmux1llcQ.18770.1; NOTIFY_NVP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; popupCount=2; NOTIFY_VP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; ldCookie=closed; _gat=1; _gat_devTracker=1; AMP_TOKEN=%24NOT_FOUND"
+  },
+  "referrer": "https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "data=%7B%22type%22%3A%22college%22%2C%22headId%22%3A%2215845%22%2C%22tab%22%3A%22home%22%2C%22state%22%3A%5B%2234%22%5D%2C%22slug%22%3A%5B%22120%22%2C%2212%22%2C%22206%22%2C%2215%22%2C%222%22%2C%22184%22%5D%2C%22affiliatedTo%22%3A%2259683%22%2C%22exams%22%3A%5B%5D%7D",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://cdapi.collegedunia.com/prod/csm", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain; charset=utf-8",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "same-site",
+    "cookie": "_ga=GA1.2.1255903939.1617261943; _gid=GA1.2.1833083756.1617261943; ADIMGAPRNCE=1617263744%2660960%2360102%2357488%2358055%2358896%23; ADVPIMGAPRNCE=1617263747%2657488%2358055%2358896%23; __gads=ID=030d5819442da21b:T=1617261949:S=ALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ; _gaexp=GAX1.2.Kf76WMEcSTyfIdmux1llcQ.18770.1; ADIMGCLK=1617263857%2660738%23; popupCount=2; ldCookie=closed; _gat=1; _gat_devTracker=1; AMP_TOKEN=%24NOT_FOUND"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"sessionId\":\"3yr5f4xx7ixkmyk03x0\",\"deviceType\":\"Linux x86_64\",\"gaId\":\"1255903939.1617261943\",\"events\":[{\"eventType\":\"page_view\",\"timeStamp\":1617265751496}],\"referrer\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\"}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/j/collect?v=1&_v=j89&a=441851974&t=event&ni=1&_s=1&dl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&ul=en-gb&de=UTF-8&dt=HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022&sd=24-bit&sr=1920x1080&vp=610x891&je=0&ec=Next.js%20custom%20metric&ea=Next.js-hydration&el=1617265751499-4460382768019&ev=68&_u=CCCAAEABAAQCAC~&jid=&gjid=&cid=1255903939.1617261943&tid=UA-180710564-1&_gid=1833083756.1617261943&_slc=1&z=400547760", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/139.41c62e345e962d2c8b03.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/BITS%20Pilani%20Logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/logo-875.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1425805509201525-171954725-4733-wbjeeexam.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1412935168comedk%20logo.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/agencyLogo/nirf1569843987.png?tr=w-80", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/agencyLogo/india_today_1569843914.png?tr=w-80", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/agencyLogo/outlook1569844006.png?tr=w-80", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/agencyLogo/the_week1569844170.png?tr=w-80", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/CAT%20logo.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/MAT%20Exam%20Logo.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/SIU%20Logo.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/gmat_logo_pos_rgb_left_svg.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/XAT_0.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/NTA-%20Logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/ATMA%20Logo.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/IBS.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/agencyLogo/what_does_the_times_of_india_logo_stand_for_quora_india_emblam_602_2471600316640.jpg?tr=w-80", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/NBE%20Logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1423562575images.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1412683823jj.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1415109202download.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/NID%20Logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/iit%20bombay.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1413610448CLAT.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1423458237AILET%20logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1432982754Delhi_Universitys_official_logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/lsac-1.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/AP%20PGLCET.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/IIT%20Kharagur%20Logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/mcaer%20logo.PNG?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1430385473nest.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/OUAT%20Logo.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/425101_336235283094044_1134339681_n.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/agencyLogo/the_logo1546499408.png?tr=w-80", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/GRE_logo.svg.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/sat%20llogo.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/IELTS.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/TOEFL_Logo.svg.png?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/457.948e1dc3ba12ce8d001b.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/cd-next/1.14.1/_next/static/chunks/575.192987d8b950801894c0.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/appImage/150158508214332460911.jpg?tr=h-193,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/?tr=h-80,w-80,c-force", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/collect?v=1&_v=j89&a=441851974&t=event&ni=1&_s=2&dl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&ul=en-gb&de=UTF-8&dt=HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022&sd=24-bit&sr=1920x1080&vp=610x891&je=0&ec=Web%20Vitals&ea=FCP&el=1617265751579-5758590836030&ev=351&_u=CCCAAEABAAQCAC~&jid=&gjid=&cid=1255903939.1617261943&tid=UA-180710564-1&_gid=1833083756.1617261943&z=779125502", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/collect?v=1&_v=j89&a=441851974&t=event&ni=1&_s=3&dl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&ul=en-gb&de=UTF-8&dt=HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022&sd=24-bit&sr=1920x1080&vp=610x891&je=0&ec=Web%20Vitals&ea=TTFB&el=1617265751580-9554061568898&ev=45&_u=CCCAAEABAAQCAC~&jid=&gjid=&cid=1255903939.1617261943&tid=UA-180710564-1&_gid=1833083756.1617261943&z=952182137", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/collect?v=1&_v=j89&a=441851974&t=data&qt=1792&_s=2&dl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&ul=en-gb&de=UTF-8&dt=HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022&sd=24-bit&sr=1920x1080&vp=610x891&je=0&exp=Kf76WMEcSTyfIdmux1llcQ.1&_u=CDCAAEABAAQCAC~&jid=&gjid=&cid=1255903939.1617261943&tid=UA-51322859-1&_gid=1833083756.1617261943&z=1838262462", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://collegedunia.com/notification/update-view-port-impression", {
+  "headers": {
+    "accept": "application/json",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "authorization": "Bearer",
+    "cache-control": "max-age=0",
+    "content-type": "application/x-www-form-urlencoded",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": "_ga=GA1.2.1255903939.1617261943; _gid=GA1.2.1833083756.1617261943; __gads=ID=030d5819442da21b:T=1617261949:S=ALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ; _gaexp=GAX1.2.Kf76WMEcSTyfIdmux1llcQ.18770.1; NOTIFY_NVP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; popupCount=2; NOTIFY_VP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; ldCookie=closed; _gat=1; _gat_devTracker=1; AMP_TOKEN=%24NOT_FOUND"
+  },
+  "referrer": "https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "data=%7B%22notificationId%22%3A%5B%22606448addeda41649f087542%22%2C%2260656a87d2245a2ff72336aa%22%5D%7D",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/MAT%20Exam%20Logo.jpg", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1491826680logo.png", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://collegedunia.com/notification/fetch-notification", {
+  "headers": {
+    "accept": "application/json",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "authorization": "Bearer",
+    "cache-control": "max-age=0",
+    "content-type": "application/x-www-form-urlencoded",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": "_ga=GA1.2.1255903939.1617261943; _gid=GA1.2.1833083756.1617261943; __gads=ID=030d5819442da21b:T=1617261949:S=ALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ; _gaexp=GAX1.2.Kf76WMEcSTyfIdmux1llcQ.18770.1; NOTIFY_NVP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; popupCount=2; NOTIFY_VP_IMPRESS=606448addeda41649f087542%2C60656a87d2245a2ff72336aa; ldCookie=closed; _gat=1; _gat_devTracker=1; AMP_TOKEN=%24NOT_FOUND"
+  },
+  "referrer": "https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "data=%7B%22type%22%3A%22college%22%2C%22headId%22%3A%2215845%22%2C%22tab%22%3A%22home%22%2C%22state%22%3A%5B%2234%22%5D%2C%22slug%22%3A%5B%22120%22%2C%2212%22%2C%22206%22%2C%2215%22%2C%222%22%2C%22184%22%5D%2C%22affiliatedTo%22%3A%2259683%22%2C%22exams%22%3A%5B%5D%7D",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://cdapi.collegedunia.com/api/v1/get-images?page=college&state=34&city=583&tab=home&college_id=15845&is_mobile=0&slug=120%2C12%2C206%2C15%2C2%2C184&unid=1617265754669", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "cache-control": "max-age=0",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.adpushup.com/39242/adpushup.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "if-modified-since": "Tue, 23 Mar 2021 17:55:16 GMT",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdapi.collegedunia.com/api/v1/image-analytics/impress-log", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "application/x-www-form-urlencoded",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "cookie": "_ga=GA1.2.1255903939.1617261943; _gid=GA1.2.1833083756.1617261943; ADIMGAPRNCE=1617263744%2660960%2360102%2357488%2358055%2358896%23; ADVPIMGAPRNCE=1617263747%2657488%2358055%2358896%23; __gads=ID=030d5819442da21b:T=1617261949:S=ALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ; _gaexp=GAX1.2.Kf76WMEcSTyfIdmux1llcQ.18770.1; ADIMGCLK=1617263857%2660738%23; popupCount=2; ldCookie=closed; _gat=1; _gat_devTracker=1; AMP_TOKEN=%24NOT_FOUND"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "type=nonvp&data=60738,60103,57492,60551,60850",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/image/client_images_new/iiad20210325205802.png?tr=w-50,h-50,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/image/client_images_new/bml20210330170028.jpg?tr=w-50,h-50,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com//public/image/client_images_new/LPU_728_90(1)20210313153645.png", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/image/608af75322b97fcaa77daeb6fd1e4ed5.png", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com//public/image/client_images_new/728x90202101121533442021020512290620210206134809.jpg", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/image/client_images_new/GDU20210315173849.jpg?tr=w-50,h-50,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.adpushup.com/prebid/pb.1615970786708.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://e3.adpushup.com/AdPushupFeedbackWebService/user/sync", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "ap_uid=e093b390-7b48-11eb-ae86-0022486b9610"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://securepubads.g.doubleclick.net/tag/js/gpt.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://e3.adpushup.com/AdPushupFeedbackWebService/feedback?data=eyJjcmVhdGVkVFMiOjE2MTcyNjU3NTU0MzksInBhY2tldElkIjoiMDAwMDk5NEEtYjk3MDY0YzUtNDVlNS00YTZhLThkODItZDQwZWViOGYzNDAyIiwic2l0ZUlkIjozOTI0Miwic2l0ZURvbWFpbiI6Imh0dHBzOi8vY29sbGVnZWR1bmlhLmNvbS8iLCJ1cmwiOiJodHRwczovL2NvbGxlZ2VkdW5pYS5jb20vY29sbGVnZS8xNTg0NS1oZWMtZ3JvdXAtb2YtaW5zdGl0dXRpb25zLWhlYy1oYXJpZHdhciIsIm1vZGUiOjIsImVycm9yQ29kZSI6NSwicmVmZXJyZXIiOiIiLCJwbGF0Zm9ybSI6IkRFU0tUT1AiLCJpc0dlbmllZSI6ZmFsc2UsInNlY3Rpb25zIjpudWxsfQ==", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "ap_uid=e093b390-7b48-11eb-ae86-0022486b9610"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://e3.adpushup.com/AdPushupFeedbackWebService/feedback?data=eyJjcmVhdGVkVFMiOjE2MTcyNjU3NTU0NTUsInBhY2tldElkIjoiMDAwMDk5NEEtYjk3MDY0YzUtNDVlNS00YTZhLThkODItZDQwZWViOGYzNDAyIiwic2l0ZUlkIjozOTI0Miwic2l0ZURvbWFpbiI6Imh0dHBzOi8vY29sbGVnZWR1bmlhLmNvbS8iLCJ1cmwiOiJodHRwczovL2NvbGxlZ2VkdW5pYS5jb20vY29sbGVnZS8xNTg0NS1oZWMtZ3JvdXAtb2YtaW5zdGl0dXRpb25zLWhlYy1oYXJpZHdhciIsIm1vZGUiOjEsImVycm9yQ29kZSI6MSwicmVmZXJyZXIiOiIiLCJwbGF0Zm9ybSI6IkRFU0tUT1AiLCJpc0dlbmllZSI6ZmFsc2UsInNlY3Rpb25zIjpbeyJzZWN0aW9uSWQiOiIzZGJlODY0ZS0wYmI0LTRlMzctYTNkNy1kYmQ4ZmE2ZTQ4MzAiLCJzZWN0aW9uTmFtZSI6IkFQX1RfRF83MjhYOTBfM2RiZTgiLCJzdGF0dXMiOjEsIm5ldHdvcmsiOiJhZHBUYWdzIiwibmV0d29ya0FkVW5pdElkIjoiQURQXzM5MjQyXzcyOFg5MF8zZGJlODY0ZS0wYmI0LTRlMzctYTNkNy1kYmQ4ZmE2ZTQ4MzAiLCJzZXJ2aWNlcyI6WzIsM10sImFkVW5pdFR5cGUiOjF9XX0=", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "ap_uid=e093b390-7b48-11eb-ae86-0022486b9610"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20210401", {
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://gum.criteo.com/sid/json?origin=prebid&topUrl=https%3A%2F%2Fcollegedunia.com%2F&domain=collegedunia.com&cw=1", {
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ib.adnxs.com/ut/v3/prebid", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYASADKAMwi4CWgwY4AUADSAMQi4CWgwYYAg..; anj=dTM7k!M40F@iWigoZC^c<YAQyh0=bL]JdXaNEwTxuZ(W:p^97997zZN0#2XTijhba.YPd5<L->7YtAb4Yp'%Mj/mJe7IQ/mB#%p7(X+@d(#r`#PGb/?o>0e>cYv/Gu3qc-amo9RWKl3GhP6o3J6az[V6)`(hhHOa)bMA5hNM^!.9m_HpXDVYBru7Z?jf)UmgD=xAj7%rAb7+4Y2[pPbDn=]U)7]wbtMzmj.cPASCZR#SAvYG$(!iQ2GQFrnRgzlgw5'0B4N%vjWYASka9aiY_//Ql>TjVf7>?EPiG9t%GK9z+?/[Jcr+(NgIDr0/!i2I$Dn=^nj[_44rJkk)`tI48Yup%OE!mm2a[[7A!c=t0tHq28UXr(u$D'L+cp.>L8]VTHgv!1o7Ft2h>/OI.0WYWK?pvtfr6.ZQM]h9ET43h21#/o<C0EoQ/NvM[sP>hQVc[-<PTB`t:TSSYOH:a]dsNljQS`9i(.kV3q-fAS]$n6nKax=HH1zmqxgr#N4^^5ienC.Yf3Fn(G288S#^zDn26qPE+b!Xm?+jcR<W:*AL!l1SG=Mi(CDI).XFvXSBzEAZG!ei(e0:s>Df:mnrzo[+eAf>HP<fk15!:]b)C?hbKlRp2JQc3sWKOoAncsItS`d4O.eL@Z%8$5Cz*JSX0T=`%muQ%HyhT$3upb_T<w'?(p:r5q-gKNImOJ>9v+no0)wG7.M)-kHAP``*G@V1$jS':2dP#su[J.OeMpRDZWj)QFjJ@cjmTUuVMh1N$qxFs`tLE7'6%bR_5hbvIV!%i7@'B71t8SE19T$^K@33g_'/k@JK26C_v[*B]d^/m+x5xp7UisrK>w?u?lP#]^`zSMZ_]:Z/R5+#UrFp>[6ZHBQ'ow]T'*W8MCdss@AyD+Z#0):@*u=v9_K+2H_D@-e9es)qGxHyO>og2#CIpN_qoBlEL:UW4%NETXQ'Zr]^`*2Bj:?W(RBKo1zc*UjS>^#uoa#v1rE+v#m7Keb.zQyV8cR'gP]Rhd*d`f>gOZDG8RD2+JAi450vjmPhckg48.OVDgOfE-_-KMeQ`7]8:q/=#bat=trD)IQQ_*jCDijoiolTadXU!g'[z@=?%c2G.#_nCAhds.2Ah59O3HQsPjxk[g^@t_C`W<OIKg(0]v5%*umr'+Th=r'ZBuX1@B?Sd:##$KEiGtja?(WM5wS=!I'Hx%983Q*9_U2K)Cw9q>^=:q3sJu5/dU4P7wV+0KX)=rPA=JeSm!(q_c%<=Uq8PEI-6BUjbsfh07w>?kbwzEtt7X[?)'djSa2VxJ6enQ.L%hP2kHJEKH)fKd1lZ(Uj8ogUxNLSAq-2L^>]KA%@wG0aBJ>iKIrJ+X2N)GpGs$I?bE-I$2$opCnl[^DVw<.ZN`T(^#h6r0gQ>^h)R3EPd.E1FltA-R8C$q%-/ko*U2lH'V4Pi7F$DSp%qrz'=BBFguiHkeHt_3WdiDK/xM^e=WT9pVX-WN=yO]?+X(t3hH!8Jfnm!(A#yQJ5B<Ce8(yBu]!5lTC9kf%JwFU]XMPNi:CQ-aU#P91>$!-Y:B70:TGyWZK[7Nzn_b.7Z%HUnQJM.WdC>m0U</^O]V!L2)F(F5Zh]QvSWxl#V9qH:Li30e?/cm!Qn/+a<nz5jHGt!T>TwtjoVLDQVZRWwZNie>iyR2+E2S6-k39.I_g1Qa:'/l410wRhEDEKD<'eki5@Ik4x'qAPv!y2E1Uo[7[nqOPFt.MFpdmu4*OS!yfil*pwnBb`/KkIPC#r+K<2#8#c@7zxqcD5w07B9UQ:k_u#sQj.#AuOI!.PN=hh0'T3i`:Z!z%)QEedMQoofh7/zXo/[LeragL^s7o=K4$f>#bbX-(8_%_VsB]<phzi]a/`@f<f6B_h_M0IdfnTJ/-w>e$jABJ-t/q<7%'6Hh[gdiBSlf>dRnBPJGfSxWq*:UUWk5<r<icL*<ZdAdJ_AA2yQmME0rvw@-.#meX!WXHaFC+JsV8.mA)<[]!BX?a$DlB*DhY6(:g=>Lp1eUOPwM7[pUE:+Pw!#qKTck4Y[0JaqkBBX73k/@V%Wrq_6np8_!L'M-+r`QpAYuLmMfvU(Y@/CGC*8KX+13#v-e8GURRp5Lld(1>m+q-T!OA-1qK]m8Jdh4uN)mbc.QA6`?2IYCKs1Z011)$/d?`F.N?$aA2s@Q`5#?M9cW+iZo]RPDuJfcP([T7`aVVQDu='3^)g(y_>CU-g`6oz7AdLWTGNWS+HCI)wC*4o[DDGVVZ+K>q.Xnz5c`ghe`(tJl%2LvbrWmfvQM=HIcl1#F@D8g1SBzL?Fv9S3yjP[PDY1Rit53%Sv)tHm9JVUIJWdDM/Mmk7CflX%e2?oeQ6OG-3]JapZeVB/xNoSttWFr9[9FvuBg#@pc0sB8eg?CeL`>bX56quGaW`[r%ZmCQm*5_XAU_`.M!(6yH[[s1a^1^Xf4v5(jUTB*Z/23OSECMY5ccG[X$(xCcmzJNtg'Gmc)'<(lgBe6poQ7.BS-[-WlZ)l4O1v-T5c$hG9W!AeoFkQuHTDo]!/OkXv9:RKJa3+]wgX3Ia%uBIbcpN6igN=.q8!wR9duht^MU0t`$)y16b2!M1QlE<:7prk7C'2''[.x?5G4l4Mplc`ei=m%T^dC9*1X#!EiYTPG(izec6k*'['Iqv'=]4=am9>*'sTBqPsv%]X20hV_LgIC<2:O.un@-5W*vMU$n^D[T=H$d$ze$-YO3q%oBiBpck4B-S^O_MdGUs(<md*s+CarmZ/!Vd+E>DEwq^sycf1jLRB/>1SGhyNug9H+dpblhVqGQ*BD!i!ioZop(Zh0tos>1A4I8r0DDqVG@<td*rBloVcEfCEP][aA=#]WruNFT)521HI<V*rmg/7VGcuvuQiygHsqD4don6w>*^HO41ECRU5c`XAVX9n$3moXG)5N?K?n<.0ti3Jb=S-OVa5$_([AfY#:3)q/'C-WMudtv^`Wk`PzT:ucmLKb/3mk:k*Vlwc>:ceNa-vz9nmVR4+pp6o6lo@s.sK+Py$JK0OV#->LpKTGg_0=n[S2e$?E6T(2b-Hbi*iA)>ujkgqXn!AnK7[@R?H9ngEs]dauq+d2oItZi0U^KLwUia^*l-mI+<.d=HWoy)lYybRt@9j5N.#O'@ssv%85N!.1[eunR6lVBu$6DKE_OpdwZ?6kRlATaKpEe=ESD=6X.Sl0'(V=Ze]5V`LmzSZ%+?uHhet*I@g:4jn?<rng3M<Uk[SU[_Q1xPgMn+WZ?#-GE3*6%Yv[0uI2r+O5o7$(UQcV@kX#VY=F'g/hmqY6HeVi-riZGrs)2W<bkT5!x%#6awR^lRonghRdI:f(kh1=qunnUa7ASXyf:Io*j*ODZX*Gxwr#A*0rx7KXppWwHD.Rk.Wvqq$fCBoi9$P]tKS.hH3#4]ymSSQsaAQ]j'cf![g1FHZ+?TBm@F8l'='[Z:s*8H4W=(8g+wutNbQ$p:CjGQ./5GwT9QsR-lgjZ_sS]pXYPFFhpTB1-UCngNX#gD>rzu[P"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"tags\":[{\"sizes\":[{\"width\":728,\"height\":90},{\"width\":690,\"height\":90},{\"width\":675,\"height\":90},{\"width\":670,\"height\":90},{\"width\":650,\"height\":90},{\"width\":630,\"height\":90},{\"width\":600,\"height\":90},{\"width\":580,\"height\":90},{\"width\":570,\"height\":90},{\"width\":468,\"height\":60},{\"width\":320,\"height\":50},{\"width\":300,\"height\":50},{\"width\":300,\"height\":75}],\"primary_size\":{\"width\":728,\"height\":90},\"ad_types\":[\"native\",\"video\",\"banner\"],\"uuid\":\"2f94437925110f\",\"id\":17933879,\"allow_smaller_sizes\":true,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"native\":{\"layouts\":[{\"title\":{\"required\":true,\"sendId\":true,\"len\":100},\"description\":{\"required\":true,\"sendId\":true},\"main_image\":{\"required\":true,\"sendId\":true},\"clickUrl\":{\"required\":true,\"sendId\":true}}]},\"hb_source\":1,\"video\":{\"custom_renderer_present\":true}}],\"user\":{},\"sdk\":{\"source\":\"pbjs\",\"version\":\"3.16.0-pre\"},\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]},\"referrer_detection\":{\"rd_ref\":\"https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar\",\"rd_top\":true,\"rd_ifs\":0,\"rd_stk\":\"https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar\"}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://as-sec.casalemedia.com/cygnus?s=400945&v=7.2&r={%22id%22:%2238af51a938e6c5%22,%22imp%22:[{%22id%22:%224f3b1f70001c7f%22,%22ext%22:{%22siteID%22:%22400945%22,%22sid%22:%22728x90%22},%22banner%22:{%22w%22:728,%22h%22:90,%22topframe%22:1}}],%22site%22:{%22page%22:%22https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar%22},%22ext%22:{%22source%22:%22prebid%22},%22source%22:{%22ext%22:{%22schain%22:{%22ver%22:%221.0%22,%22complete%22:1,%22nodes%22:[{%22asi%22:%22adpushup.com%22,%22sid%22:%22005b7cbb08c14ec1b96b9ad83665cc3c%22,%22hp%22:1}]}}}}&ac=j&sd=1", {
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://as-sec.casalemedia.com/cygnus?s=400945&v=8.1&r={%22id%22:%2238af51a938e6c5%22,%22imp%22:[{%22id%22:%224f3b1f70001c7f%22,%22ext%22:{%22siteID%22:%22400945%22,%22sid%22:%22728x90%22},%22video%22:{%22mimes%22:[%22video/mp4%22,%22video/webm%22],%22minduration%22:0,%22maxduration%22:300,%22protocols%22:[2,3,5,6],%22w%22:728,%22h%22:90,%22placement%22:4}}],%22site%22:{%22page%22:%22https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar%22},%22ext%22:{%22source%22:%22prebid%22},%22source%22:{%22ext%22:{%22schain%22:{%22ver%22:%221.0%22,%22complete%22:1,%22nodes%22:[{%22asi%22:%22adpushup.com%22,%22sid%22:%22005b7cbb08c14ec1b96b9ad83665cc3c%22,%22hp%22:1}]}}}}&ac=j&sd=1&nf=1", {
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ap.lijit.com/rtb/bid?src=prebid_prebid_3.16.0-pre", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "ljt_reader=3db1f03ef19416522f25cd53; ctag=513:1616531330|577:1616531330|386:1619036930|514:1619036930|579:1616531330|261:1617654530|581:1616531330|583:1616531330|521:1619036930|585:1616531330|524:1616531330|588:1619036930|463:1616531330|495:1616531330|560:1619036930|562:1619036930|564:1616531330|253:1617654530|318:1616531330|542:1617654530; ljtrtb=eJyVUsluXDcQ%2FJc5uwH2QnbTtzdPG2zJksaCZZ8Mko%2BElySK5TE8cJB%2FDzvnXHJtFqurquuvXUq7l7uYOKZoUSTm3Ysd8Zyty%2Fnb8%2F2rt58O4fj4x%2FX7cn45bq5u7sevn3CzPKxXExhDwAlVK23YVkY13vI2Ygpdq3KnLtyjOKWvoapKowhkbA2kJ4Wy9Q7YchSzzSKrY9Ul2dhC2BpoHRuI4oDcGkFKkUvKnUxsYiVPLD%2Bf3X5%2Bfn35QOuHOVPXhHtajCRA2MsFSEYE4wUhk17sLy72q%2BgysRgcmzVKQo2ZkmkkJJehLnng3FV0QLUUIWhECNjHJJSRNq1bDew0NLEW4wxEA6Fh1EwYXGF0msN7kJRmulUg4SYgW1bIsUxOHGkE00SUIQQPi%2F1L%2BUiMvaNmwNrmRnYLaRtglJlUrFJJvsD%2Bh11nDla1JFIYbfDkHRlK73Vqoly2mLnOE6XAHSORO%2B3%2Bc34UZpa5WcNclf0C6OeaL8t5iEJnS6awCqfFMoZ0xlPpwmgc3ZSr1FqdGDDiLMAIAQrPDKhjGiIoLY4JNT%2FK6%2BvDu%2BuDClzCauRGjf97LHPcXlqkUksYm9SglnLjUltixYIio%2FlFLbrUZaH7r7qM9WlZ9teRH8txvffXf7P5vX07nb6%2Fe%2FP02G6Ph%2Bf2dFu9Zm4yC%2FIsySwiFvN7ZKhVBDClinU08rfjj3ZU1lxKcE6vcmqpztgazAIUEBuz9gMjdNaQ0H0X8h1u73T1292dvbGHx7vRT%2Fnbaf10%2BPDndrr69WXMuD5%2B5eflp2HZ%2Ff0PQeHoCQ%3D%3D; ljtrtbexp=eJxdULsRQzEI28W1C%2F7grJbL7nH84gJVnIRAgvfg8eLgVCtnnUMOLFV3XnNEPG1LIoo5tLeTO3aiu49SZDNMXbHW8sNEMO2yFWCZf8twTbIzkY%2FCkvOXcTPVmQIXjo4LcpcBdsAwLwp%2BCf24V7ueL2a%2FQWGfQR5b8EfQe8F9dBMpVah8vpI6WUk%3D; _ljtrtb_1=4333427470824928481; _ljtrtb_26=2b772fa4-91cc-4e67-adee-1c95488d8537"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"id\":\"33d07de1cb8a316\",\"imp\":[{\"id\":\"6020ca06a226b5\",\"banner\":{\"format\":[{\"w\":728,\"h\":90},{\"w\":690,\"h\":90},{\"w\":675,\"h\":90},{\"w\":670,\"h\":90},{\"w\":650,\"h\":90},{\"w\":630,\"h\":90},{\"w\":600,\"h\":90},{\"w\":580,\"h\":90},{\"w\":570,\"h\":90},{\"w\":468,\"h\":60},{\"w\":320,\"h\":50},{\"w\":300,\"h\":50},{\"w\":300,\"h\":75}],\"w\":1,\"h\":1},\"tagid\":\"660348\",\"bidfloor\":\"\"},{\"id\":\"72956e3dfecb33\",\"banner\":{\"format\":[{\"w\":728,\"h\":90},{\"w\":690,\"h\":90},{\"w\":675,\"h\":90},{\"w\":670,\"h\":90},{\"w\":650,\"h\":90},{\"w\":630,\"h\":90},{\"w\":600,\"h\":90},{\"w\":580,\"h\":90},{\"w\":570,\"h\":90},{\"w\":468,\"h\":60},{\"w\":320,\"h\":50},{\"w\":300,\"h\":50},{\"w\":300,\"h\":75}],\"w\":1,\"h\":1},\"tagid\":\"660353\",\"bidfloor\":\"\"}],\"site\":{\"page\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\",\"domain\":\"collegedunia.com\"},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]}}}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://onetag-sys.com/prebid-request", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "OTP=G566XC47SvmUffTbXRliSoiVcBbrW4uc65v2e4hFeD4"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"bids\":[{\"adUnitCode\":\"ADP_39242_728x90_00000001-ba3e84b6-453f-4fd4-9433-6ba7d0034312\",\"bidId\":\"965cd5a3a06cec\",\"bidderRequestId\":\"85198e2f58569c\",\"auctionId\":\"9b51564c-6a82-4e1d-bb50-c64dc85c03b6\",\"transactionId\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"pubId\":\"62f40acb3086a26\",\"ext\":{\"unit\":\"AP/39242_collegedunia.com\"},\"coords\":{\"top\":3075.3125,\"left\":76,\"width\":728,\"height\":0},\"context\":\"outstream\",\"mimes\":[\"video/mp4\",\"video/webm\"],\"playerSize\":[{\"width\":728,\"height\":90}],\"protocols\":[2,3,5,6],\"maxDuration\":300,\"api\":[2],\"type\":\"video\"},{\"adUnitCode\":\"ADP_39242_728x90_00000001-ba3e84b6-453f-4fd4-9433-6ba7d0034312\",\"bidId\":\"965cd5a3a06cec\",\"bidderRequestId\":\"85198e2f58569c\",\"auctionId\":\"9b51564c-6a82-4e1d-bb50-c64dc85c03b6\",\"transactionId\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"pubId\":\"62f40acb3086a26\",\"ext\":{\"unit\":\"AP/39242_collegedunia.com\"},\"coords\":{\"top\":3075.3125,\"left\":76,\"width\":728,\"height\":0},\"sizes\":[{\"width\":728,\"height\":90},{\"width\":690,\"height\":90},{\"width\":675,\"height\":90},{\"width\":670,\"height\":90},{\"width\":650,\"height\":90},{\"width\":630,\"height\":90},{\"width\":600,\"height\":90},{\"width\":580,\"height\":90},{\"width\":570,\"height\":90},{\"width\":468,\"height\":60},{\"width\":320,\"height\":50},{\"width\":300,\"height\":50},{\"width\":300,\"height\":75}],\"type\":\"banner\"}],\"location\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\",\"referrer\":null,\"masked\":0,\"wWidth\":625,\"wHeight\":891,\"oWidth\":1855,\"oHeight\":1056,\"sWidth\":1920,\"sHeight\":1080,\"aWidth\":1855,\"aHeight\":1056,\"sLeft\":65,\"sTop\":24,\"xOffset\":0,\"yOffset\":0,\"docHidden\":false,\"docHeight\":10064,\"hLength\":1,\"timing\":{\"pageLoadTime\":801,\"connectTime\":192,\"renderTime\":664},\"version\":{\"prebid\":\"3.16.0-pre\",\"adapter\":\"1.0.0\"},\"onetagSid\":null}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://gum.criteo.com/syncframe?topUrl=collegedunia.com", {
+  "headers": {
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://bidder.criteo.com/cdb?ptv=106&profileId=185&av=27&wv=3.16.0-pre&cb=76290101263", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uid=13a1392f-b7ea-4dea-86a9-8ab66c733181; uid3pd=a1a04811-f888-4f02-8ddc-6d46accee2a7"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"publisher\":{\"url\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\"},\"slots\":[{\"slotid\":\"121ddf9d00094a7a898b561c65061551\",\"impid\":\"ADP_39242_728x90_00000001-ba3e84b6-453f-4fd4-9433-6ba7d0034312\",\"zoneid\":1419037,\"transactionid\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"publishersubid\":\"AP/39242_collegedunia.com\",\"sizes\":[\"728x90\",\"690x90\",\"675x90\",\"670x90\",\"650x90\",\"630x90\",\"600x90\",\"580x90\",\"570x90\",\"468x60\",\"320x50\",\"300x50\",\"300x75\"],\"video\":{\"playersizes\":[\"728x90\"],\"mimes\":[\"video/mp4\",\"video/webm\"],\"protocols\":[2,3,5,6],\"maxduration\":300,\"api\":[2],\"skip\":1,\"placement\":2,\"playbackmethod\":6,\"minduration\":0},\"position\":{\"top\":3075.3125,\"left\":76}}],\"user\":{\"ext\":{\"data\":{\"contentLanguage\":\"en\",\"navigatorLanguage\":\"en-GB\",\"orientation\":\"landscape-primary\",\"windowInnerWidth\":625,\"windowInnerHeight\":891,\"pageWidth\":988,\"pageHeight\":10064,\"sessionDuration\":7146.670000000086},\"device\":{\"w\":1920,\"h\":1080}}},\"gdprConsent\":{},\"viewport\":{\"width\":625,\"height\":891,\"scrollTop\":0,\"scrollLeft\":0},\"tmax\":502,\"auctionStart\":1617265755581,\"id\":\"babab886-42d2-4fa0-906d-cb2f664673ad\",\"eids\":[{\"source\":\"adserver.org\",\"uids\":[{\"id\":\"58fd00dc-7bfd-471f-9cc2-6653a69e2848\",\"atype\":1,\"ext\":{\"rtiPartner\":\"TDID\"}}]}]}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://hb-api.omnitagjs.com/hb-api/prebid/v1?RefererUrl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&CanonicalUrl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar", {
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"Version\":\"1.0\",\"Bids\":{\"133988cd16f261a\":{\"PlacementID\":\"ca5cebd1fd2b54923edc1199d2083dfb\",\"TransactionID\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"Width\":728,\"Height\":90,\"AvailableSizes\":\"728x90,690x90,675x90,670x90,650x90,630x90,600x90,580x90,570x90,468x60,320x50,300x50,300x75\"},\"14a422df4060e4d\":{\"PlacementID\":\"902c18640a000e782e197a30f719b818\",\"TransactionID\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"Width\":728,\"Height\":90,\"AvailableSizes\":\"728x90,690x90,675x90,670x90,650x90,630x90,600x90,580x90,570x90,468x60,320x50,300x50,300x75\"}},\"PageRefreshed\":true}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://adpushup-d.openx.net/w/1.0/arj?ju=https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar&ch=UTF-8&res=1920x1080x24&ifr=false&tz=-330&tws=625x891&be=1&bc=hb_pb_3.0.2&dddid=4afdcc15-23cc-4c7a-be2c-e9016df8b0b4&nocache=1617265755685&ttduuid=58fd00dc-7bfd-471f-9cc2-6653a69e2848&schain=1.0,1!adpushup.com,005b7cbb08c14ec1b96b9ad83665cc3c,1,,,&aus=728x90,690x90,675x90,670x90,650x90,630x90,600x90,580x90,570x90,468x60,320x50,300x50,300x75&divIds=ADP_39242_728x90_00000001-ba3e84b6-453f-4fd4-9433-6ba7d0034312&auid=541119403", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "i=4e2b0be6-fb56-02ab-1c85-370171edd7ac|1614683850; univ_id=537072971|58fd00dc-7bfd-471f-9cc2-6653a69e2848|1617048271827795; pd=v2|1617048271.633.1380.48495.252.4|lYvOiajEiuhI.uIjIvGlQkalU.vysnrAkqvHsP.kSpMvAtSvxtd.vvvCvzvwuDvX.vFv6vquQve"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://dmx.districtm.io/b/v1", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"id\":\"b2d95448-5eb8-41e4-918e-0211b5a48b42\",\"cur\":[\"USD\"],\"tmax\":2700,\"site\":{\"publisher\":{\"id\":\"101642\"}},\"regs\":{\"coppa\":0},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]}}},\"imp\":[{\"id\":\"18ac6f844e1c8dd\",\"tagid\":\"465384\",\"secure\":1,\"banner\":{\"topframe\":1,\"w\":728,\"h\":90,\"format\":[{\"w\":728,\"h\":90},{\"w\":320,\"h\":50},{\"w\":300,\"h\":50},{\"w\":690,\"h\":90},{\"w\":675,\"h\":90},{\"w\":670,\"h\":90},{\"w\":650,\"h\":90},{\"w\":630,\"h\":90},{\"w\":600,\"h\":90},{\"w\":580,\"h\":90},{\"w\":570,\"h\":90},{\"w\":468,\"h\":60},{\"w\":300,\"h\":75}]}}]}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prebid.a-mo.net/a/c", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "amuid2=97b13554-cc5e-4076-8365-9f2446798947; __amc=209_1615189653_1617262109"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"a\":\"9b51564c-6a82-4e1d-bb50-c64dc85c03b6\",\"B\":0,\"b\":\"collegedunia.com\",\"brc\":1,\"bwc\":0,\"trc\":1,\"tm\":0,\"V\":\"3.16.0-pre\",\"i\":\"Y29sbGVnZWR1bmlhLmNvbQ\",\"l\":{},\"f\":0.01,\"cv\":\"pba1.2\",\"st\":\"prebid\",\"h\":1080,\"w\":1920,\"gs\":\"\",\"gc\":\"\",\"u\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\",\"do\":\"collegedunia.com\",\"re\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\",\"am\":\"97b13554-cc5e-4076-8365-9f2446798947\",\"usp\":\"1---\",\"smt\":1,\"d\":\"\",\"m\":{\"20fd2b33e6b4dde\":{\"au\":\"ADP_39242_728x90_00000001-ba3e84b6-453f-4fd4-9433-6ba7d0034312\",\"av\":true,\"vr\":true,\"ms\":[[[728,90],[690,90],[675,90],[670,90],[650,90],[630,90],[600,90],[580,90],[570,90],[468,60],[320,50],[300,50],[300,75]],[[728,90],[690,90],[675,90],[670,90],[650,90],[630,90],[600,90],[580,90],[570,90],[468,60],[320,50],[300,50],[300,75]],[]],\"aw\":728,\"ah\":90,\"tf\":0}},\"cpp\":0,\"eids\":[{\"source\":\"adserver.org\",\"uids\":[{\"id\":\"58fd00dc-7bfd-471f-9cc2-6653a69e2848\",\"atype\":1,\"ext\":{\"rtiPartner\":\"TDID\"}}]}]}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://search.spotxchange.com/openrtb/2.3/dados/306505", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "audience=ec63c1a8-7d06-11eb-bece-1f8227252207"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"id\":\"306505\",\"imp\":{\"id\":\"22ce852cc591ee1\",\"secure\":true,\"video\":{\"w\":728,\"h\":90,\"ext\":{\"sdk_name\":\"Prebid 1+\",\"versionOrtb\":\"2.3\",\"ad_unit\":\"outstream\"},\"mimes\":[\"application/javascript\",\"video/mp4\",\"video/webm\"]}},\"site\":{\"id\":\"\",\"page\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\",\"content\":\"content\"},\"device\":{\"h\":1080,\"w\":1920,\"dnt\":0,\"language\":\"en\",\"make\":\"Google Inc.\",\"ua\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36\"},\"ext\":{\"wrap_response\":1},\"source\":{\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]}}},\"user\":{\"ext\":{\"eids\":[{\"source\":\"adserver.org\",\"uids\":[{\"id\":\"58fd00dc-7bfd-471f-9cc2-6653a69e2848\",\"ext\":{\"rtiPartner\":\"TDID\"}}]}]}}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prebid-server.rubiconproject.com/openrtb2/auction", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "khaos=KLRVLR74-G-C826; ses2=; vis2=275620^1; audit=1|anjDyccnMe00+TTPqxBrLfgTckRMr1jlv609/5ynjjvFBPMb4x4p/d+BXlNM6G78Q/+xfYn/bs8LsCAooFNElo05i4xsibNS/Euen2AfxYYwO0SzfLA0hC5CKjgN0siQTc5gaaihuXs="
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"id\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"test\":0,\"cur\":[\"USD\"],\"source\":{\"tid\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]}}},\"tmax\":1000,\"imp\":[{\"exp\":300,\"id\":\"ADP_39242_728x90_00000001-ba3e84b6-453f-4fd4-9433-6ba7d0034312\",\"secure\":1,\"ext\":{\"rubicon\":{\"video\":{\"size_id\":203},\"accountId\":20616,\"siteId\":275620,\"zoneId\":1377702,\"floor\":null}},\"video\":{\"context\":\"outstream\",\"playerSize\":[[728,90]],\"mimes\":[\"video/mp4\",\"video/webm\"],\"protocols\":[2,3,5,6],\"api\":[2],\"maxduration\":300,\"linearity\":1,\"w\":728,\"h\":90}}],\"ext\":{\"prebid\":{\"cache\":{\"vastxml\":{\"returnCreative\":false}},\"targeting\":{\"includewinners\":true,\"includebidderkeys\":false,\"pricegranularity\":{\"ranges\":[{\"max\":3,\"increment\":0.01},{\"min\":3,\"max\":8,\"increment\":0.05},{\"min\":8,\"max\":20,\"increment\":0.5}]}}}},\"site\":{\"page\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\"},\"user\":{\"ext\":{\"eids\":[{\"source\":\"adserver.org\",\"uids\":[{\"id\":\"58fd00dc-7bfd-471f-9cc2-6653a69e2848\",\"ext\":{\"rtiPartner\":\"TDID\"}}]}]}}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=20616&site_id=275620&zone_id=1377702&size_id=2&alt_size_ids=1%2C43%2C44&rp_schain=1.0,1!adpushup.com,005b7cbb08c14ec1b96b9ad83665cc3c,1,,,&tpid_tdid=58fd00dc-7bfd-471f-9cc2-6653a69e2848&rf=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&tk_flint=pbjs_lite_v3.16.0-pre&x_source.tid=4afdcc15-23cc-4c7a-be2c-e9016df8b0b4&p_screen_res=1920x1080&rp_floor=0.01&rp_secure=1&slots=1&rand=0.9086146635258039", {
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ib.adnxs.com/ut/v3/prebid", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYASADKAMwi4CWgwY4AUADSAMQi4CWgwYYAg..; anj=dTM7k!M40F@iWigoZC^c<YAQyh0=bL]JdXaNEwTxuZ(W:p^97997zZN0#2XTijhba.YPd5<L->7YtAb4Yp'%Mj/mJe7IQ/mB#%p7(X+@d(#r`#PGb/?o>0e>cYv/Gu3qc-amo9RWKl3GhP6o3J6az[V6)`(hhHOa)bMA5hNM^!.9m_HpXDVYBru7Z?jf)UmgD=xAj7%rAb7+4Y2[pPbDn=]U)7]wbtMzmj.cPASCZR#SAvYG$(!iQ2GQFrnRgzlgw5'0B4N%vjWYASka9aiY_//Ql>TjVf7>?EPiG9t%GK9z+?/[Jcr+(NgIDr0/!i2I$Dn=^nj[_44rJkk)`tI48Yup%OE!mm2a[[7A!c=t0tHq28UXr(u$D'L+cp.>L8]VTHgv!1o7Ft2h>/OI.0WYWK?pvtfr6.ZQM]h9ET43h21#/o<C0EoQ/NvM[sP>hQVc[-<PTB`t:TSSYOH:a]dsNljQS`9i(.kV3q-fAS]$n6nKax=HH1zmqxgr#N4^^5ienC.Yf3Fn(G288S#^zDn26qPE+b!Xm?+jcR<W:*AL!l1SG=Mi(CDI).XFvXSBzEAZG!ei(e0:s>Df:mnrzo[+eAf>HP<fk15!:]b)C?hbKlRp2JQc3sWKOoAncsItS`d4O.eL@Z%8$5Cz*JSX0T=`%muQ%HyhT$3upb_T<w'?(p:r5q-gKNImOJ>9v+no0)wG7.M)-kHAP``*G@V1$jS':2dP#su[J.OeMpRDZWj)QFjJ@cjmTUuVMh1N$qxFs`tLE7'6%bR_5hbvIV!%i7@'B71t8SE19T$^K@33g_'/k@JK26C_v[*B]d^/m+x5xp7UisrK>w?u?lP#]^`zSMZ_]:Z/R5+#UrFp>[6ZHBQ'ow]T'*W8MCdss@AyD+Z#0):@*u=v9_K+2H_D@-e9es)qGxHyO>og2#CIpN_qoBlEL:UW4%NETXQ'Zr]^`*2Bj:?W(RBKo1zc*UjS>^#uoa#v1rE+v#m7Keb.zQyV8cR'gP]Rhd*d`f>gOZDG8RD2+JAi450vjmPhckg48.OVDgOfE-_-KMeQ`7]8:q/=#bat=trD)IQQ_*jCDijoiolTadXU!g'[z@=?%c2G.#_nCAhds.2Ah59O3HQsPjxk[g^@t_C`W<OIKg(0]v5%*umr'+Th=r'ZBuX1@B?Sd:##$KEiGtja?(WM5wS=!I'Hx%983Q*9_U2K)Cw9q>^=:q3sJu5/dU4P7wV+0KX)=rPA=JeSm!(q_c%<=Uq8PEI-6BUjbsfh07w>?kbwzEtt7X[?)'djSa2VxJ6enQ.L%hP2kHJEKH)fKd1lZ(Uj8ogUxNLSAq-2L^>]KA%@wG0aBJ>iKIrJ+X2N)GpGs$I?bE-I$2$opCnl[^DVw<.ZN`T(^#h6r0gQ>^h)R3EPd.E1FltA-R8C$q%-/ko*U2lH'V4Pi7F$DSp%qrz'=BBFguiHkeHt_3WdiDK/xM^e=WT9pVX-WN=yO]?+X(t3hH!8Jfnm!(A#yQJ5B<Ce8(yBu]!5lTC9kf%JwFU]XMPNi:CQ-aU#P91>$!-Y:B70:TGyWZK[7Nzn_b.7Z%HUnQJM.WdC>m0U</^O]V!L2)F(F5Zh]QvSWxl#V9qH:Li30e?/cm!Qn/+a<nz5jHGt!T>TwtjoVLDQVZRWwZNie>iyR2+E2S6-k39.I_g1Qa:'/l410wRhEDEKD<'eki5@Ik4x'qAPv!y2E1Uo[7[nqOPFt.MFpdmu4*OS!yfil*pwnBb`/KkIPC#r+K<2#8#c@7zxqcD5w07B9UQ:k_u#sQj.#AuOI!.PN=hh0'T3i`:Z!z%)QEedMQoofh7/zXo/[LeragL^s7o=K4$f>#bbX-(8_%_VsB]<phzi]a/`@f<f6B_h_M0IdfnTJ/-w>e$jABJ-t/q<7%'6Hh[gdiBSlf>dRnBPJGfSxWq*:UUWk5<r<icL*<ZdAdJ_AA2yQmME0rvw@-.#meX!WXHaFC+JsV8.mA)<[]!BX?a$DlB*DhY6(:g=>Lp1eUOPwM7[pUE:+Pw!#qKTck4Y[0JaqkBBX73k/@V%Wrq_6np8_!L'M-+r`QpAYuLmMfvU(Y@/CGC*8KX+13#v-e8GURRp5Lld(1>m+q-T!OA-1qK]m8Jdh4uN)mbc.QA6`?2IYCKs1Z011)$/d?`F.N?$aA2s@Q`5#?M9cW+iZo]RPDuJfcP([T7`aVVQDu='3^)g(y_>CU-g`6oz7AdLWTGNWS+HCI)wC*4o[DDGVVZ+K>q.Xnz5c`ghe`(tJl%2LvbrWmfvQM=HIcl1#F@D8g1SBzL?Fv9S3yjP[PDY1Rit53%Sv)tHm9JVUIJWdDM/Mmk7CflX%e2?oeQ6OG-3]JapZeVB/xNoSttWFr9[9FvuBg#@pc0sB8eg?CeL`>bX56quGaW`[r%ZmCQm*5_XAU_`.M!(6yH[[s1a^1^Xf4v5(jUTB*Z/23OSECMY5ccG[X$(xCcmzJNtg'Gmc)'<(lgBe6poQ7.BS-[-WlZ)l4O1v-T5c$hG9W!AeoFkQuHTDo]!/OkXv9:RKJa3+]wgX3Ia%uBIbcpN6igN=.q8!wR9duht^MU0t`$)y16b2!M1QlE<:7prk7C'2''[.x?5G4l4Mplc`ei=m%T^dC9*1X#!EiYTPG(izec6k*'['Iqv'=]4=am9>*'sTBqPsv%]X20hV_LgIC<2:O.un@-5W*vMU$n^D[T=H$d$ze$-YO3q%oBiBpck4B-S^O_MdGUs(<md*s+CarmZ/!Vd+E>DEwq^sycf1jLRB/>1SGhyNug9H+dpblhVqGQ*BD!i!ioZop(Zh0tos>1A4I8r0DDqVG@<td*rBloVcEfCEP][aA=#]WruNFT)521HI<V*rmg/7VGcuvuQiygHsqD4don6w>*^HO41ECRU5c`XAVX9n$3moXG)5N?K?n<.0ti3Jb=S-OVa5$_([AfY#:3)q/'C-WMudtv^`Wk`PzT:ucmLKb/3mk:k*Vlwc>:ceNa-vz9nmVR4+pp6o6lo@s.sK+Py$JK0OV#->LpKTGg_0=n[S2e$?E6T(2b-Hbi*iA)>ujkgqXn!AnK7[@R?H9ngEs]dauq+d2oItZi0U^KLwUia^*l-mI+<.d=HWoy)lYybRt@9j5N.#O'@ssv%85N!.1[eunR6lVBu$6DKE_OpdwZ?6kRlATaKpEe=ESD=6X.Sl0'(V=Ze]5V`LmzSZ%+?uHhet*I@g:4jn?<rng3M<Uk[SU[_Q1xPgMn+WZ?#-GE3*6%Yv[0uI2r+O5o7$(UQcV@kX#VY=F'g/hmqY6HeVi-riZGrs)2W<bkT5!x%#6awR^lRonghRdI:f(kh1=qunnUa7ASXyf:Io*j*ODZX*Gxwr#A*0rx7KXppWwHD.Rk.Wvqq$fCBoi9$P]tKS.hH3#4]ymSSQsaAQ]j'cf![g1FHZ+?TBm@F8l'='[Z:s*8H4W=(8g+wutNbQ$p:CjGQ./5GwT9QsR-lgjZ_sS]pXYPFFhpTB1-UCngNX#gD>rzu[P"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"tags\":[{\"sizes\":[{\"width\":728,\"height\":90},{\"width\":690,\"height\":90},{\"width\":675,\"height\":90},{\"width\":670,\"height\":90},{\"width\":650,\"height\":90},{\"width\":630,\"height\":90},{\"width\":600,\"height\":90},{\"width\":580,\"height\":90},{\"width\":570,\"height\":90},{\"width\":468,\"height\":60},{\"width\":320,\"height\":50},{\"width\":300,\"height\":50},{\"width\":300,\"height\":75}],\"primary_size\":{\"width\":728,\"height\":90},\"ad_types\":[\"native\",\"video\",\"banner\"],\"uuid\":\"2694604aea05433\",\"id\":16533433,\"allow_smaller_sizes\":true,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"native\":{\"layouts\":[{\"title\":{\"required\":true,\"sendId\":true,\"len\":100},\"description\":{\"required\":true,\"sendId\":true},\"main_image\":{\"required\":true,\"sendId\":true},\"clickUrl\":{\"required\":true,\"sendId\":true}}]},\"hb_source\":1,\"video\":{\"custom_renderer_present\":true}}],\"user\":{},\"sdk\":{\"source\":\"pbjs\",\"version\":\"3.16.0-pre\"},\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]},\"referrer_detection\":{\"rd_ref\":\"https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar\",\"rd_top\":true,\"rd_ifs\":0,\"rd_stk\":\"https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar\"}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://hbopenbid.pubmatic.com/translator?source=prebid-client", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "KTPCACOOKIE=YES; KADUSERCOOKIE=1B2A8240-0B4F-4911-83A1-927FBFFBC47A; KRTBCOOKIE_904=16787-WDbSZMV3CtSIsNqnGxU-YA&KRTB&23130-WDbSZMV3CtSIsNqnGxU-YA; KRTBCOOKIE_1159=23138-301526212599494ca7cc28ae6a03c274; KRTBCOOKIE_1074=22956-a_231ee179-1bcf-4311-86df-82932748b2a6; KRTBCOOKIE_699=22727-AAA2Qk7AfCoAABL53WatCQ; KRTBCOOKIE_1235=23226-9413175f-91a8-4319-bb44-166b1bfc275f-tuct7379aa0:$UID; PUBMDCID=4; KRTBCOOKIE_466=16530-2b772fa4-91cc-4e67-adee-1c95488d8537; KRTBCOOKIE_22=14911-4333427470824928481; KRTBCOOKIE_32=11175-AQEIxvg4gDyMbwJRCD37AQEBAQE&KRTB&22713-AQEIxvg4gDyMbwJRCD37AQEBAQE&KRTB&22714-AQEIxvg4gDyMbwJRCD37AQEBAQE&KRTB&22715-AQEIxvg4gDyMbwJRCD37AQEBAQE; KRTBCOOKIE_1051=22884-18072662211247065590; KRTBCOOKIE_153=19420-AAmpxgcMq5obC_mTAFi3m1MB-cEbD6vGVwokPhBL&KRTB&22979-AAmpxgcMq5obC_mTAFi3m1MB-cEbD6vGVwokPhBL&KRTB&1923-AAmpxgcMq5obC_mTAFi3m1MB-cEbD6vGVwokPhBL; KRTBCOOKIE_27=16735-uid:17bb603e-151c-4f00-a3a5-2e16f4414c5f&KRTB&16736-uid:17bb603e-151c-4f00-a3a5-2e16f4414c5f&KRTB&23019-uid:17bb603e-151c-4f00-a3a5-2e16f4414c5f&KRTB&23114-uid:17bb603e-151c-4f00-a3a5-2e16f4414c5f; KRTBCOOKIE_377=6810-58fd00dc-7bfd-471f-9cc2-6653a69e2848&KRTB&22918-58fd00dc-7bfd-471f-9cc2-6653a69e2848&KRTB&23031-58fd00dc-7bfd-471f-9cc2-6653a69e2848; KRTBCOOKIE_391=22924-4255622000226561144&KRTB&23263-4255622000226561144; KRTBCOOKIE_57=22776-8555007021815792108; KRTBCOOKIE_107=1471-uid:wF1G0jOd1Lh2nT5; KRTBCOOKIE_80=16514-CAESEEtbBaMX_MTOheUVEg7itf8&KRTB&22987-CAESEEtbBaMX_MTOheUVEg7itf8&KRTB&23025-CAESEEtbBaMX_MTOheUVEg7itf8; KRTBCOOKIE_218=22978-YFn@IgAABPpYShTD&KRTB&23194-YFn@IgAABPpYShTD&KRTB&23209-YFn@IgAABPpYShTD&KRTB&23244-YFn@IgAABPpYShTD; KRTBCOOKIE_594=17105-RX-466459b4-61d4-4d97-95a5-01f6f0876229-004&KRTB&17107-RX-466459b4-61d4-4d97-95a5-01f6f0876229-004; KRTBCOOKIE_10=22808-YTQ4NzQzM2NlYmMzYTRjOTI5NzZjOTAwYTI0MWIwODA&KRTB&22883-YTQ4NzQzM2NlYmMzYTRjOTI5NzZjOTAwYTI0MWIwODA; PugT=1617215100; DPSync3=1618272000%3A226_197_201_200%7C1617408000%3A164%7C1617321600%3A174; SyncRTB3=1617408000%3A15_67_229_223_2%7C1618272000%3A179_96_220_86_3_204_99_5_8_176_71_56_222_78_7_21_13_22_189_107_209_54%7C1619827200%3A69%7C1618099200%3A63%7C1617321600%3A35; SPugT=1617261980; chkChromeAb67Sec=41"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"id\":\"1617265755739\",\"at\":1,\"cur\":[\"USD\"],\"imp\":[{\"id\":\"2837e7d5a0bbce2\",\"tagid\":\"2290167\",\"secure\":1,\"ext\":{},\"bidfloorcur\":\"USD\",\"banner\":{\"w\":728,\"h\":90,\"format\":[{\"w\":690,\"h\":90},{\"w\":675,\"h\":90},{\"w\":670,\"h\":90},{\"w\":650,\"h\":90},{\"w\":630,\"h\":90},{\"w\":600,\"h\":90},{\"w\":580,\"h\":90},{\"w\":570,\"h\":90},{\"w\":468,\"h\":60},{\"w\":320,\"h\":50},{\"w\":300,\"h\":50},{\"w\":300,\"h\":75}],\"pos\":0,\"topframe\":1},\"video\":{\"mimes\":[\"video/mp4\",\"video/webm\"],\"minduration\":0,\"maxduration\":300,\"api\":[2],\"protocols\":[2,3,5,6],\"linearity\":1,\"placement\":2,\"w\":728,\"h\":90,\"ext\":{\"video_skippable\":1}}}],\"site\":{\"page\":\"https://collegedunia.com/college/15845-hec-group-of-institutions-hec-haridwar\",\"ref\":\"\",\"publisher\":{\"id\":\"158261\"},\"domain\":\"collegedunia.com\"},\"device\":{\"ua\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36\",\"js\":1,\"dnt\":0,\"h\":1080,\"w\":1920,\"language\":\"en-GB\",\"geo\":{}},\"user\":{\"geo\":{},\"eids\":[{\"source\":\"adserver.org\",\"uids\":[{\"id\":\"58fd00dc-7bfd-471f-9cc2-6653a69e2848\",\"atype\":1,\"ext\":{\"rtiPartner\":\"TDID\"}}]}]},\"ext\":{\"wrapper\":{\"wv\":\"prebid_prebid_3.16.0-pre\",\"transactionId\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"wp\":\"pbjs\"}},\"source\":{\"tid\":\"4afdcc15-23cc-4c7a-be2c-e9016df8b0b4\",\"ext\":{\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]}}}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://ib.adnxs.com/ut/v3/prebid", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYASADKAMwi4CWgwY4AUADSAMQi4CWgwYYAg..; anj=dTM7k!M40F@iWigoZC^c<YAQyh0=bL]JdXaNEwTxuZ(W:p^97997zZN0#2XTijhba.YPd5<L->7YtAb4Yp'%Mj/mJe7IQ/mB#%p7(X+@d(#r`#PGb/?o>0e>cYv/Gu3qc-amo9RWKl3GhP6o3J6az[V6)`(hhHOa)bMA5hNM^!.9m_HpXDVYBru7Z?jf)UmgD=xAj7%rAb7+4Y2[pPbDn=]U)7]wbtMzmj.cPASCZR#SAvYG$(!iQ2GQFrnRgzlgw5'0B4N%vjWYASka9aiY_//Ql>TjVf7>?EPiG9t%GK9z+?/[Jcr+(NgIDr0/!i2I$Dn=^nj[_44rJkk)`tI48Yup%OE!mm2a[[7A!c=t0tHq28UXr(u$D'L+cp.>L8]VTHgv!1o7Ft2h>/OI.0WYWK?pvtfr6.ZQM]h9ET43h21#/o<C0EoQ/NvM[sP>hQVc[-<PTB`t:TSSYOH:a]dsNljQS`9i(.kV3q-fAS]$n6nKax=HH1zmqxgr#N4^^5ienC.Yf3Fn(G288S#^zDn26qPE+b!Xm?+jcR<W:*AL!l1SG=Mi(CDI).XFvXSBzEAZG!ei(e0:s>Df:mnrzo[+eAf>HP<fk15!:]b)C?hbKlRp2JQc3sWKOoAncsItS`d4O.eL@Z%8$5Cz*JSX0T=`%muQ%HyhT$3upb_T<w'?(p:r5q-gKNImOJ>9v+no0)wG7.M)-kHAP``*G@V1$jS':2dP#su[J.OeMpRDZWj)QFjJ@cjmTUuVMh1N$qxFs`tLE7'6%bR_5hbvIV!%i7@'B71t8SE19T$^K@33g_'/k@JK26C_v[*B]d^/m+x5xp7UisrK>w?u?lP#]^`zSMZ_]:Z/R5+#UrFp>[6ZHBQ'ow]T'*W8MCdss@AyD+Z#0):@*u=v9_K+2H_D@-e9es)qGxHyO>og2#CIpN_qoBlEL:UW4%NETXQ'Zr]^`*2Bj:?W(RBKo1zc*UjS>^#uoa#v1rE+v#m7Keb.zQyV8cR'gP]Rhd*d`f>gOZDG8RD2+JAi450vjmPhckg48.OVDgOfE-_-KMeQ`7]8:q/=#bat=trD)IQQ_*jCDijoiolTadXU!g'[z@=?%c2G.#_nCAhds.2Ah59O3HQsPjxk[g^@t_C`W<OIKg(0]v5%*umr'+Th=r'ZBuX1@B?Sd:##$KEiGtja?(WM5wS=!I'Hx%983Q*9_U2K)Cw9q>^=:q3sJu5/dU4P7wV+0KX)=rPA=JeSm!(q_c%<=Uq8PEI-6BUjbsfh07w>?kbwzEtt7X[?)'djSa2VxJ6enQ.L%hP2kHJEKH)fKd1lZ(Uj8ogUxNLSAq-2L^>]KA%@wG0aBJ>iKIrJ+X2N)GpGs$I?bE-I$2$opCnl[^DVw<.ZN`T(^#h6r0gQ>^h)R3EPd.E1FltA-R8C$q%-/ko*U2lH'V4Pi7F$DSp%qrz'=BBFguiHkeHt_3WdiDK/xM^e=WT9pVX-WN=yO]?+X(t3hH!8Jfnm!(A#yQJ5B<Ce8(yBu]!5lTC9kf%JwFU]XMPNi:CQ-aU#P91>$!-Y:B70:TGyWZK[7Nzn_b.7Z%HUnQJM.WdC>m0U</^O]V!L2)F(F5Zh]QvSWxl#V9qH:Li30e?/cm!Qn/+a<nz5jHGt!T>TwtjoVLDQVZRWwZNie>iyR2+E2S6-k39.I_g1Qa:'/l410wRhEDEKD<'eki5@Ik4x'qAPv!y2E1Uo[7[nqOPFt.MFpdmu4*OS!yfil*pwnBb`/KkIPC#r+K<2#8#c@7zxqcD5w07B9UQ:k_u#sQj.#AuOI!.PN=hh0'T3i`:Z!z%)QEedMQoofh7/zXo/[LeragL^s7o=K4$f>#bbX-(8_%_VsB]<phzi]a/`@f<f6B_h_M0IdfnTJ/-w>e$jABJ-t/q<7%'6Hh[gdiBSlf>dRnBPJGfSxWq*:UUWk5<r<icL*<ZdAdJ_AA2yQmME0rvw@-.#meX!WXHaFC+JsV8.mA)<[]!BX?a$DlB*DhY6(:g=>Lp1eUOPwM7[pUE:+Pw!#qKTck4Y[0JaqkBBX73k/@V%Wrq_6np8_!L'M-+r`QpAYuLmMfvU(Y@/CGC*8KX+13#v-e8GURRp5Lld(1>m+q-T!OA-1qK]m8Jdh4uN)mbc.QA6`?2IYCKs1Z011)$/d?`F.N?$aA2s@Q`5#?M9cW+iZo]RPDuJfcP([T7`aVVQDu='3^)g(y_>CU-g`6oz7AdLWTGNWS+HCI)wC*4o[DDGVVZ+K>q.Xnz5c`ghe`(tJl%2LvbrWmfvQM=HIcl1#F@D8g1SBzL?Fv9S3yjP[PDY1Rit53%Sv)tHm9JVUIJWdDM/Mmk7CflX%e2?oeQ6OG-3]JapZeVB/xNoSttWFr9[9FvuBg#@pc0sB8eg?CeL`>bX56quGaW`[r%ZmCQm*5_XAU_`.M!(6yH[[s1a^1^Xf4v5(jUTB*Z/23OSECMY5ccG[X$(xCcmzJNtg'Gmc)'<(lgBe6poQ7.BS-[-WlZ)l4O1v-T5c$hG9W!AeoFkQuHTDo]!/OkXv9:RKJa3+]wgX3Ia%uBIbcpN6igN=.q8!wR9duht^MU0t`$)y16b2!M1QlE<:7prk7C'2''[.x?5G4l4Mplc`ei=m%T^dC9*1X#!EiYTPG(izec6k*'['Iqv'=]4=am9>*'sTBqPsv%]X20hV_LgIC<2:O.un@-5W*vMU$n^D[T=H$d$ze$-YO3q%oBiBpck4B-S^O_MdGUs(<md*s+CarmZ/!Vd+E>DEwq^sycf1jLRB/>1SGhyNug9H+dpblhVqGQ*BD!i!ioZop(Zh0tos>1A4I8r0DDqVG@<td*rBloVcEfCEP][aA=#]WruNFT)521HI<V*rmg/7VGcuvuQiygHsqD4don6w>*^HO41ECRU5c`XAVX9n$3moXG)5N?K?n<.0ti3Jb=S-OVa5$_([AfY#:3)q/'C-WMudtv^`Wk`PzT:ucmLKb/3mk:k*Vlwc>:ceNa-vz9nmVR4+pp6o6lo@s.sK+Py$JK0OV#->LpKTGg_0=n[S2e$?E6T(2b-Hbi*iA)>ujkgqXn!AnK7[@R?H9ngEs]dauq+d2oItZi0U^KLwUia^*l-mI+<.d=HWoy)lYybRt@9j5N.#O'@ssv%85N!.1[eunR6lVBu$6DKE_OpdwZ?6kRlATaKpEe=ESD=6X.Sl0'(V=Ze]5V`LmzSZ%+?uHhet*I@g:4jn?<rng3M<Uk[SU[_Q1xPgMn+WZ?#-GE3*6%Yv[0uI2r+O5o7$(UQcV@kX#VY=F'g/hmqY6HeVi-riZGrs)2W<bkT5!x%#6awR^lRonghRdI:f(kh1=qunnUa7ASXyf:Io*j*ODZX*Gxwr#A*0rx7KXppWwHD.Rk.Wvqq$fCBoi9$P]tKS.hH3#4]ymSSQsaAQ]j'cf![g1FHZ+?TBm@F8l'='[Z:s*8H4W=(8g+wutNbQ$p:CjGQ./5GwT9QsR-lgjZ_sS]pXYPFFhpTB1-UCngNX#gD>rzu[P"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"tags\":[{\"sizes\":[{\"width\":728,\"height\":90},{\"width\":690,\"height\":90},{\"width\":675,\"height\":90},{\"width\":670,\"height\":90},{\"width\":650,\"height\":90},{\"width\":630,\"height\":90},{\"width\":600,\"height\":90},{\"width\":580,\"height\":90},{\"width\":570,\"height\":90},{\"width\":468,\"height\":60},{\"width\":320,\"height\":50},{\"width\":300,\"height\":50},{\"width\":300,\"height\":75}],\"primary_size\":{\"width\":728,\"height\":90},\"ad_types\":[\"native\",\"video\",\"banner\"],\"uuid\":\"30dac2dd30d7537\",\"id\":19680832,\"allow_smaller_sizes\":false,\"use_pmt_rule\":false,\"prebid\":true,\"disable_psa\":true,\"native\":{\"layouts\":[{\"title\":{\"required\":true,\"sendId\":true,\"len\":100},\"description\":{\"required\":true,\"sendId\":true},\"main_image\":{\"required\":true,\"sendId\":true},\"clickUrl\":{\"required\":true,\"sendId\":true}}]},\"hb_source\":1,\"video\":{\"mimes\":[\"video/mp4\",\"video/webm\"],\"minduration\":0,\"maxduration\":300,\"skippable\":true,\"playback_method\":[\"auto_play_sound_off\"],\"frameworks\":[1],\"custom_renderer_present\":true}}],\"user\":{},\"sdk\":{\"source\":\"pbjs\",\"version\":\"3.16.0-pre\"},\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]},\"referrer_detection\":{\"rd_ref\":\"https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar\",\"rd_top\":true,\"rd_ifs\":0,\"rd_stk\":\"https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar\"}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://ads.servenobid.com/adreq?cb=349", {
+  "headers": {
+    "content-type": "text/plain"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"sid\":21929081245,\"l\":\"https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar\",\"tt\":\"HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022\",\"a\":[{\"z\":[[728,90],[690,90],[675,90],[670,90],[650,90],[630,90],[600,90],[580,90],[570,90],[468,60],[320,50],[300,50],[300,75]],\"d\":\"ADP_39242_728x90_00000001-ba3e84b6-453f-4fd4-9433-6ba7d0034312\",\"g\":{},\"sid\":21929081245,\"pid\":22028999212}],\"t\":\"2021-04-01 13:59:15\",\"tz\":-330,\"r\":\"625x891\",\"lang\":\"en-GB\",\"ref\":\"\",\"gdpr\":{},\"usp\":\"\",\"schain\":{\"ver\":\"1.0\",\"complete\":1,\"nodes\":[{\"asi\":\"adpushup.com\",\"sid\":\"005b7cbb08c14ec1b96b9ad83665cc3c\",\"hp\":1}]}}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021032202.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://securepubads.g.doubleclick.net/tag/js/gpt.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "if-none-match": "\"829 / 809 of 1000 / last-modified: 1617228603\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "RUL=EO6EmIIGGO7rnJEGIvwDATZhkOMnVZu8J-aZSOOyh-qaw_VGPo6ulbAdFl3nE7Uc9lFM-oVBLQcvfBcFvdPuOtCBbTsdTSVbC_1TAa4PKh4LVkcF9v8elehnncJdmeOik4c1DVTx6LWP5EJDjv45lQHsHlJDnZLKXMkrCz63SqJCQW50I1_45OwNhpTjzX-B3OZwfn8au9IWb0xXDLHr0D2DsmfpsAGIQ2vr-cuopeG7COuDFObbSykUyM9LayIatd4dlTzzXL6Mx8Rp4clVjGMCPDvhQIDOlsQy78K0KDRKPFNyqWmcnSCVE3itDp14RhN_idOFsLD_YSxHMQwHspGgW7V3KHDI27GQvVQJsIulvpkehHSXo6oEv87kieXDICxso7fJVBQY7oeIqcjiwzegoQwtnnAnScCziPKAIFqEOJZtdo3-DrnGF-r-aGOCmHRj5TGsmuh1jhBM6ccRxx-sSYIQ0afZ7Us_qEG4BVAFoky1WUmQU_wWy3pPna1FLwlwXJ75d26SGTCHg1a45nEEgvrIuch_a7bDIcSPqu8jVz9KqZa1SCGk1SA9XNu2Pq6uixB2lDCsvsYZWIHaVE2y-9RM9yZ4zW_VtbEV732OztuSSBVBxG9hIqlcJjvA7Rvfe4yNDhkAjMMleaQINoWrxFn1wNkAOGKLDJZFfk9SRCZ3XaCIfxb5BQ|cs=AP6Md-VT4jpN9gpJ0HY-biZra4Vj; DSID=AAO-7r7OGhC7mC35-DgMr4EnyNcxPzMdlMVQlKDeM8yTxHVhGYUQWv9CBjMXAxoZJAhzOqQk08-jxWSBgTjRmJCIyz8v4SHhDqYMh3nxRLV2cW_k9uryMNk; IDE=AHWqTUnO4rFQHHDcR-TWXDYgXl9ENkxtIaBv0dVWbQd_wmb0tCFCfjS-tRel08b0"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://1x1.a-mo.net/hbx/g_pbto?A=undefined&bid=undefined&a=undefined&cn=undefined&aud=undefined&ts=1617265756076&eid=341ff111b645931", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "amuid2=97b13554-cc5e-4076-8365-9f2446798947"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://adservice.google.co.in/adsid/integrator.js?domain=collegedunia.com", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "__Secure-3PSID=7ge5SS2Tp_NGaLU4DDa1I0lFHI4vI0jTJmJPyNiWTnZRZ2GP9QmZeKR5MrJJZRh6UUtT2w.; __Secure-3PAPISID=bdNnw1J1_p50tkZs/A7-B0O4SFKzzG3e1_; NID=211=SYzt35PCNGZ5XIfkX1uYNOP_Pw24AXY8WyTelcEVOH1UVdnesAHbgPm0z5Txw-FlW-jsbpuB59uJgo2tkG6EvN4VTivMkdK32FC7boi2F2qeNDgcCpGh282VKUAPnqCtdumwXhVOreoAXaEGsSvxjXD47XkXHSqRRsoSscs9gpk7-t9_"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://adservice.google.com/adsid/integrator.js?domain=collegedunia.com", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "__Secure-3PSID=7ge5SS2Tp_NGaLU4DDa1I0lFHI4vI0jTJmJPyNiWTnZRZ2GP9QmZeKR5MrJJZRh6UUtT2w.; __Secure-3PAPISID=bdNnw1J1_p50tkZs/A7-B0O4SFKzzG3e1_; NID=212=sxVnfgw_aEld3ZDeJyFw3F0guGAAiT0QZ9vRjxTVDFWoneiYlnTi33MIJzt7AKAESXuKwmx5Fbu7aI9WpONiWknA0-bPq0GH-QdPJi32SE6FzzoQlMwdc3wFjTOqXKcU9194dPG2lwax9jpPw4f7tgUPCLHgt99_sjnG2fKbnWg5HlGeOyJ2Ttcx27-W3cKqnJNC2j7uNFsiKLIOe7Mt8am1rXF0x7_uvHtIpWT-f93CXIEl; 1P_JAR=2021-04-01-08; __Secure-3PSIDCC=AJi4QfHuVkK_d7_PUS6W4q4e9pUnRp3GP3UEBNntiRdWAPyfCVHDy4bwNOqZVbkjzcMuTSa3x9WQ"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2021032202&st=env", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ=="
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=1928128317967254&correlator=2984273093418736&output=ldjh&impl=fifs&eid=31060550%2C31060011%2C44733567%2C44739387%2C21066973&vrg=2021032202&ptt=17&sc=1&sfv=1-0-38&ecs=20210401&iu_parts=103512698%2C22235856056&enc_prev_ius=%2F0%2F1&prev_iu_szs=320x50%7C728x90%7C690x90%7C675x90%7C670x90%7C650x90%7C630x90%7C600x90%7C580x90%7C570x90%7C468x60%7C320x50%7C300x50%7C300x75&fluid=height&prev_scp=adpushup_ran%3D1%26hb_ap_siteid%3D39242%26hb_ap_ran%3D1%26fluid%3D0%26refreshcount%3D0%26refreshrate%3D30&eri=1&cust_params=da%3Dadx&cookie=ID%3D030d5819442da21b%3AT%3D1617261949%3AS%3DALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ&bc=31&abxe=1&lmt=1617265756&dt=1617265756107&dlt=1617265748669&idt=7191&frm=20&biw=610&bih=891&oid=3&adxs=76&adys=3075&adks=60890033&ucis=1&ifi=1&u_tz=330&u_his=1&u_java=false&u_h=1080&u_w=1920&u_ah=1056&u_aw=1855&u_cd=24&u_nplug=3&u_nmime=4&u_sd=1&flash=0&url=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&vis=1&dmc=8&scr_x=0&scr_y=0&psz=728x-1&msz=728x-1&ga_vid=1255903939.1617261943&ga_sid=1617265756&ga_hid=441851974&ga_fc=false&fws=1028&ohw=610", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "RUL=EO6EmIIGGO7rnJEGIvwDATZhkOMnVZu8J-aZSOOyh-qaw_VGPo6ulbAdFl3nE7Uc9lFM-oVBLQcvfBcFvdPuOtCBbTsdTSVbC_1TAa4PKh4LVkcF9v8elehnncJdmeOik4c1DVTx6LWP5EJDjv45lQHsHlJDnZLKXMkrCz63SqJCQW50I1_45OwNhpTjzX-B3OZwfn8au9IWb0xXDLHr0D2DsmfpsAGIQ2vr-cuopeG7COuDFObbSykUyM9LayIatd4dlTzzXL6Mx8Rp4clVjGMCPDvhQIDOlsQy78K0KDRKPFNyqWmcnSCVE3itDp14RhN_idOFsLD_YSxHMQwHspGgW7V3KHDI27GQvVQJsIulvpkehHSXo6oEv87kieXDICxso7fJVBQY7oeIqcjiwzegoQwtnnAnScCziPKAIFqEOJZtdo3-DrnGF-r-aGOCmHRj5TGsmuh1jhBM6ccRxx-sSYIQ0afZ7Us_qEG4BVAFoky1WUmQU_wWy3pPna1FLwlwXJ75d26SGTCHg1a45nEEgvrIuch_a7bDIcSPqu8jVz9KqZa1SCGk1SA9XNu2Pq6uixB2lDCsvsYZWIHaVE2y-9RM9yZ4zW_VtbEV732OztuSSBVBxG9hIqlcJjvA7Rvfe4yNDhkAjMMleaQINoWrxFn1wNkAOGKLDJZFfk9SRCZ3XaCIfxb5BQ|cs=AP6Md-VT4jpN9gpJ0HY-biZra4Vj; DSID=AAO-7r7OGhC7mC35-DgMr4EnyNcxPzMdlMVQlKDeM8yTxHVhGYUQWv9CBjMXAxoZJAhzOqQk08-jxWSBgTjRmJCIyz8v4SHhDqYMh3nxRLV2cW_k9uryMNk; IDE=AHWqTUnO4rFQHHDcR-TWXDYgXl9ENkxtIaBv0dVWbQd_wmb0tCFCfjS-tRel08b0"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://52a0f70216c0c55b6678d269ac09435b.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html", {
+  "headers": {
+    "accept": "application/signed-exchange;v=b3;q=0.9,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "purpose": "prefetch",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ=="
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://bidder.criteo.com/csm/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uid=13a1392f-b7ea-4dea-86a9-8ab66c733181; uid3pd=a1a04811-f888-4f02-8ddc-6d46accee2a7"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"requestId\":\"babab886-42d2-4fa0-906d-cb2f664673ad\",\"events\":[{\"eventId\":\"AdapterBidStart\",\"elapsed\":95},{\"eventId\":\"CdbCallStart\",\"elapsed\":97},{\"eventId\":\"CdbCallEnd\",\"elapsed\":556},{\"eventId\":\"AdapterBidEnd\",\"elapsed\":557},{\"eventId\":\"TimeToFirstByte\",\"elapsed\":114},{\"eventId\":\"TcpConnectionElapsedTime\",\"elapsed\":225},{\"eventId\":\"DomainLookupElapsedTime\",\"elapsed\":7},{\"eventId\":\"UserReturnTime\",\"elapsed\":1104321},{\"eventId\":\"AdapterTimeout\"}]}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://static.criteo.net/js/ld/publishertag.prebid.js", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://tpc.googlesyndication.com/sodar/sodar2.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "if-none-match": "\"1616005470650935\"",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ=="
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.ampproject.org/rtv/012103020108001/amp4ads-v0.mjs", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.ampproject.org/rtv/012103020108001/v0/amp-ad-exit-0.1.mjs", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.ampproject.org/rtv/012103020108001/v0/amp-analytics-0.1.mjs", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.ampproject.org/rtv/012103020108001/v0/amp-fit-text-0.1.mjs", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.ampproject.org/rtv/012103020108001/v0/amp-form-0.1.mjs", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWBAMAAACrl3iAAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAACASURBVBjTbZELDoAgDEPHDXr/05qtH4cR1GyhlEet+h+Ho6ue6TCrKAD9VTcKKrnjsLJuinRRj+VWxxvLW2efD4lHu2NxtxV9i84Uj+dQxPrmfs+xvjRNLl9u8k0vEgRmcesxtu/ld9J5UxBPJW+BQMhXggJP8knQuWD/S2dB6wfOQAYIFNxAewAAAABJRU5ErkJggg==", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://tpc.googlesyndication.com/simgad/17842025820146547881?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qkSq8efDFHXcubZs7CqlAmo7VZYMw", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://tpc.googlesyndication.com/pagead/images/abg/en.png", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://tpc.googlesyndication.com/pagead/images/abg/icon.png", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.google.com/ads/measurement/l?ebcid=ALh7CaQbYDdSAsMh5gOYuAXr3wNYSv7gG1J4DHwuNQuNVkWxoSlvFD-kwKqkfuWYDYBDkftpIKsH", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "TAID=AJHaeXLVHA-ZFmmg_gOPStWu1-m_sRZaLQvdaTEIog3epL0aHdx0JPl3jQIWLpgONP6lR-0fK0nXMPgB7-NVL-4oum5SkK1jlVAU0eZKE_kO0cJ6Y0LKw2eYiibHypFpRKfVw_E6ow; AID=AJHaeXK7bcPvwbzJWrob4bBebfUbXD856qPyXCSuc5dkeiVgQxlfaU556z4; __Secure-3PSID=7ge5SS2Tp_NGaLU4DDa1I0lFHI4vI0jTJmJPyNiWTnZRZ2GP9QmZeKR5MrJJZRh6UUtT2w.; __Secure-3PAPISID=bdNnw1J1_p50tkZs/A7-B0O4SFKzzG3e1_; NID=212=sxVnfgw_aEld3ZDeJyFw3F0guGAAiT0QZ9vRjxTVDFWoneiYlnTi33MIJzt7AKAESXuKwmx5Fbu7aI9WpONiWknA0-bPq0GH-QdPJi32SE6FzzoQlMwdc3wFjTOqXKcU9194dPG2lwax9jpPw4f7tgUPCLHgt99_sjnG2fKbnWg5HlGeOyJ2Ttcx27-W3cKqnJNC2j7uNFsiKLIOe7Mt8am1rXF0x7_uvHtIpWT-f93CXIEl; 1P_JAR=2021-04-01-08; __Secure-3PSIDCC=AJi4QfHuVkK_d7_PUS6W4q4e9pUnRp3GP3UEBNntiRdWAPyfCVHDy4bwNOqZVbkjzcMuTSa3x9WQ"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://securepubads.g.doubleclick.net/pagead/adview?ai=CpYEXXIRlYNDXDcGX1AbA97totJXT2WGSp76g0gz5-LDN0wIQASC6hMAzYOWa6YPgDqABvdWTyQPIAQKpApmnaRmSX00-4AIAqAMByAMIqgSLAk_Qb90yXlbxLWOV3qBfYaaV2XzVl8H3-qMY9UwJPv0bdiS3h23uLfU5qjBESWO6c06SLRzMzQzO_A116SISSpgi90ANMq3MwZrCO-C53q1WlKpyQwaia1Pq5UhL8jx3BMg5NUgelNUpLsPGYcBraWrXcuFvsIVDOlVd8AIUd3naYpGQ9Pi3oBD_a03fcu54riIoSfImheU31s9Mo56IKH7RZwwnfXUk7mWYU3zXDOW3G5vlMgJsjxtJInK2fh_iFH5mz8XYLa9Ig5flLSvAZQgJay6xc9DcEG8heQSH9q9_k_kGqJjWawiQfhBBa57k4-iwt-nYQd9yEDWTkid0D5A_DrMKRr-fLc2Cm8AElqD5-LsD4AQBkgUECAQYAZIFBAgFGASSBQQIBRgYkgUFCAUYqAGQBgGgBgKAB6uq7DaIBwGQBwKoB9XJG6gH8NkbqAfy2RuoB47OG6gHk9gbqAe6BqgH7paxAqgHpr4bqAfs1RvYBwHyBwMQ6mDSCAYIABACGA3yCBthZHgtc3Vic3luLTQ5MzYwMzIwMDM0NjE2ODKACgPICwHYEwyyFxoKGAgAEhRwdWItODkzMzMyOTk5OTM5MTEwNA&sigh=5gjNwMQQvsU&cid=CAQSQgCNIrLMy5qKJ50HlbjX-NNxHRvOszZUD97Eh6Gnx-Ooc8iVVW0UlgtTWld7wmWfmTRIHaEmlhWnKWXbW4Lafb8StQ&tpd=AGWhJmtoZahbbIDFgiju_2DsLlGC_dA_zkAp8oAsiJgDeife0g", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "RUL=EO6EmIIGGO7rnJEGIvwDATZhkOMnVZu8J-aZSOOyh-qaw_VGPo6ulbAdFl3nE7Uc9lFM-oVBLQcvfBcFvdPuOtCBbTsdTSVbC_1TAa4PKh4LVkcF9v8elehnncJdmeOik4c1DVTx6LWP5EJDjv45lQHsHlJDnZLKXMkrCz63SqJCQW50I1_45OwNhpTjzX-B3OZwfn8au9IWb0xXDLHr0D2DsmfpsAGIQ2vr-cuopeG7COuDFObbSykUyM9LayIatd4dlTzzXL6Mx8Rp4clVjGMCPDvhQIDOlsQy78K0KDRKPFNyqWmcnSCVE3itDp14RhN_idOFsLD_YSxHMQwHspGgW7V3KHDI27GQvVQJsIulvpkehHSXo6oEv87kieXDICxso7fJVBQY7oeIqcjiwzegoQwtnnAnScCziPKAIFqEOJZtdo3-DrnGF-r-aGOCmHRj5TGsmuh1jhBM6ccRxx-sSYIQ0afZ7Us_qEG4BVAFoky1WUmQU_wWy3pPna1FLwlwXJ75d26SGTCHg1a45nEEgvrIuch_a7bDIcSPqu8jVz9KqZa1SCGk1SA9XNu2Pq6uixB2lDCsvsYZWIHaVE2y-9RM9yZ4zW_VtbEV732OztuSSBVBxG9hIqlcJjvA7Rvfe4yNDhkAjMMleaQINoWrxFn1wNkAOGKLDJZFfk9SRCZ3XaCIfxb5BQ|cs=AP6Md-VT4jpN9gpJ0HY-biZra4Vj; DSID=AAO-7r7OGhC7mC35-DgMr4EnyNcxPzMdlMVQlKDeM8yTxHVhGYUQWv9CBjMXAxoZJAhzOqQk08-jxWSBgTjRmJCIyz8v4SHhDqYMh3nxRLV2cW_k9uryMNk; IDE=AHWqTUnO4rFQHHDcR-TWXDYgXl9ENkxtIaBv0dVWbQd_wmb0tCFCfjS-tRel08b0"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://tpc.googlesyndication.com/sodar/sodar2/222/runner.html", {
+  "headers": {
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdapi.collegedunia.com/api/v1/image-analytics/impress-log", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "application/x-www-form-urlencoded",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "cookie": "_ga=GA1.2.1255903939.1617261943; _gid=GA1.2.1833083756.1617261943; ADIMGAPRNCE=1617263744%2660960%2360102%2357488%2358055%2358896%23; ADVPIMGAPRNCE=1617263747%2657488%2358055%2358896%23; __gads=ID=030d5819442da21b:T=1617261949:S=ALNI_MaMlSNl2x8baxEDY2lH-6J0-pGPsQ; _gaexp=GAX1.2.Kf76WMEcSTyfIdmux1llcQ.18770.1; ADIMGCLK=1617263857%2660738%23; popupCount=2; ldCookie=closed; _gat=1; _gat_devTracker=1; AMP_TOKEN=%24NOT_FOUND"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "type=vp&data=60738",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://pagead2.googlesyndication.com/bg/DE6_jZsYe42TxIvZMyCjeDFY2mBt4gt7GQO59cBhhbM.js", {
+  "referrer": "https://tpc.googlesyndication.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar2&v=222&t=2&li=gpt_2021032202&jk=1928128317967254&bg=!Dg2lDUnNAAY56aLOOek7ACkAdvg8WiX49CUW0Yf5pv9YIbcj5pBlZLYrl19zGl0c2QSPRdRk5EA7GQIAAADdUgAAAAtoAQcKAG_Cz7q_lDveWToMHX_yEgCinWxv1CBLk-rro6WqO-Kea_r2-Pm3V7imy3hLI-5N1am8zIq-YJ7Ptt9wCFFYjl3yCWOqTO1zyhx3WZ8GLOpAVx74PeHG9hXYjVtdnscwGbuvjwrbP6MDr2eTYT8EzvKZAkIfHgPep_xxXQdaHSV219AuNDJAo4m__lYGMMM_2pLzk73k1ykL6Q5b_bw1X2SXDceehhwXkHeWoULFzi4gPl3UvvpoCc6ZRRaQC22-WEsEpagaNRRHK4WfNz5twjvmZrsZx45jCGjBzC6zyQjHT25wIELWHJ79av9PfwchrFDUvDlOtXm_cObL5GdLOCCkPslK14vquPb6FfBvmZ4KDRwp6OvG-OZAGEl8-6TxBZvPGC1Ry8YtxiLT2ID7hQEpQ6gI3iZ-s5I3wL32e8Z1_dAXYZE_E93NVOgxTY0LP1IHQcDPNscLmCu9raG36qtQ5XCCC093soGNuSmcXMd-kx_WHX6RbNmRZcn2ZQYttbTuoj7g6O-9D1naJiUoWkqQvgbDrTfVOWqR5NPV9kpcU4Kc7sNUbjvGmOW82g5HjQEpvBkUU8zj_sLEr5TL8vg-QgBCCo0GstL101y0WXvILObutEj79W1uBtkf1Kd4qqm2QdVpE_iCiYwrc2KpLanpD-ni3Fm0iq0u5o46fJrydgvg4Nvw8kSldkqYbGo8kmSou2XfyAVcEUyDVwHVhi0HTfdssNGVVeOpaolokKFApqvWnImaixaDl4NOSHcaBcNRZCVFko5S3pam06jNP3AoueqYcquHWsM1SrYBlVcrijNegDP6j9z2zmHP2LR8lnC6aekPQ83ay-fXMOAzpB1wOgFIKG1c9CHWzozxWNinHO5zQvETLi0-YVp5_38dGqiNphXYpc99kbMcrerZFEJ8haPTfA", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ=="
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn.districtm.io/ids/index.html", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://jp-u.openx.net/w/1.0/pd?plm=6&ph=43a9730a-6c22-4066-b849-41c7558b6858&gdpr=0", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "i=4e2b0be6-fb56-02ab-1c85-370171edd7ac|1614683850; univ_id=537072971|58fd00dc-7bfd-471f-9cc2-6653a69e2848|1617048271827795; pd=v2|1617048271.633.1380.48495.252.4|lYvOiajEiuhI.uIjIvGlQkalU.vysnrAkqvHsP.kSpMvAtSvxtd.vvvCvzvwuDvX.vFv6vquQve"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.pubmatic.com/AdServer/js/showad.js", {
+  "headers": {
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html", {
+  "headers": {
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://eus.rubiconproject.com/usync.html", {
+  "headers": {
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://js-sec.indexww.com/um/ixmatch.html", {
+  "headers": {
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://onetag-sys.com/usync/?cb=1617265756149", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "OTP=G566XC47SvmUffTbXRliSoiVcBbrW4uc65v2e4hFeD4"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://public.servenobid.com/sync.html", {
+  "headers": {
+    "upgrade-insecure-requests": "1"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://onetag-sys.com/usync/?tag=img", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "OTP=G566XC47SvmUffTbXRliSoiVcBbrW4uc65v2e4hFeD4"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ssum-sec.casalemedia.com/usermatch?d=https://collegedunia.com/&s=184674&cb=https%3A%2F%2Fjs-sec.indexww.com%2Fht%2Fhtw-pixel.gif%3F", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "CMPS=845; CMID=YD4VHOXvWz2VhZV75SmW5QAA; CMPRO=903; CMDD=AAYahQMABWXJAg**; CMST=YGV1fWBlgA8E; CMRUM3=9c6062f91927602858b41b-f972-4fcb-a4e7-5c1844255714&c460633aa1276004030001_603e155dcf63d&41606575e105a0AQEIxvg4gDyMbwJRCD37AQEBAQE&bd605f7bee27603rDOirKGT2CY&82604a4c6ea8c0AAA2Qk7AfCoAABL53WatCQ&056065759505a00&da60623aac27600&ef6062f91805a00&6f60623ab427604255622000226561144&6d6064212a2760301526212599494ca7cc28ae6a03c274&286065759505a00&5a60623ab32760AE0542DA920C436A89106D3829A31835&396062f91b27601975461759268752127&1f60633a972760Q6679677781123688496&0460623ab327604333427470824928481&f16065759505a00&296065759505a00&2e606239a427608555007021815792108&986062f823276054d18c3f-1fd0-4f9a-bf3a-6287aa6d71aa&586065800f05a0&2d60631c8c2760CAESEC69Gy5cb_erVqjY3AsIblw&696064be812760YTQ4NzQzM2NlYmMzYTRjOTI5NzZjOTAwYTI0MWIwODA&27605f7bed276058fd00dc-7bfd-471f-9cc2-6653a69e2848&e6605f7be627600&dd6062f81e27600&b0606575df05a00&496065759505a00&bc6065759505a00&0a6064211f27600&e160510e4800010&03605f7bec276017bb603e-151c-4f00-a3a5-2e16f4414c5f&be60633aa027608555007021815792108&7b60633a962760TYRBWVY4R_FP6nslhEOWZt_rh50&406062f821276008b7a627-fcf3-43f9-aeeb-4d29ad593ba4-603e1522-494e&c36062f91b2760av-7a46907d-f705-4806-b9f8-f1309cc47392&2f605f7bed2760wF1G0jOd1Lh2nT5&bf60633a9f2760e42fe1a9-61c1-235b-032cad33&0d60633a9f276005f3200532928e2d25f16713&ce6065759505a00&336062f91927602b772fa4-91cc-4e67-adee-1c95488d8537&516062f8212760t6iMorCtjv6sqtz3t_mS_-Sg3KWsro6i4KswJJh9&086063622227602221cb27-ccfd-4ff0-907d-7ed51a01c05a&83604a390f276018072662211247065590"
+  },
+  "referrer": "https://js-sec.indexww.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://secure.adnxs.com/async_usersync?cbfn=AN_async_load", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "same-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; anj=dTM7k!M40F@iWigoZC^c<YAQyh0=bL]JdXaNEwTxuZ(W:p^97997zZN0#2XTijhba.YPd5<L->7YtAb4Yp'%Mj/mJe7IQ/mB#%p7(X+@d(#r`#PGb/?o>0e>cYv/Gu3qc-amo9RWKl3GhP6o3J6az[V6)`(hhHOa)bMA5hNM^!.9m_HpXDVYBru7Z?jf)UmgD=xAj7%rAb7+4Y2[pPbDn=]U)7]wbtMzmj.cPASCZR#SAvYG$(!iQ2GQFrnRgzlgw5'0B4N%vjWYASka9aiY_//Ql>TjVf7>?EPiG9t%GK9z+?/[Jcr+(NgIDr0/!i2I$Dn=^nj[_44rJkk)`tI48Yup%OE!mm2a[[7A!c=t0tHq28UXr(u$D'L+cp.>L8]VTHgv!1o7Ft2h>/OI.0WYWK?pvtfr6.ZQM]h9ET43h21#/o<C0EoQ/NvM[sP>hQVc[-<PTB`t:TSSYOH:a]dsNljQS`9i(.kV3q-fAS]$n6nKax=HH1zmqxgr#N4^^5ienC.Yf3Fn(G288S#^zDn26qPE+b!Xm?+jcR<W:*AL!l1SG=Mi(CDI).XFvXSBzEAZG!ei(e0:s>Df:mnrzo[+eAf>HP<fk15!:]b)C?hbKlRp2JQc3sWKOoAncsItS`d4O.eL@Z%8$5Cz*JSX0T=`%muQ%HyhT$3upb_T<w'?(p:r5q-gKNImOJ>9v+no0)wG7.M)-kHAP``*G@V1$jS':2dP#su[J.OeMpRDZWj)QFjJ@cjmTUuVMh1N$qxFs`tLE7'6%bR_5hbvIV!%i7@'B71t8SE19T$^K@33g_'/k@JK26C_v[*B]d^/m+x5xp7UisrK>w?u?lP#]^`zSMZ_]:Z/R5+#UrFp>[6ZHBQ'ow]T'*W8MCdss@AyD+Z#0):@*u=v9_K+2H_D@-e9es)qGxHyO>og2#CIpN_qoBlEL:UW4%NETXQ'Zr]^`*2Bj:?W(RBKo1zc*UjS>^#uoa#v1rE+v#m7Keb.zQyV8cR'gP]Rhd*d`f>gOZDG8RD2+JAi450vjmPhckg48.OVDgOfE-_-KMeQ`7]8:q/=#bat=trD)IQQ_*jCDijoiolTadXU!g'[z@=?%c2G.#_nCAhds.2Ah59O3HQsPjxk[g^@t_C`W<OIKg(0]v5%*umr'+Th=r'ZBuX1@B?Sd:##$KEiGtja?(WM5wS=!I'Hx%983Q*9_U2K)Cw9q>^=:q3sJu5/dU4P7wV+0KX)=rPA=JeSm!(q_c%<=Uq8PEI-6BUjbsfh07w>?kbwzEtt7X[?)'djSa2VxJ6enQ.L%hP2kHJEKH)fKd1lZ(Uj8ogUxNLSAq-2L^>]KA%@wG0aBJ>iKIrJ+X2N)GpGs$I?bE-I$2$opCnl[^DVw<.ZN`T(^#h6r0gQ>^h)R3EPd.E1FltA-R8C$q%-/ko*U2lH'V4Pi7F$DSp%qrz'=BBFguiHkeHt_3WdiDK/xM^e=WT9pVX-WN=yO]?+X(t3hH!8Jfnm!(A#yQJ5B<Ce8(yBu]!5lTC9kf%JwFU]XMPNi:CQ-aU#P91>$!-Y:B70:TGyWZK[7Nzn_b.7Z%HUnQJM.WdC>m0U</^O]V!L2)F(F5Zh]QvSWxl#V9qH:Li30e?/cm!Qn/+a<nz5jHGt!T>TwtjoVLDQVZRWwZNie>iyR2+E2S6-k39.I_g1Qa:'/l410wRhEDEKD<'eki5@Ik4x'qAPv!y2E1Uo[7[nqOPFt.MFpdmu4*OS!yfil*pwnBb`/KkIPC#r+K<2#8#c@7zxqcD5w07B9UQ:k_u#sQj.#AuOI!.PN=hh0'T3i`:Z!z%)QEedMQoofh7/zXo/[LeragL^s7o=K4$f>#bbX-(8_%_VsB]<phzi]a/`@f<f6B_h_M0IdfnTJ/-w>e$jABJ-t/q<7%'6Hh[gdiBSlf>dRnBPJGfSxWq*:UUWk5<r<icL*<ZdAdJ_AA2yQmME0rvw@-.#meX!WXHaFC+JsV8.mA)<[]!BX?a$DlB*DhY6(:g=>Lp1eUOPwM7[pUE:+Pw!#qKTck4Y[0JaqkBBX73k/@V%Wrq_6np8_!L'M-+r`QpAYuLmMfvU(Y@/CGC*8KX+13#v-e8GURRp5Lld(1>m+q-T!OA-1qK]m8Jdh4uN)mbc.QA6`?2IYCKs1Z011)$/d?`F.N?$aA2s@Q`5#?M9cW+iZo]RPDuJfcP([T7`aVVQDu='3^)g(y_>CU-g`6oz7AdLWTGNWS+HCI)wC*4o[DDGVVZ+K>q.Xnz5c`ghe`(tJl%2LvbrWmfvQM=HIcl1#F@D8g1SBzL?Fv9S3yjP[PDY1Rit53%Sv)tHm9JVUIJWdDM/Mmk7CflX%e2?oeQ6OG-3]JapZeVB/xNoSttWFr9[9FvuBg#@pc0sB8eg?CeL`>bX56quGaW`[r%ZmCQm*5_XAU_`.M!(6yH[[s1a^1^Xf4v5(jUTB*Z/23OSECMY5ccG[X$(xCcmzJNtg'Gmc)'<(lgBe6poQ7.BS-[-WlZ)l4O1v-T5c$hG9W!AeoFkQuHTDo]!/OkXv9:RKJa3+]wgX3Ia%uBIbcpN6igN=.q8!wR9duht^MU0t`$)y16b2!M1QlE<:7prk7C'2''[.x?5G4l4Mplc`ei=m%T^dC9*1X#!EiYTPG(izec6k*'['Iqv'=]4=am9>*'sTBqPsv%]X20hV_LgIC<2:O.un@-5W*vMU$n^D[T=H$d$ze$-YO3q%oBiBpck4B-S^O_MdGUs(<md*s+CarmZ/!Vd+E>DEwq^sycf1jLRB/>1SGhyNug9H+dpblhVqGQ*BD!i!ioZop(Zh0tos>1A4I8r0DDqVG@<td*rBloVcEfCEP][aA=#]WruNFT)521HI<V*rmg/7VGcuvuQiygHsqD4don6w>*^HO41ECRU5c`XAVX9n$3moXG)5N?K?n<.0ti3Jb=S-OVa5$_([AfY#:3)q/'C-WMudtv^`Wk`PzT:ucmLKb/3mk:k*Vlwc>:ceNa-vz9nmVR4+pp6o6lo@s.sK+Py$JK0OV#->LpKTGg_0=n[S2e$?E6T(2b-Hbi*iA)>ujkgqXn!AnK7[@R?H9ngEs]dauq+d2oItZi0U^KLwUia^*l-mI+<.d=HWoy)lYybRt@9j5N.#O'@ssv%85N!.1[eunR6lVBu$6DKE_OpdwZ?6kRlATaKpEe=ESD=6X.Sl0'(V=Ze]5V`LmzSZ%+?uHhet*I@g:4jn?<rng3M<Uk[SU[_Q1xPgMn+WZ?#-GE3*6%Yv[0uI2r+O5o7$(UQcV@kX#VY=F'g/hmqY6HeVi-riZGrs)2W<bkT5!x%#6awR^lRonghRdI:f(kh1=qunnUa7ASXyf:Io*j*ODZX*Gxwr#A*0rx7KXppWwHD.Rk.Wvqq$fCBoi9$P]tKS.hH3#4]ymSSQsaAQ]j'cf![g1FHZ+?TBm@F8l'='[Z:s*8H4W=(8g+wutNbQ$p:CjGQ./5GwT9QsR-lgjZ_sS]pXYPFFhpTB1-UCngNX#gD>rzu[P; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw.."
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://eus.rubiconproject.com/usync.js", {
+  "referrer": "https://eus.rubiconproject.com/usync.html",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://g2.gumgum.com/usync/13926?gdpr=0&gdpr_consent=&us_privacy=1---&r=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D309%26cd%3D4043%26uid%3D", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "vst=a_231ee179-1bcf-4311-86df-82932748b2a6; cs=true; loc=_R6THCQt9LOFWF7AatxowP54C0nso4-GlmfxibZbk4RMfUVwsHUmibAci1EV3-YAKgDh69PZ-a3NJUoQkobSTu1D09SCrHaF"
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://pixel.33across.com/ps?m=xch&rt=html&id=0010b00002Mq2FYAAZ&ru=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D304%26cd%3D5615%26uid%3D33XUSERID33X", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "33x_ps=u%3D118322264448265%3As1%3D1614683856298%3Ats%3D1617261974480"
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://onetag-sys.com/usync/?pubId=694e68b73971b58&gdpr=0&gdpr_consent=&us_privacy=1---&https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D318%26cd%3D10578%26uid%3D", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "OTP=4odXUElFhVSNeiLacII1vEBKNTgWv6GlxVtPcPYZVjY"
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ib.adnxs.com/getuid?https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D312%26cbimg%3D2755%26uid%3D%24UID", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; anj=dTM7k!M40F@iWigoZC^c<YAQyh0=bL]JdXaNEwTxuZ(W:p^97997zZN0#2XTijhba.YPd5<L->7YtAb4Yp'%Mj/mJe7IQ/mB#%p7(X+@d(#r`#PGb/?o>0e>cYv/Gu3qc-amo9RWKl3GhP6o3J6az[V6)`(hhHOa)bMA5hNM^!.9m_HpXDVYBru7Z?jf)UmgD=xAj7%rAb7+4Y2[pPbDn=]U)7]wbtMzmj.cPASCZR#SAvYG$(!iQ2GQFrnRgzlgw5'0B4N%vjWYASka9aiY_//Ql>TjVf7>?EPiG9t%GK9z+?/[Jcr+(NgIDr0/!i2I$Dn=^nj[_44rJkk)`tI48Yup%OE!mm2a[[7A!c=t0tHq28UXr(u$D'L+cp.>L8]VTHgv!1o7Ft2h>/OI.0WYWK?pvtfr6.ZQM]h9ET43h21#/o<C0EoQ/NvM[sP>hQVc[-<PTB`t:TSSYOH:a]dsNljQS`9i(.kV3q-fAS]$n6nKax=HH1zmqxgr#N4^^5ienC.Yf3Fn(G288S#^zDn26qPE+b!Xm?+jcR<W:*AL!l1SG=Mi(CDI).XFvXSBzEAZG!ei(e0:s>Df:mnrzo[+eAf>HP<fk15!:]b)C?hbKlRp2JQc3sWKOoAncsItS`d4O.eL@Z%8$5Cz*JSX0T=`%muQ%HyhT$3upb_T<w'?(p:r5q-gKNImOJ>9v+no0)wG7.M)-kHAP``*G@V1$jS':2dP#su[J.OeMpRDZWj)QFjJ@cjmTUuVMh1N$qxFs`tLE7'6%bR_5hbvIV!%i7@'B71t8SE19T$^K@33g_'/k@JK26C_v[*B]d^/m+x5xp7UisrK>w?u?lP#]^`zSMZ_]:Z/R5+#UrFp>[6ZHBQ'ow]T'*W8MCdss@AyD+Z#0):@*u=v9_K+2H_D@-e9es)qGxHyO>og2#CIpN_qoBlEL:UW4%NETXQ'Zr]^`*2Bj:?W(RBKo1zc*UjS>^#uoa#v1rE+v#m7Keb.zQyV8cR'gP]Rhd*d`f>gOZDG8RD2+JAi450vjmPhckg48.OVDgOfE-_-KMeQ`7]8:q/=#bat=trD)IQQ_*jCDijoiolTadXU!g'[z@=?%c2G.#_nCAhds.2Ah59O3HQsPjxk[g^@t_C`W<OIKg(0]v5%*umr'+Th=r'ZBuX1@B?Sd:##$KEiGtja?(WM5wS=!I'Hx%983Q*9_U2K)Cw9q>^=:q3sJu5/dU4P7wV+0KX)=rPA=JeSm!(q_c%<=Uq8PEI-6BUjbsfh07w>?kbwzEtt7X[?)'djSa2VxJ6enQ.L%hP2kHJEKH)fKd1lZ(Uj8ogUxNLSAq-2L^>]KA%@wG0aBJ>iKIrJ+X2N)GpGs$I?bE-I$2$opCnl[^DVw<.ZN`T(^#h6r0gQ>^h)R3EPd.E1FltA-R8C$q%-/ko*U2lH'V4Pi7F$DSp%qrz'=BBFguiHkeHt_3WdiDK/xM^e=WT9pVX-WN=yO]?+X(t3hH!8Jfnm!(A#yQJ5B<Ce8(yBu]!5lTC9kf%JwFU]XMPNi:CQ-aU#P91>$!-Y:B70:TGyWZK[7Nzn_b.7Z%HUnQJM.WdC>m0U</^O]V!L2)F(F5Zh]QvSWxl#V9qH:Li30e?/cm!Qn/+a<nz5jHGt!T>TwtjoVLDQVZRWwZNie>iyR2+E2S6-k39.I_g1Qa:'/l410wRhEDEKD<'eki5@Ik4x'qAPv!y2E1Uo[7[nqOPFt.MFpdmu4*OS!yfil*pwnBb`/KkIPC#r+K<2#8#c@7zxqcD5w07B9UQ:k_u#sQj.#AuOI!.PN=hh0'T3i`:Z!z%)QEedMQoofh7/zXo/[LeragL^s7o=K4$f>#bbX-(8_%_VsB]<phzi]a/`@f<f6B_h_M0IdfnTJ/-w>e$jABJ-t/q<7%'6Hh[gdiBSlf>dRnBPJGfSxWq*:UUWk5<r<icL*<ZdAdJ_AA2yQmME0rvw@-.#meX!WXHaFC+JsV8.mA)<[]!BX?a$DlB*DhY6(:g=>Lp1eUOPwM7[pUE:+Pw!#qKTck4Y[0JaqkBBX73k/@V%Wrq_6np8_!L'M-+r`QpAYuLmMfvU(Y@/CGC*8KX+13#v-e8GURRp5Lld(1>m+q-T!OA-1qK]m8Jdh4uN)mbc.QA6`?2IYCKs1Z011)$/d?`F.N?$aA2s@Q`5#?M9cW+iZo]RPDuJfcP([T7`aVVQDu='3^)g(y_>CU-g`6oz7AdLWTGNWS+HCI)wC*4o[DDGVVZ+K>q.Xnz5c`ghe`(tJl%2LvbrWmfvQM=HIcl1#F@D8g1SBzL?Fv9S3yjP[PDY1Rit53%Sv)tHm9JVUIJWdDM/Mmk7CflX%e2?oeQ6OG-3]JapZeVB/xNoSttWFr9[9FvuBg#@pc0sB8eg?CeL`>bX56quGaW`[r%ZmCQm*5_XAU_`.M!(6yH[[s1a^1^Xf4v5(jUTB*Z/23OSECMY5ccG[X$(xCcmzJNtg'Gmc)'<(lgBe6poQ7.BS-[-WlZ)l4O1v-T5c$hG9W!AeoFkQuHTDo]!/OkXv9:RKJa3+]wgX3Ia%uBIbcpN6igN=.q8!wR9duht^MU0t`$)y16b2!M1QlE<:7prk7C'2''[.x?5G4l4Mplc`ei=m%T^dC9*1X#!EiYTPG(izec6k*'['Iqv'=]4=am9>*'sTBqPsv%]X20hV_LgIC<2:O.un@-5W*vMU$n^D[T=H$d$ze$-YO3q%oBiBpck4B-S^O_MdGUs(<md*s+CarmZ/!Vd+E>DEwq^sycf1jLRB/>1SGhyNug9H+dpblhVqGQ*BD!i!ioZop(Zh0tos>1A4I8r0DDqVG@<td*rBloVcEfCEP][aA=#]WruNFT)521HI<V*rmg/7VGcuvuQiygHsqD4don6w>*^HO41ECRU5c`XAVX9n$3moXG)5N?K?n<.0ti3Jb=S-OVa5$_([AfY#:3)q/'C-WMudtv^`Wk`PzT:ucmLKb/3mk:k*Vlwc>:ceNa-vz9nmVR4+pp6o6lo@s.sK+Py$JK0OV#->LpKTGg_0=n[S2e$?E6T(2b-Hbi*iA)>ujkgqXn!AnK7[@R?H9ngEs]dauq+d2oItZi0U^KLwUia^*l-mI+<.d=HWoy)lYybRt@9j5N.#O'@ssv%85N!.1[eunR6lVBu$6DKE_OpdwZ?6kRlATaKpEe=ESD=6X.Sl0'(V=Ze]5V`LmzSZ%+?uHhet*I@g:4jn?<rng3M<Uk[SU[_Q1xPgMn+WZ?#-GE3*6%Yv[0uI2r+O5o7$(UQcV@kX#VY=F'g/hmqY6HeVi-riZGrs)2W<bkT5!x%#6awR^lRonghRdI:f(kh1=qunnUa7ASXyf:Io*j*ODZX*Gxwr#A*0rx7KXppWwHD.Rk.Wvqq$fCBoi9$P]tKS.hH3#4]ymSSQsaAQ]j'cf![g1FHZ+?TBm@F8l'='[Z:s*8H4W=(8g+wutNbQ$p:CjGQ./5GwT9QsR-lgjZ_sS]pXYPFFhpTB1-UCngNX#gD>rzu[P; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw.."
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ap.lijit.com/pixel?redir=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D310%26cbimg%3D3666%26uid%3D%24UID", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "ljt_reader=3db1f03ef19416522f25cd53; ctag=513:1616531330|577:1616531330|386:1619036930|514:1619036930|579:1616531330|261:1617654530|581:1616531330|583:1616531330|521:1619036930|585:1616531330|524:1616531330|588:1619036930|463:1616531330|495:1616531330|560:1619036930|562:1619036930|564:1616531330|253:1617654530|318:1616531330|542:1617654530; ljtrtb=eJyVUsluXDcQ%2FJc5uwH2QnbTtzdPG2zJksaCZZ8Mko%2BElySK5TE8cJB%2FDzvnXHJtFqurquuvXUq7l7uYOKZoUSTm3Ysd8Zyty%2Fnb8%2F2rt58O4fj4x%2FX7cn45bq5u7sevn3CzPKxXExhDwAlVK23YVkY13vI2Ygpdq3KnLtyjOKWvoapKowhkbA2kJ4Wy9Q7YchSzzSKrY9Ul2dhC2BpoHRuI4oDcGkFKkUvKnUxsYiVPLD%2Bf3X5%2Bfn35QOuHOVPXhHtajCRA2MsFSEYE4wUhk17sLy72q%2BgysRgcmzVKQo2ZkmkkJJehLnng3FV0QLUUIWhECNjHJJSRNq1bDew0NLEW4wxEA6Fh1EwYXGF0msN7kJRmulUg4SYgW1bIsUxOHGkE00SUIQQPi%2F1L%2BUiMvaNmwNrmRnYLaRtglJlUrFJJvsD%2Bh11nDla1JFIYbfDkHRlK73Vqoly2mLnOE6XAHSORO%2B3%2Bc34UZpa5WcNclf0C6OeaL8t5iEJnS6awCqfFMoZ0xlPpwmgc3ZSr1FqdGDDiLMAIAQrPDKhjGiIoLY4JNT%2FK6%2BvDu%2BuDClzCauRGjf97LHPcXlqkUksYm9SglnLjUltixYIio%2FlFLbrUZaH7r7qM9WlZ9teRH8txvffXf7P5vX07nb6%2Fe%2FP02G6Ph%2Bf2dFu9Zm4yC%2FIsySwiFvN7ZKhVBDClinU08rfjj3ZU1lxKcE6vcmqpztgazAIUEBuz9gMjdNaQ0H0X8h1u73T1292dvbGHx7vRT%2Fnbaf10%2BPDndrr69WXMuD5%2B5eflp2HZ%2Ff0PQeHoCQ%3D%3D; ljtrtbexp=eJxdULsRQzEI28W1C%2F7grJbL7nH84gJVnIRAgvfg8eLgVCtnnUMOLFV3XnNEPG1LIoo5tLeTO3aiu49SZDNMXbHW8sNEMO2yFWCZf8twTbIzkY%2FCkvOXcTPVmQIXjo4LcpcBdsAwLwp%2BCf24V7ueL2a%2FQWGfQR5b8EfQe8F9dBMpVah8vpI6WUk%3D; _ljtrtb_1=4333427470824928481; _ljtrtb_26=2b772fa4-91cc-4e67-adee-1c95488d8537"
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.servenobid.com/sync?pid=312&cbimg=2755&uid=8555007021815792108", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "pid_310=3db1f03ef19416522f25cd53; pid_309=a_231ee179-1bcf-4311-86df-82932748b2a6; pid_304=118322264448265; pid_312=8555007021815792108; pid_314=eyJ4dWlkIjoiNzYzMjQ3ZjEtOTU4Ni00YzhkLWFlZWYtZDAxN2UyNGNlOTUwIiwiZHAiOnsicHVibWF0aWMiOnsidWlkIjoiMUIyQTgyNDAtMEI0Ri00OTExLTgzQTEtOTI3RkJGRkJDNDdBIiwiZXhwaXJlcyI6IjIwMjEtMDQtMTNUMTc6Mzg6NDQuNTQ1NTg5WiJ9LCJydWJpY29uIjp7InVpZCI6IktMUlZMUjc0LUctQzgyNiIsImV4cGlyZXMiOiIyMDIxLTA0LTEzVDE3OjM4OjQyLjgyMTU5WiJ9fSwiYmRheSI6IjIwMjEtMDMtMDJUMTE6MTc6MzYuNDE4Njg2WiJ9; pid_318=mNB_SuDKELM4lIiJHAseQniioadXqSI10_yuXNFobI8"
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.servenobid.com/sync?pid=318&uid=4odXUElFhVSNeiLacII1vEBKNTgWv6GlxVtPcPYZVjY", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "pid_310=3db1f03ef19416522f25cd53; pid_309=a_231ee179-1bcf-4311-86df-82932748b2a6; pid_304=118322264448265; pid_312=8555007021815792108; pid_314=eyJ4dWlkIjoiNzYzMjQ3ZjEtOTU4Ni00YzhkLWFlZWYtZDAxN2UyNGNlOTUwIiwiZHAiOnsicHVibWF0aWMiOnsidWlkIjoiMUIyQTgyNDAtMEI0Ri00OTExLTgzQTEtOTI3RkJGRkJDNDdBIiwiZXhwaXJlcyI6IjIwMjEtMDQtMTNUMTc6Mzg6NDQuNTQ1NTg5WiJ9LCJydWJpY29uIjp7InVpZCI6IktMUlZMUjc0LUctQzgyNiIsImV4cGlyZXMiOiIyMDIxLTA0LTEzVDE3OjM4OjQyLjgyMTU5WiJ9fSwiYmRheSI6IjIwMjEtMDMtMDJUMTE6MTc6MzYuNDE4Njg2WiJ9; pid_318=mNB_SuDKELM4lIiJHAseQniioadXqSI10_yuXNFobI8"
+  },
+  "referrer": "https://onetag-sys.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://c.bing.com/c.gif?anx_uid=8555007021815792108&Red3=MSAN_pd&gdpr=&gdpr_consent=", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "MUID=08D4EAC98DCF6F2B1C5BE5278CC96E06; SRM_B=08D4EAC98DCF6F2B1C5BE5278CC96E06; MR=0"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://sync.mathtag.com/sync/img?mt_exid=13&mt_exuid=8555007021815792108&redir=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D8%26code%3D%5Buuid%5D", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid=17bb603e-151c-4f00-a3a5-2e16f4414c5f; mt_mop=9:1617050239|10010:1617050239; mt_misc=mt_bt:1617050761"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cm.g.doubleclick.net/pixel?google_nid=appnexus&google_cm&google_sc&uid=8555007021815792108", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "RUL=EO6EmIIGGO7rnJEGIvwDATZhkOMnVZu8J-aZSOOyh-qaw_VGPo6ulbAdFl3nE7Uc9lFM-oVBLQcvfBcFvdPuOtCBbTsdTSVbC_1TAa4PKh4LVkcF9v8elehnncJdmeOik4c1DVTx6LWP5EJDjv45lQHsHlJDnZLKXMkrCz63SqJCQW50I1_45OwNhpTjzX-B3OZwfn8au9IWb0xXDLHr0D2DsmfpsAGIQ2vr-cuopeG7COuDFObbSykUyM9LayIatd4dlTzzXL6Mx8Rp4clVjGMCPDvhQIDOlsQy78K0KDRKPFNyqWmcnSCVE3itDp14RhN_idOFsLD_YSxHMQwHspGgW7V3KHDI27GQvVQJsIulvpkehHSXo6oEv87kieXDICxso7fJVBQY7oeIqcjiwzegoQwtnnAnScCziPKAIFqEOJZtdo3-DrnGF-r-aGOCmHRj5TGsmuh1jhBM6ccRxx-sSYIQ0afZ7Us_qEG4BVAFoky1WUmQU_wWy3pPna1FLwlwXJ75d26SGTCHg1a45nEEgvrIuch_a7bDIcSPqu8jVz9KqZa1SCGk1SA9XNu2Pq6uixB2lDCsvsYZWIHaVE2y-9RM9yZ4zW_VtbEV732OztuSSBVBxG9hIqlcJjvA7Rvfe4yNDhkAjMMleaQINoWrxFn1wNkAOGKLDJZFfk9SRCZ3XaCIfxb5BQ|cs=AP6Md-VT4jpN9gpJ0HY-biZra4Vj; DSID=AAO-7r7OGhC7mC35-DgMr4EnyNcxPzMdlMVQlKDeM8yTxHVhGYUQWv9CBjMXAxoZJAhzOqQk08-jxWSBgTjRmJCIyz8v4SHhDqYMh3nxRLV2cW_k9uryMNk; IDE=AHWqTUnO4rFQHHDcR-TWXDYgXl9ENkxtIaBv0dVWbQd_wmb0tCFCfjS-tRel08b0"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cm.g.doubleclick.net/pixel?google_nid=appnexus1&google_sc&google_hm=ODU1NTAwNzAyMTgxNTc5MjEwOA%3D%3D&google_cm", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "x-client-data": "CIy2yQEIpbbJAQipncoBCPjHygEIpM3KAQjc1coBCOScywEIqZ3LAQ==",
+    "cookie": "RUL=EO6EmIIGGO7rnJEGIvwDATZhkOMnVZu8J-aZSOOyh-qaw_VGPo6ulbAdFl3nE7Uc9lFM-oVBLQcvfBcFvdPuOtCBbTsdTSVbC_1TAa4PKh4LVkcF9v8elehnncJdmeOik4c1DVTx6LWP5EJDjv45lQHsHlJDnZLKXMkrCz63SqJCQW50I1_45OwNhpTjzX-B3OZwfn8au9IWb0xXDLHr0D2DsmfpsAGIQ2vr-cuopeG7COuDFObbSykUyM9LayIatd4dlTzzXL6Mx8Rp4clVjGMCPDvhQIDOlsQy78K0KDRKPFNyqWmcnSCVE3itDp14RhN_idOFsLD_YSxHMQwHspGgW7V3KHDI27GQvVQJsIulvpkehHSXo6oEv87kieXDICxso7fJVBQY7oeIqcjiwzegoQwtnnAnScCziPKAIFqEOJZtdo3-DrnGF-r-aGOCmHRj5TGsmuh1jhBM6ccRxx-sSYIQ0afZ7Us_qEG4BVAFoky1WUmQU_wWy3pPna1FLwlwXJ75d26SGTCHg1a45nEEgvrIuch_a7bDIcSPqu8jVz9KqZa1SCGk1SA9XNu2Pq6uixB2lDCsvsYZWIHaVE2y-9RM9yZ4zW_VtbEV732OztuSSBVBxG9hIqlcJjvA7Rvfe4yNDhkAjMMleaQINoWrxFn1wNkAOGKLDJZFfk9SRCZ3XaCIfxb5BQ|cs=AP6Md-VT4jpN9gpJ0HY-biZra4Vj; DSID=AAO-7r7OGhC7mC35-DgMr4EnyNcxPzMdlMVQlKDeM8yTxHVhGYUQWv9CBjMXAxoZJAhzOqQk08-jxWSBgTjRmJCIyz8v4SHhDqYMh3nxRLV2cW_k9uryMNk; IDE=AHWqTUnO4rFQHHDcR-TWXDYgXl9ENkxtIaBv0dVWbQd_wmb0tCFCfjS-tRel08b0"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://beacon.krxd.net/usermatch.gif?adnxs_uid=8555007021815792108", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "_kuid_=N-eq4Kza"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://loadm.exelator.com/load/?p=204&g=013&bi=8555007021815792108&j=0", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "EE=\"c47dda8fdb88f42e983bcbfa4deabd29\"; ud=\"eJxrXxzq6XKLQSHZxDwlJdEiLSXJwiLNxCjV0sI4KTkpLdEkJTUxKcXIcnFZatGCpaXFqSlJh5ZU5JTkNK0uiw91jHdz9PX0iVzmnFGUn5u6AiwU5hq0yMJiSX5RZvoiT7%252FFRSlpDItKik8F7%252F4vAgD0Biul\"; udo=\"gAAAAAQAABi7KLUv%252FWC7F8VGACpxWBpCQKhxAFTNoGd%252BUGwKUXbGUQZAIr3ZO2yHtYtQGN4LF2BXCLmlUojyU%252F7Cvqe1oTrDqqTmzJJdStOtuQP4CriXW9EPswF9AZgBbIvzvJ37abpl6m8qclkvq%252BaM8Fw7r6yuqq5r2us7GofEKzvXTMpq%252BIORR%252BEPHgan4KeWpk4niSe%252F0Nq%252Bnv9sjlUZXpzYwlRc4QfxwnTIa9CQ9zkjpMu4oAVH8PLqQiJZKPWk3pnKdCIYi94dhHWmRB7a%252BIS59fcpAVUSDcClJr8gcYLOBwMaF2ZJZWFfU2wjfpRRL%252FR0WVLs4evilWoEeOAVEHIWkoEDxK7gIAZVgh3kACEVw2kHEwYtGktayVZLJ0ar6YWSMGNPO2x0N6UuoHemRE9hI8LcmBI9kfUsAjEUwUDEU3vHzCB7SyAEemTRkcNG2tcUJ5BK0JOfhCMusI5EK18OhAEPaC5QIA8yR4rQsS2jhYq1NFCwpODHR4ymBMmRbJSCEbGGnJwbmS5OWYoNUkDBwwJB0zDqTRUQO1JRhgR%252FkNFjB86bH6A1OxhNVuUbCyueEIDghIKEpd4ThHWmMk2983jQu4HeO%252FgQvYsVYSoTwkHvVmjv3dkDdKS%252BIU2RAIj5HGho8OjRo0e996beOwAyCt7Anv%252FMSmi2VdtMtBBbPjjyQuo9zY2bVbD%252F82xIH6%252BVNRiiUfgCzayGwqlg0c3Nsf8z6%252BlYjnWt%252B3Ms3bbxTLd%252BnnusnPY3oPDqrG3NikGsNagypIthkah67%252FZ0PVx24jmZjteYx1txLBvHOHfVsbjWry6O3vVW3cq6an97o9SmGH9CH5v9cWdTyZTTpF8yb%252FsTuWxJ3vMX2jFoVUXlYv%252Fbi2lHVdn1ci2r9lbeagV%252F2s0u2akGVRYEDn%252BwL1j0tWyb%252By7P63Y8Hi4nyy6OXnssbqbjHk6eVXWm2x1TfwMej2xrQGBx2AIZpDKu3V%252Bun%252Fa%252FU1%252FPX%252FmTH09FzHgyTWvc9lxxh%252F42VRxW%252BXfS01SOw6hhETYKsSQ%252Fbtc%252BrRgUFos%252BvzRDFodTwaPvF3VlZKu5kn%252BmYiUopBoOf2lA4XNLk4l33R%252BoFiQij3DwJ8QKAreorequVI5Bo5TUED5WTW35ci7rl4pxCPuA8FPtK5k21y8N%252BQqrfFKw7wp%252BslkJzZDFo9XVEAuPl1PdtWXd1n%252BcTKstjmVXFvfdKr68aO786dayvmvc%252Fs%252FZp0tmDa%252F0gXnRvMvptKx98%252F6Q4r9LZtpgXcYxTrft8Tvt1bZvpvPSJ8H%252B8q6BXm6lzaRxnyReedF8q4l4dns%252Ff0idP03%252Bz%252BX1vy0V5kVzm07vWq6TsZPI9qK5U3NOweTl3%252FIf0q%252FvtI9cXjRv1891pPKiOfO%252B%252F7KmUnvRvDmnHl965c%252ByotTpqLXdS%252F%252BTv6Sv5d%252B8sSASkG%252BVtV%252BpHhw7LTKoG1j3Dz2%252FGmJIP%252BpQ9UARZuTEWw4X0JojY36OGyR3CNGBk7wYhITIHrE4MlYscrMGsCmw23HViNmESGNGF50hiTw8e4hPjQs%252Fb%252F7o2hRTqL2gEq%252F6GKhpJ8lSx51iLNMAQaJvN9BGBB4bUUGefHSUeLRl%252FEWOOJN8CKFNoEHfvtRHgSMC6NsbMOKhXI5g0oK96NsdjKjRt3cMQNC3M5gJAXizEkbBwx9bP%252F6CK6KGcDFovNICu7mFIX1A%252BD0e4amgka1vlRXRfC7rzTIeuTKxMCp4ighjvWoPOp0v2GxVVd5Ol%252BarAs4BHQqFQnMkt54GCi2icEckoHe3nqZFiyiaCV3OvNU8a2sq67OlTlaF5gyWAPQlVGgeAQDZip1Ks2yPbmW5bVmX19Oxs9d9t6V19M95GQlCV8KCiOZLY0Od21Ndedf7bcyjvbybfUuzf0fHPV0r69Y47W8MFJBBoXmBsR%252BaJxjzoXmEJLIUaN5jRpnYqptldfd7vHlld7Oq0t7rWnVeZx3Nsp5l0%252F4WgcECBUlMhGiOYEwFmieNSaE5jxllYjEby71YnXWqmuuxref1cj7ufTdmf%252BvqVjrtbz3uZn0m1pTN1KwDXDg7AQIgUY0ZDKlZB7hUYwZDODsBkAy4MCKsdw8JulJH6kgDLnQSvLVlT8wxiVXluk%252FQJNb6G03HaykuzVKlXf4nV4R6gkYJ4xVu%252BZ%252BipnDLL2bKyvfCvis1Xm%252FlwpdMJVtbF9fNhdZmBAqJaA7mgfbthFrLqbkdWpv8woElaz9XedEcvz%252Be3s50yaxxb2%252FVVX%252Bu66QxzaZTpy8vvU1%252FSG%252F%252F9AGBYqhhUOsIDAAAAAAAAAgAsQUAOsiKGgARcBVCBAAgxgAAQAxAWHoYtwqB%252Bvd9YHz%252F31Yt6UXZpUgl%252FEWRLouUCMSXeO22%252FsO1niT8lyBVGao6yQWPYyYBaJUHwbsQVbxCIQMWUhE4mNQztzStYAKmXjU7YMyb2h%252BqdQF4Sl3FnQ%252FsuSSyqCVYbKBPB%252BrsZs2x5vNJ1XpK9%252FVY1T8lqYbe2gXxRBEDYQJABIEDgDfADESFAMIoaBAN%252F8HCzAHiEcQSgYgA4wUlMmFSAGgQTALOmljluUAedRyETDv8OjmgjwUh4tAK1oQCEIxEATgMXAFIWkb4dgDN1ecOfkvWBkLDEyQlCEISi1fDjyAc3j1PAMgFAbJhlTXkeERNQ7ixBh9NTCIjsIrzg9IBcBbgpMAwcRQ0AAGYhhiAodJrEECAiSEiZtAKBUecgtIHgbcPZ%252Bj4oX9r6AAB04LLR45jfCrw8LQsKd9e9B%252BUHQFO%252F%252F1L99tRT%252B7Dd3DnJLVihdLWVj4ZM9bnC6zTNsugdVMQlmz6xhqQQnoq2EdUZBXnOEOyQzzfOwzOWPYy53AK5ghlvdp8BW%252B%252FjZFuBPPhfH5mUQuZDSckasgKZhHLX1aWZa4xs%252FFujqIZqcKp5MXxul%252BI0v11Isa1kVeDMfM0F7uXWmfzZ6PJMPeYp9%252FsccT0pQQoX%252Bdn1%252Bv%252Bul7nVIkaH0bDfPM6mz8Rg%252FGsanZ%252BzIQaHmbN%252B3Uh9qtmZ2NPzJmYJ2bD%252BEcefjx7yvR9mCoGr9YN\""
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://t.wayfair.com/a/vendor_sync/user?vendor_id=1&uid=8555007021815792108&t=1", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "ExCSNUtId=23e9f4e3-6041-1454-a29b-10b46b946a02"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://t.wayfair.com/a/vendor_sync/user?vendor_id=1&uid=8555007021815792108&t=1&is_internal=1", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "ExCSNUtId=23e9f4e3-6041-1454-a29b-10b46b946a02"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.stickyadstv.com/user-registering?dataProviderId=209&userId=8555007021815792108", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "UID=6d287c13efba077dc5241aaea920a7; uid-bp-951=8555007021815792108; uid-bp-36033=d094_6935847286496963655; MRM_UID=d094_6935847286496963655; uid-bp-8225=18072662211247065590; uid-bp-34673=YD4VHOXvWz2VhZV75SmW5QAA&903; uid-bp-892=58fd00dc-7bfd-471f-9cc2-6653a69e2848; uid-bp-159=CAESELX-NRHS4POEF0UP3TImlwk; sessionId=50cea789fbe45cc93c8c7345e16756d; uid-bp-45=\"YFn@IgAABPpYShTD\"; uid-bp-529=17bb603e-151c-4f00-a3a5-2e16f4414c5f; uid-bp-617=4255622000226561144; uid-bp-171=4333427470824928481; uid-bp-26913=AAA2Qk7AfCoAABL53WatCQ; uid-bp-717=y-b.KSt.5E2oOf1q.wgYzTbS7AeNpFZ4t60Jb4xj7JFsFU0TMuVVCNqvxxOrh1KUIkzXYh13PeMuyO~A; uid-bp-25746=e4a45aa0-7b48-11eb-ae9c-ebe1803d12b8; uid-bp-25522=08b7a627-fcf3-43f9-aeeb-4d29ad593ba4-603e1522-494e; uid-bp-23329=wF1G0jOd1Lh2nT5; dp-1361=HANDSHAKE_1616534963_300; uid-bp-27649=89cd12d26a5836be834514fd4d5db475; uid-bp-33281=d094_6935847286496963655; uid-bp-30833=1"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://pixel.advertising.com/ups/55936/sync?uid=8555007021815792108&_origin=1&gdpr=0&gdpr_consent=", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "APID=UPfd1a7685-7b42-11eb-93e8-02ef4938b91e"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://sync.technoratimedia.com/services?srv=cs&pid=65&us_privacy=1---&cb=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dsnc%26i%3D%5BUSER_ID%5D", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "tads_uid=GDPR"
+  },
+  "referrer": "https://g2.gumgum.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://match.deepintent.com/usersync/142?redir=http%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Ddit%26i%3D%24%7BDI_USER_ID%7D", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://g2.gumgum.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.servenobid.com/sync?pid=309&cd=4043&uid=a_231ee179-1bcf-4311-86df-82932748b2a6", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "pid_310=3db1f03ef19416522f25cd53; pid_309=a_231ee179-1bcf-4311-86df-82932748b2a6; pid_304=118322264448265; pid_312=8555007021815792108; pid_314=eyJ4dWlkIjoiNzYzMjQ3ZjEtOTU4Ni00YzhkLWFlZWYtZDAxN2UyNGNlOTUwIiwiZHAiOnsicHVibWF0aWMiOnsidWlkIjoiMUIyQTgyNDAtMEI0Ri00OTExLTgzQTEtOTI3RkJGRkJDNDdBIiwiZXhwaXJlcyI6IjIwMjEtMDQtMTNUMTc6Mzg6NDQuNTQ1NTg5WiJ9LCJydWJpY29uIjp7InVpZCI6IktMUlZMUjc0LUctQzgyNiIsImV4cGlyZXMiOiIyMDIxLTA0LTEzVDE3OjM4OjQyLjgyMTU5WiJ9fSwiYmRheSI6IjIwMjEtMDMtMDJUMTE6MTc6MzYuNDE4Njg2WiJ9; pid_318=4odXUElFhVSNeiLacII1vEBKNTgWv6GlxVtPcPYZVjY"
+  },
+  "referrer": "https://g2.gumgum.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://m.adnxs.com/seg?add=5159620&redir=https%3A%2F%2Fm.adnxs.com%2Fmapuid%3Fmember%3D226%26user%3D08D4EAC98DCF6F2B1C5BE5278CC96E06%26redir%3Dhttps%253A%252F%252Fm.adnxs.com%252Fmapuid%253Fmember%253D280%2526user%253D08D4EAC98DCF6F2B1C5BE5278CC96E06", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw..; anj=dTM7k!M40F@gp_9k.oqGXa#36k1o_tQ%DA`0*!I^c9d%L%Wws/.z#ZiG+7O^>d73POLHi6QcFCu@kTD'W$Y9Q0BLJt%vb!5Yu:v<H19ojTPPA+(!xbXa*8-dlrPdmMEL<(h@B>%r8amNwPRtWc!LGeL=@I:9dn*0OaxPgDF!Yb]Hi=TN+)R6cC7WhFDHMhc/wc'iX[UZYY`B'AkKv<A0JkT23gREL8r_]p<sqG8GO'P8BS<z'J7N!CHwV^dpnNHVYsF2^h@!l])0SWXZmm!:I--['<83oWUx#dLs)v@pfQuLD<Mnu(l7zW^XvBWRh_M5+h0hPN8/%_>ZNw^Yy9M79XVMcJ@qPqavH_P0wf:t:8qZT+.%VmnpZ_u-<Cwv@hKdaDDtN/Ps<YY3@J92Ce<qWlJl'.=aEhY]Z2Y]EH(cfEnU-3+2upS4si?i8ww#d[-n(Eg$Q#bouYi7j5T)6G.UC!'!BX3``/GcP1Hsq]yBvf'I:>J6K[D`^/umyQs7LpHKWc-(CdtZDI=$-f5NVrMKJ>OA7>`A](s-7Fz=R$/n=Ky(EoR?0:b^12k_$8dIIzCovorE1<>H)X/xRi)?MzNuUi]PB2Ce?FU`k4/cxcQ@F8.JrjAI+YNNn>fq7VWIhCYe_g%N[g9tiR>yBsZ/#5B[f_wxU3M>yM()FiKJ>.KxUp$=8IeB[BH4j$W@WanO46B*]BU^(%OR5nL8FfW13N_+PXGUu>-dx>VP=RU[YthCq09/c$L-fh=Q9B%q5qtSQI6LoXV_dSC8ev37XZ:50HbMqq^mIF1G5_n-[FMI'%/hO7YvJ6$]RrXGB%7]@BLQ6wBTzq?*^T`HIE0*vDqb?wiv4bdUy:0E3A(TFAgbB3H.r]!PrxWF_a?Y1Bm8o5Pg)i=F=Ety[`aoGBDUg-Hz.dkguXNG+S[Tofyh<I?jse1(iQ8?SBs+3wgw>[/d]w9ion9b=Ah%a9eCu@pfpiW*if5bA5?X4>Xup_`a'euLrG=:$7r7JB%--lP/=]kOh!_b?4ZH1<>ijaGF^?nHo##U^[qKJ>Yzg5eH*DFl#Be'Od(sHj])Ny>ZwC-Y+OT)Cy'Ckfx@<Esx.gs-Ihjg9G$VwQz1$<o<-x/ZsOuBhZKw8TYL_Y)F<2DCO#zD(6Ky-#K?si`tLBO@9C'Z!1bpX%@Gogc5]tIOXlGaOFvJ_KFsOpU79^9QPlA'6Df)Kp-Z^iGguu<8k#=QdBpBsS292JRL3a*q+vvJWIE`5<uvz2R7MhW_qJl<EwKI/$g@.MLa8:JDo/=J:zlLF(xcT14Z!d5nq=Yxo-4=jI(3*-h%3'tbD9slG:9[u6a3i1v.^%^IyNreA#R]>)YWk5<#y69>6Wd.3r'9Mb/4azS@Bf'/Y:!k*11$</mtqLg=Tjn[@-82dB=9t0sDd:B^lXl1fwD!uiohDVg9V>dQ3qe_dmLD_EI=oD7S#947o=9hKI6HOi>.dOMx2ujb%DCb8JBiBWLOUGfG.:2FeBVJ*(3q8R?^Yf<2#VSzQEmDis6$Xj9EKt(-ci<Lw#>:Y]z]H.iq1<Ey3rugMR6nxiDl?[5K@(K[/+4qnjV^]-.H).@!u^%6ig'[ChU#jhJ_8JDnctZO4S]>9(yJqgO_^i>u>E.q]dn`(_F[>o#1mmynd9YOX0Z)MhhKlO3BIT<gx_g(=Dl-?@M(`Z'`WjAN*%SfTgg<7Kd-tCiXZ%+[15bE`9_`76PgQmlQpjhtMFZbF2:ETYarbKRfB)Hk%/.%tMJFA/Tse-mmC2:R7KtlM^hq<DkB@8jA33n#5Y<jBA$/v@I2Cl4-Nwl[ds(r:9]2`ZPDX^.K%8L.R=BixS`a<i)fU#IxN2[sME7aHm:H/q/.AXmeSu^Bm8zGOJ.dM4Uv^C4b6w+-_NKWa?Gbl_W!3_K2Wf%b:s]*StAOzc:F<kLOGf3se7T(!sx<?ELO^QngX7vb%3W]m8`5jYvuOaS)HQw^d'8[0ug-M<unK^K8#gNu<1yyD3YWm8^GqowB5(*pzPBw+7[!laaGvYq9D/%75(mr!x)yPkLlhmsye-^]Kn)B9i)6=2]7hsbsi)4%Xbv6Da/5L7:H#(6v=_W]cO@nK8nTPZi^gEqQJWLkR!lE<I1Ck!KsbE`NL3h<A.h+!H80_`%D%>#FUU1IW4C+7@Y7C+BdKXl8ky1E%V0uM0@qeJEL!Vmp^gsa1P9>gX`E9cPZIwDMeVGJxH$/CfHc@5*/Q:Txmtr1D_C'D*2XpP66*y8dozb:XG7]x0vNLud]#Km'-V]>UF8v6p_2!h#9.HD_[uRvtRG1yMAewm#4KBMti[`Ulqf=ePvu39Q^MlD_Ct!6L^vA+.d8EnF$<kMb[Yi0Ej5$!f%!QuMCA=paS7qw=tDqtw/LwoSwtPMGaFmUv#1QCroWg]^L(<KT1Mj3o<8T]vGkueqsu18BP('rgEs]%2jG86PN_uC7U6d%33Or5_'Xx!Xunybx)f+Xp#>$Vl/6_D7G*bSF!tN6N/_wS)XJ9F.GcanBbZt-iIlq+5bnO%LoYmOsguD^B]OL/Wa<uJ[b!2-4D-`U8^(?a?HTS7HETrqS_e>P94>o=HT/?HC's.W)ixAK:^kP)1H^Ja3<8Q5o:R%a4uhLOF7K<vv!(/4H(x0b5T9=?8t7/JFsG.@kR*#4^'auXk9(/yEkTq^F[]BDW$qv=Z6#NSuA5.@!Y3(EoDX@brt+p4#.+5-a.qO.wLVMq:#AZ(g!H(B0>dlmz/.dPd*dDWjCmY@pWUhcBhV<cb2A?!JcAxTWYpY(=[g*c2iUnS^Sf(%m#v$Vi6@/rVKa()0)-UQK?m2PAoCc]JgFc(+pQp:eW)zg817>1VrGt%7v+1[KiUUuJP3r^_u>LVZb:u9mqb1qbkkh*zvAPKtiUg<pWrDz!q)m^GDuf_Goo__e0]BTpaeajGi'@hOfpk<GMNc87s'Gi^CxmxY7dcrwu8]LDEf`ngYVqoJw==n8x7-2/hNS/q_+gfl^2(1]mO/W8u0)T5tzjK'Hd?bulnHX-0'4o<m9qj%TiVU]L5$*ALQFsoE(qC8td#1uZdaRD<2o_PDjO>Vmei6PtvB9<OCFyTeLAU-kOGvMoM)v<st=0^$7?=(%Pfpc77!Ch2upMQqP?MJCcMuE8_n94MeuLmO=sELWKPH-b@`f+g@K]CHk:iEb*@m'PQnDjCLK5aWJ'GmagZf2usDL?eX/zOvJ8D'mKXG+Hsc1ysvfWOKyCZXto_Opjzr7MuO^HT_^(m=x'w#LY`uHt$FKWyk<Sr(mbO3ZgF%`53*ogu*EoXQKTAI)I[>#2RRD:C$U3EXWu28k4TVTve]'*es(xJRJoVqZje39pL=Di64:zk3+##o_mMA_P?W<D:gK.4xYFf:UW-I$%b3)cuhPVPe@v#A70]>M3=aQ^tXx>_AowaA:fbj1lTIS@9ScJ?cphX07r1^wDbZYmiRiBi8Mye+mCl@Tw?M.xsH*nCw%hdUnWk]7%sk$1R0jIaH8K)9sMbvw)Mqwm%"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.servenobid.com/sync?pid=310&cbimg=3666&uid=3db1f03ef19416522f25cd53", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "pid_310=3db1f03ef19416522f25cd53; pid_309=a_231ee179-1bcf-4311-86df-82932748b2a6; pid_304=118322264448265; pid_312=8555007021815792108; pid_314=eyJ4dWlkIjoiNzYzMjQ3ZjEtOTU4Ni00YzhkLWFlZWYtZDAxN2UyNGNlOTUwIiwiZHAiOnsicHVibWF0aWMiOnsidWlkIjoiMUIyQTgyNDAtMEI0Ri00OTExLTgzQTEtOTI3RkJGRkJDNDdBIiwiZXhwaXJlcyI6IjIwMjEtMDQtMTNUMTc6Mzg6NDQuNTQ1NTg5WiJ9LCJydWJpY29uIjp7InVpZCI6IktMUlZMUjc0LUctQzgyNiIsImV4cGlyZXMiOiIyMDIxLTA0LTEzVDE3OjM4OjQyLjgyMTU5WiJ9fSwiYmRheSI6IjIwMjEtMDMtMDJUMTE6MTc6MzYuNDE4Njg2WiJ9; pid_318=4odXUElFhVSNeiLacII1vEBKNTgWv6GlxVtPcPYZVjY"
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x.bidswitch.net/sync?ssp=stickyads&gdpr=0&gdpr_consent=", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "c=1614681369; tuuid_lu=1614681370; tuuid=2b772fa4-91cc-4e67-adee-1c95488d8537"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ib.adnxs.com/mapuid?member=181&user=&google_gid=CAESEKUqzpZAdBpk5AKX7vUZ9uo&google_cver=1", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw..; anj=dTM7k!M40F@gp_9k.oqGXa#36k1o_tQ%DA`0*!I^c9d%L%Wws/.z#ZiG+7O^>d73POLHi6QcFCu@kTD'W$Y9Q0BLJt%vb!5Yu:v<H19ojTPPA+(!xbXa*8-dlrPdmMEL<(h@B>%r8amNwPRtWc!LGeL=@I:9dn*0OaxPgDF!Yb]Hi=TN+)R6cC7WhFDHMhc/wc'iX[UZYY`B'AkKv<A0JkT23gREL8r_]p<sqG8GO'P8BS<z'J7N!CHwV^dpnNHVYsF2^h@!l])0SWXZmm!:I--['<83oWUx#dLs)v@pfQuLD<Mnu(l7zW^XvBWRh_M5+h0hPN8/%_>ZNw^Yy9M79XVMcJ@qPqavH_P0wf:t:8qZT+.%VmnpZ_u-<Cwv@hKdaDDtN/Ps<YY3@J92Ce<qWlJl'.=aEhY]Z2Y]EH(cfEnU-3+2upS4si?i8ww#d[-n(Eg$Q#bouYi7j5T)6G.UC!'!BX3``/GcP1Hsq]yBvf'I:>J6K[D`^/umyQs7LpHKWc-(CdtZDI=$-f5NVrMKJ>OA7>`A](s-7Fz=R$/n=Ky(EoR?0:b^12k_$8dIIzCovorE1<>H)X/xRi)?MzNuUi]PB2Ce?FU`k4/cxcQ@F8.JrjAI+YNNn>fq7VWIhCYe_g%N[g9tiR>yBsZ/#5B[f_wxU3M>yM()FiKJ>.KxUp$=8IeB[BH4j$W@WanO46B*]BU^(%OR5nL8FfW13N_+PXGUu>-dx>VP=RU[YthCq09/c$L-fh=Q9B%q5qtSQI6LoXV_dSC8ev37XZ:50HbMqq^mIF1G5_n-[FMI'%/hO7YvJ6$]RrXGB%7]@BLQ6wBTzq?*^T`HIE0*vDqb?wiv4bdUy:0E3A(TFAgbB3H.r]!PrxWF_a?Y1Bm8o5Pg)i=F=Ety[`aoGBDUg-Hz.dkguXNG+S[Tofyh<I?jse1(iQ8?SBs+3wgw>[/d]w9ion9b=Ah%a9eCu@pfpiW*if5bA5?X4>Xup_`a'euLrG=:$7r7JB%--lP/=]kOh!_b?4ZH1<>ijaGF^?nHo##U^[qKJ>Yzg5eH*DFl#Be'Od(sHj])Ny>ZwC-Y+OT)Cy'Ckfx@<Esx.gs-Ihjg9G$VwQz1$<o<-x/ZsOuBhZKw8TYL_Y)F<2DCO#zD(6Ky-#K?si`tLBO@9C'Z!1bpX%@Gogc5]tIOXlGaOFvJ_KFsOpU79^9QPlA'6Df)Kp-Z^iGguu<8k#=QdBpBsS292JRL3a*q+vvJWIE`5<uvz2R7MhW_qJl<EwKI/$g@.MLa8:JDo/=J:zlLF(xcT14Z!d5nq=Yxo-4=jI(3*-h%3'tbD9slG:9[u6a3i1v.^%^IyNreA#R]>)YWk5<#y69>6Wd.3r'9Mb/4azS@Bf'/Y:!k*11$</mtqLg=Tjn[@-82dB=9t0sDd:B^lXl1fwD!uiohDVg9V>dQ3qe_dmLD_EI=oD7S#947o=9hKI6HOi>.dOMx2ujb%DCb8JBiBWLOUGfG.:2FeBVJ*(3q8R?^Yf<2#VSzQEmDis6$Xj9EKt(-ci<Lw#>:Y]z]H.iq1<Ey3rugMR6nxiDl?[5K@(K[/+4qnjV^]-.H).@!u^%6ig'[ChU#jhJ_8JDnctZO4S]>9(yJqgO_^i>u>E.q]dn`(_F[>o#1mmynd9YOX0Z)MhhKlO3BIT<gx_g(=Dl-?@M(`Z'`WjAN*%SfTgg<7Kd-tCiXZ%+[15bE`9_`76PgQmlQpjhtMFZbF2:ETYarbKRfB)Hk%/.%tMJFA/Tse-mmC2:R7KtlM^hq<DkB@8jA33n#5Y<jBA$/v@I2Cl4-Nwl[ds(r:9]2`ZPDX^.K%8L.R=BixS`a<i)fU#IxN2[sME7aHm:H/q/.AXmeSu^Bm8zGOJ.dM4Uv^C4b6w+-_NKWa?Gbl_W!3_K2Wf%b:s]*StAOzc:F<kLOGf3se7T(!sx<?ELO^QngX7vb%3W]m8`5jYvuOaS)HQw^d'8[0ug-M<unK^K8#gNu<1yyD3YWm8^GqowB5(*pzPBw+7[!laaGvYq9D/%75(mr!x)yPkLlhmsye-^]Kn)B9i)6=2]7hsbsi)4%Xbv6Da/5L7:H#(6v=_W]cO@nK8nTPZi^gEqQJWLkR!lE<I1Ck!KsbE`NL3h<A.h+!H80_`%D%>#FUU1IW4C+7@Y7C+BdKXl8ky1E%V0uM0@qeJEL!Vmp^gsa1P9>gX`E9cPZIwDMeVGJxH$/CfHc@5*/Q:Txmtr1D_C'D*2XpP66*y8dozb:XG7]x0vNLud]#Km'-V]>UF8v6p_2!h#9.HD_[uRvtRG1yMAewm#4KBMti[`Ulqf=ePvu39Q^MlD_Ct!6L^vA+.d8EnF$<kMb[Yi0Ej5$!f%!QuMCA=paS7qw=tDqtw/LwoSwtPMGaFmUv#1QCroWg]^L(<KT1Mj3o<8T]vGkueqsu18BP('rgEs]%2jG86PN_uC7U6d%33Or5_'Xx!Xunybx)f+Xp#>$Vl/6_D7G*bSF!tN6N/_wS)XJ9F.GcanBbZt-iIlq+5bnO%LoYmOsguD^B]OL/Wa<uJ[b!2-4D-`U8^(?a?HTS7HETrqS_e>P94>o=HT/?HC's.W)ixAK:^kP)1H^Ja3<8Q5o:R%a4uhLOF7K<vv!(/4H(x0b5T9=?8t7/JFsG.@kR*#4^'auXk9(/yEkTq^F[]BDW$qv=Z6#NSuA5.@!Y3(EoDX@brt+p4#.+5-a.qO.wLVMq:#AZ(g!H(B0>dlmz/.dPd*dDWjCmY@pWUhcBhV<cb2A?!JcAxTWYpY(=[g*c2iUnS^Sf(%m#v$Vi6@/rVKa()0)-UQK?m2PAoCc]JgFc(+pQp:eW)zg817>1VrGt%7v+1[KiUUuJP3r^_u>LVZb:u9mqb1qbkkh*zvAPKtiUg<pWrDz!q)m^GDuf_Goo__e0]BTpaeajGi'@hOfpk<GMNc87s'Gi^CxmxY7dcrwu8]LDEf`ngYVqoJw==n8x7-2/hNS/q_+gfl^2(1]mO/W8u0)T5tzjK'Hd?bulnHX-0'4o<m9qj%TiVU]L5$*ALQFsoE(qC8td#1uZdaRD<2o_PDjO>Vmei6PtvB9<OCFyTeLAU-kOGvMoM)v<st=0^$7?=(%Pfpc77!Ch2upMQqP?MJCcMuE8_n94MeuLmO=sELWKPH-b@`f+g@K]CHk:iEb*@m'PQnDjCLK5aWJ'GmagZf2usDL?eX/zOvJ8D'mKXG+Hsc1ysvfWOKyCZXto_Opjzr7MuO^HT_^(m=x'w#LY`uHt$FKWyk<Sr(mbO3ZgF%`53*ogu*EoXQKTAI)I[>#2RRD:C$U3EXWu28k4TVTve]'*es(xJRJoVqZje39pL=Di64:zk3+##o_mMA_P?W<D:gK.4xYFf:UW-I$%b3)cuhPVPe@v#A70]>M3=aQ^tXx>_AowaA:fbj1lTIS@9ScJ?cphX07r1^wDbZYmiRiBi8Mye+mCl@Tw?M.xsH*nCw%hdUnWk]7%sk$1R0jIaH8K)9sMbvw)Mqwm%"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ib.adnxs.com/setuid?entity=101&uid=8555007021815792108&code=CAESEKTY3JckjdRzhRof0Byg2pY&google_cver=1", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw..; anj=dTM7k!M40F@gp_9k.oqGXa#36k1o_tQ%DA`0*!I^c9d%L%Wws/.z#ZiG+7O^>d73POLHi6QcFCu@kTD'W$Y9Q0BLJt%vb!5Yu:v<H19ojTPPA+(!xbXa*8-dlrPdmMEL<(h@B>%r8amNwPRtWc!LGeL=@I:9dn*0OaxPgDF!Yb]Hi=TN+)R6cC7WhFDHMhc/wc'iX[UZYY`B'AkKv<A0JkT23gREL8r_]p<sqG8GO'P8BS<z'J7N!CHwV^dpnNHVYsF2^h@!l])0SWXZmm!:I--['<83oWUx#dLs)v@pfQuLD<Mnu(l7zW^XvBWRh_M5+h0hPN8/%_>ZNw^Yy9M79XVMcJ@qPqavH_P0wf:t:8qZT+.%VmnpZ_u-<Cwv@hKdaDDtN/Ps<YY3@J92Ce<qWlJl'.=aEhY]Z2Y]EH(cfEnU-3+2upS4si?i8ww#d[-n(Eg$Q#bouYi7j5T)6G.UC!'!BX3``/GcP1Hsq]yBvf'I:>J6K[D`^/umyQs7LpHKWc-(CdtZDI=$-f5NVrMKJ>OA7>`A](s-7Fz=R$/n=Ky(EoR?0:b^12k_$8dIIzCovorE1<>H)X/xRi)?MzNuUi]PB2Ce?FU`k4/cxcQ@F8.JrjAI+YNNn>fq7VWIhCYe_g%N[g9tiR>yBsZ/#5B[f_wxU3M>yM()FiKJ>.KxUp$=8IeB[BH4j$W@WanO46B*]BU^(%OR5nL8FfW13N_+PXGUu>-dx>VP=RU[YthCq09/c$L-fh=Q9B%q5qtSQI6LoXV_dSC8ev37XZ:50HbMqq^mIF1G5_n-[FMI'%/hO7YvJ6$]RrXGB%7]@BLQ6wBTzq?*^T`HIE0*vDqb?wiv4bdUy:0E3A(TFAgbB3H.r]!PrxWF_a?Y1Bm8o5Pg)i=F=Ety[`aoGBDUg-Hz.dkguXNG+S[Tofyh<I?jse1(iQ8?SBs+3wgw>[/d]w9ion9b=Ah%a9eCu@pfpiW*if5bA5?X4>Xup_`a'euLrG=:$7r7JB%--lP/=]kOh!_b?4ZH1<>ijaGF^?nHo##U^[qKJ>Yzg5eH*DFl#Be'Od(sHj])Ny>ZwC-Y+OT)Cy'Ckfx@<Esx.gs-Ihjg9G$VwQz1$<o<-x/ZsOuBhZKw8TYL_Y)F<2DCO#zD(6Ky-#K?si`tLBO@9C'Z!1bpX%@Gogc5]tIOXlGaOFvJ_KFsOpU79^9QPlA'6Df)Kp-Z^iGguu<8k#=QdBpBsS292JRL3a*q+vvJWIE`5<uvz2R7MhW_qJl<EwKI/$g@.MLa8:JDo/=J:zlLF(xcT14Z!d5nq=Yxo-4=jI(3*-h%3'tbD9slG:9[u6a3i1v.^%^IyNreA#R]>)YWk5<#y69>6Wd.3r'9Mb/4azS@Bf'/Y:!k*11$</mtqLg=Tjn[@-82dB=9t0sDd:B^lXl1fwD!uiohDVg9V>dQ3qe_dmLD_EI=oD7S#947o=9hKI6HOi>.dOMx2ujb%DCb8JBiBWLOUGfG.:2FeBVJ*(3q8R?^Yf<2#VSzQEmDis6$Xj9EKt(-ci<Lw#>:Y]z]H.iq1<Ey3rugMR6nxiDl?[5K@(K[/+4qnjV^]-.H).@!u^%6ig'[ChU#jhJ_8JDnctZO4S]>9(yJqgO_^i>u>E.q]dn`(_F[>o#1mmynd9YOX0Z)MhhKlO3BIT<gx_g(=Dl-?@M(`Z'`WjAN*%SfTgg<7Kd-tCiXZ%+[15bE`9_`76PgQmlQpjhtMFZbF2:ETYarbKRfB)Hk%/.%tMJFA/Tse-mmC2:R7KtlM^hq<DkB@8jA33n#5Y<jBA$/v@I2Cl4-Nwl[ds(r:9]2`ZPDX^.K%8L.R=BixS`a<i)fU#IxN2[sME7aHm:H/q/.AXmeSu^Bm8zGOJ.dM4Uv^C4b6w+-_NKWa?Gbl_W!3_K2Wf%b:s]*StAOzc:F<kLOGf3se7T(!sx<?ELO^QngX7vb%3W]m8`5jYvuOaS)HQw^d'8[0ug-M<unK^K8#gNu<1yyD3YWm8^GqowB5(*pzPBw+7[!laaGvYq9D/%75(mr!x)yPkLlhmsye-^]Kn)B9i)6=2]7hsbsi)4%Xbv6Da/5L7:H#(6v=_W]cO@nK8nTPZi^gEqQJWLkR!lE<I1Ck!KsbE`NL3h<A.h+!H80_`%D%>#FUU1IW4C+7@Y7C+BdKXl8ky1E%V0uM0@qeJEL!Vmp^gsa1P9>gX`E9cPZIwDMeVGJxH$/CfHc@5*/Q:Txmtr1D_C'D*2XpP66*y8dozb:XG7]x0vNLud]#Km'-V]>UF8v6p_2!h#9.HD_[uRvtRG1yMAewm#4KBMti[`Ulqf=ePvu39Q^MlD_Ct!6L^vA+.d8EnF$<kMb[Yi0Ej5$!f%!QuMCA=paS7qw=tDqtw/LwoSwtPMGaFmUv#1QCroWg]^L(<KT1Mj3o<8T]vGkueqsu18BP('rgEs]%2jG86PN_uC7U6d%33Or5_'Xx!Xunybx)f+Xp#>$Vl/6_D7G*bSF!tN6N/_wS)XJ9F.GcanBbZt-iIlq+5bnO%LoYmOsguD^B]OL/Wa<uJ[b!2-4D-`U8^(?a?HTS7HETrqS_e>P94>o=HT/?HC's.W)ixAK:^kP)1H^Ja3<8Q5o:R%a4uhLOF7K<vv!(/4H(x0b5T9=?8t7/JFsG.@kR*#4^'auXk9(/yEkTq^F[]BDW$qv=Z6#NSuA5.@!Y3(EoDX@brt+p4#.+5-a.qO.wLVMq:#AZ(g!H(B0>dlmz/.dPd*dDWjCmY@pWUhcBhV<cb2A?!JcAxTWYpY(=[g*c2iUnS^Sf(%m#v$Vi6@/rVKa()0)-UQK?m2PAoCc]JgFc(+pQp:eW)zg817>1VrGt%7v+1[KiUUuJP3r^_u>LVZb:u9mqb1qbkkh*zvAPKtiUg<pWrDz!q)m^GDuf_Goo__e0]BTpaeajGi'@hOfpk<GMNc87s'Gi^CxmxY7dcrwu8]LDEf`ngYVqoJw==n8x7-2/hNS/q_+gfl^2(1]mO/W8u0)T5tzjK'Hd?bulnHX-0'4o<m9qj%TiVU]L5$*ALQFsoE(qC8td#1uZdaRD<2o_PDjO>Vmei6PtvB9<OCFyTeLAU-kOGvMoM)v<st=0^$7?=(%Pfpc77!Ch2upMQqP?MJCcMuE8_n94MeuLmO=sELWKPH-b@`f+g@K]CHk:iEb*@m'PQnDjCLK5aWJ'GmagZf2usDL?eX/zOvJ8D'mKXG+Hsc1ysvfWOKyCZXto_Opjzr7MuO^HT_^(m=x'w#LY`uHt$FKWyk<Sr(mbO3ZgF%`53*ogu*EoXQKTAI)I[>#2RRD:C$U3EXWu28k4TVTve]'*es(xJRJoVqZje39pL=Di64:zk3+##o_mMA_P?W<D:gK.4xYFf:UW-I$%b3)cuhPVPe@v#A70]>M3=aQ^tXx>_AowaA:fbj1lTIS@9ScJ?cphX07r1^wDbZYmiRiBi8Mye+mCl@Tw?M.xsH*nCw%hdUnWk]7%sk$1R0jIaH8K)9sMbvw)Mqwm%"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ib.adnxs.com/setuid?entity=8&code=17bb603e-151c-4f00-a3a5-2e16f4414c5f", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw..; anj=dTM7k!M40F@gp_9k.oqGXa#36k1o_tQ%DA`0*!I^c9d%L%Wws/.z#ZiG+7O^>d73POLHi6QcFCu@kTD'W$Y9Q0BLJt%vb!5Yu:v<H19ojTPPA+(!xbXa*8-dlrPdmMEL<(h@B>%r8amNwPRtWc!LGeL=@I:9dn*0OaxPgDF!Yb]Hi=TN+)R6cC7WhFDHMhc/wc'iX[UZYY`B'AkKv<A0JkT23gREL8r_]p<sqG8GO'P8BS<z'J7N!CHwV^dpnNHVYsF2^h@!l])0SWXZmm!:I--['<83oWUx#dLs)v@pfQuLD<Mnu(l7zW^XvBWRh_M5+h0hPN8/%_>ZNw^Yy9M79XVMcJ@qPqavH_P0wf:t:8qZT+.%VmnpZ_u-<Cwv@hKdaDDtN/Ps<YY3@J92Ce<qWlJl'.=aEhY]Z2Y]EH(cfEnU-3+2upS4si?i8ww#d[-n(Eg$Q#bouYi7j5T)6G.UC!'!BX3``/GcP1Hsq]yBvf'I:>J6K[D`^/umyQs7LpHKWc-(CdtZDI=$-f5NVrMKJ>OA7>`A](s-7Fz=R$/n=Ky(EoR?0:b^12k_$8dIIzCovorE1<>H)X/xRi)?MzNuUi]PB2Ce?FU`k4/cxcQ@F8.JrjAI+YNNn>fq7VWIhCYe_g%N[g9tiR>yBsZ/#5B[f_wxU3M>yM()FiKJ>.KxUp$=8IeB[BH4j$W@WanO46B*]BU^(%OR5nL8FfW13N_+PXGUu>-dx>VP=RU[YthCq09/c$L-fh=Q9B%q5qtSQI6LoXV_dSC8ev37XZ:50HbMqq^mIF1G5_n-[FMI'%/hO7YvJ6$]RrXGB%7]@BLQ6wBTzq?*^T`HIE0*vDqb?wiv4bdUy:0E3A(TFAgbB3H.r]!PrxWF_a?Y1Bm8o5Pg)i=F=Ety[`aoGBDUg-Hz.dkguXNG+S[Tofyh<I?jse1(iQ8?SBs+3wgw>[/d]w9ion9b=Ah%a9eCu@pfpiW*if5bA5?X4>Xup_`a'euLrG=:$7r7JB%--lP/=]kOh!_b?4ZH1<>ijaGF^?nHo##U^[qKJ>Yzg5eH*DFl#Be'Od(sHj])Ny>ZwC-Y+OT)Cy'Ckfx@<Esx.gs-Ihjg9G$VwQz1$<o<-x/ZsOuBhZKw8TYL_Y)F<2DCO#zD(6Ky-#K?si`tLBO@9C'Z!1bpX%@Gogc5]tIOXlGaOFvJ_KFsOpU79^9QPlA'6Df)Kp-Z^iGguu<8k#=QdBpBsS292JRL3a*q+vvJWIE`5<uvz2R7MhW_qJl<EwKI/$g@.MLa8:JDo/=J:zlLF(xcT14Z!d5nq=Yxo-4=jI(3*-h%3'tbD9slG:9[u6a3i1v.^%^IyNreA#R]>)YWk5<#y69>6Wd.3r'9Mb/4azS@Bf'/Y:!k*11$</mtqLg=Tjn[@-82dB=9t0sDd:B^lXl1fwD!uiohDVg9V>dQ3qe_dmLD_EI=oD7S#947o=9hKI6HOi>.dOMx2ujb%DCb8JBiBWLOUGfG.:2FeBVJ*(3q8R?^Yf<2#VSzQEmDis6$Xj9EKt(-ci<Lw#>:Y]z]H.iq1<Ey3rugMR6nxiDl?[5K@(K[/+4qnjV^]-.H).@!u^%6ig'[ChU#jhJ_8JDnctZO4S]>9(yJqgO_^i>u>E.q]dn`(_F[>o#1mmynd9YOX0Z)MhhKlO3BIT<gx_g(=Dl-?@M(`Z'`WjAN*%SfTgg<7Kd-tCiXZ%+[15bE`9_`76PgQmlQpjhtMFZbF2:ETYarbKRfB)Hk%/.%tMJFA/Tse-mmC2:R7KtlM^hq<DkB@8jA33n#5Y<jBA$/v@I2Cl4-Nwl[ds(r:9]2`ZPDX^.K%8L.R=BixS`a<i)fU#IxN2[sME7aHm:H/q/.AXmeSu^Bm8zGOJ.dM4Uv^C4b6w+-_NKWa?Gbl_W!3_K2Wf%b:s]*StAOzc:F<kLOGf3se7T(!sx<?ELO^QngX7vb%3W]m8`5jYvuOaS)HQw^d'8[0ug-M<unK^K8#gNu<1yyD3YWm8^GqowB5(*pzPBw+7[!laaGvYq9D/%75(mr!x)yPkLlhmsye-^]Kn)B9i)6=2]7hsbsi)4%Xbv6Da/5L7:H#(6v=_W]cO@nK8nTPZi^gEqQJWLkR!lE<I1Ck!KsbE`NL3h<A.h+!H80_`%D%>#FUU1IW4C+7@Y7C+BdKXl8ky1E%V0uM0@qeJEL!Vmp^gsa1P9>gX`E9cPZIwDMeVGJxH$/CfHc@5*/Q:Txmtr1D_C'D*2XpP66*y8dozb:XG7]x0vNLud]#Km'-V]>UF8v6p_2!h#9.HD_[uRvtRG1yMAewm#4KBMti[`Ulqf=ePvu39Q^MlD_Ct!6L^vA+.d8EnF$<kMb[Yi0Ej5$!f%!QuMCA=paS7qw=tDqtw/LwoSwtPMGaFmUv#1QCroWg]^L(<KT1Mj3o<8T]vGkueqsu18BP('rgEs]%2jG86PN_uC7U6d%33Or5_'Xx!Xunybx)f+Xp#>$Vl/6_D7G*bSF!tN6N/_wS)XJ9F.GcanBbZt-iIlq+5bnO%LoYmOsguD^B]OL/Wa<uJ[b!2-4D-`U8^(?a?HTS7HETrqS_e>P94>o=HT/?HC's.W)ixAK:^kP)1H^Ja3<8Q5o:R%a4uhLOF7K<vv!(/4H(x0b5T9=?8t7/JFsG.@kR*#4^'auXk9(/yEkTq^F[]BDW$qv=Z6#NSuA5.@!Y3(EoDX@brt+p4#.+5-a.qO.wLVMq:#AZ(g!H(B0>dlmz/.dPd*dDWjCmY@pWUhcBhV<cb2A?!JcAxTWYpY(=[g*c2iUnS^Sf(%m#v$Vi6@/rVKa()0)-UQK?m2PAoCc]JgFc(+pQp:eW)zg817>1VrGt%7v+1[KiUUuJP3r^_u>LVZb:u9mqb1qbkkh*zvAPKtiUg<pWrDz!q)m^GDuf_Goo__e0]BTpaeajGi'@hOfpk<GMNc87s'Gi^CxmxY7dcrwu8]LDEf`ngYVqoJw==n8x7-2/hNS/q_+gfl^2(1]mO/W8u0)T5tzjK'Hd?bulnHX-0'4o<m9qj%TiVU]L5$*ALQFsoE(qC8td#1uZdaRD<2o_PDjO>Vmei6PtvB9<OCFyTeLAU-kOGvMoM)v<st=0^$7?=(%Pfpc77!Ch2upMQqP?MJCcMuE8_n94MeuLmO=sELWKPH-b@`f+g@K]CHk:iEb*@m'PQnDjCLK5aWJ'GmagZf2usDL?eX/zOvJ8D'mKXG+Hsc1ysvfWOKyCZXto_Opjzr7MuO^HT_^(m=x'w#LY`uHt$FKWyk<Sr(mbO3ZgF%`53*ogu*EoXQKTAI)I[>#2RRD:C$U3EXWu28k4TVTve]'*es(xJRJoVqZje39pL=Di64:zk3+##o_mMA_P?W<D:gK.4xYFf:UW-I$%b3)cuhPVPe@v#A70]>M3=aQ^tXx>_AowaA:fbj1lTIS@9ScJ?cphX07r1^wDbZYmiRiBi8Mye+mCl@Tw?M.xsH*nCw%hdUnWk]7%sk$1R0jIaH8K)9sMbvw)Mqwm%"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://m.adnxs.com/mapuid?member=226&user=08D4EAC98DCF6F2B1C5BE5278CC96E06&redir=https%3A%2F%2Fm.adnxs.com%2Fmapuid%3Fmember%3D280%26user%3D08D4EAC98DCF6F2B1C5BE5278CC96E06", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw..; anj=dTM7k!M40F@gp_9k.oqGXa#36k1o_tQ%DA`0*!I^c9d%L%Wws/.z#ZiG+7O^>d73POLHhm*29Yn][!a-5LED%=`tqm*r>rF<VreSlZlmY0I2Q4-aQ94Hqv1LaQJrXMEL<(h@B>%r8amNwPRtWc!LGeL=@I:9dn*0OaxPow[3j2Kn.Qcx4''@M-OyThH4[QM@XD+Z9x)9:wdS+_ZstT]xUR+A`o2gtNj@=hXd/=N/50$Ma*R5+pBr!bmk+@PN(om4x=bACwhp]@ofz28z1X!Qn-1<qU<^BKDIVBt?Rn>Xq5HlP0bFb=:V#DdR%3C6rwnkH-X/$!F/h_eadWy5=/=Q'_m$@fcHT3DBhhKjU$5l'<)CP(8`r>I>^CvuAEOnBZEMxqSA5vFEFFY2'Ji_qA25rQxdt-`[z2_9zfga`W5QvR`<-@-*e#c0wIXz>2w8dA>v3O@B*5gdVv$f=jZ^N=@(ryWcnd'ol?==?X/$BQwiNxIF'7OVgI[P1qzD]HMEG[T(wP8GJQlq48)cls^@1[t]o.NtY/J0EXwCj3OmH?5`4P`3T%Ur%L2vT$Hl09'o`55OwM]=?m](.$>OEiFQqxi/s9?H3[0P.m(%LX.)x1p>4)*_M9`2e4a$oz6*bN[WHdX[2hx$dNiQrQ5<^]g(S3$K(2L@_%2^!$_A8Q^9:.cnO0_Fv@VTfAn<i1)`ytsQ-H<%>N6^Qp*$1e2BvUgO=K0zuw-0GaT7#^`]KM3w=5*-M$P_q9Gtm0DqWD[71mZo?]+Az<E2iJ)E:TcW1/vn*:xLvsIeaoiBBkbaS9ch'^cNaf38d@%t7^4-jq4A*]7T_8MwwPv`ihbBgM:'JhA.t)+/GOPA`u<iGgaQM.b5jn)/+mWZFo/xnX>I759'nIgAPdyYt=_a%EVV(k]]ClMnczOFw`*a07^]8=K%>:l@gKn!P-Y4'e^2.(vdjG.m/g*g(KMh]u6^rq:#`)F5ta%(IIi-sC?[=g>G0oFEBCi$yvyN7GAFnU6n=m=siY5:X@?h.Scr#X[:Rh8y)PqYr-'mQaoVh^:2JmRL.P!kcC8'J*rvoU[qAGdRaR*+Sxq>DIz:(/fMqnU'?>GAce#5U/f/kviW1>vOI>Ib^Y<j>JMIS0o7X+nmn(PobBa2705$xO=Pdr@HuyAfw#'[N?B_c@g[gqIBGCe)91=3qjd$UL%Z%0'<a7-NYsy+1h_FNV'/SC4TvNfd(-l'!$H5dZ0_=HIjQc'^2EBRp5)98M6i%vad]i(-2<6CQi+ERWOWHlO5`51.cuY-RdzWgU/tMSaLc1:PAil7KTMZK/>ys#KTgobj/qxpVS_LD2.Y*G=o3n*(MvqH2J)8P.<J.W:1:iUr[-(Tpm*I33fcWx8xz/U:fX]>O_-SX`[D1*:d(:q#Y^krthcK9@k3deWla$MZZwemiJiJ1_/<ERtpC%o>#-Ob)D[Nl@fO%F#T+j1OuG^Y<b80JVtBRRQs?U+m-f[C0NHBP<nm6#UPz_ldUe3Se0t`ju7%FtHtVcVn:XdQBqs!jd:*mY'(!3Qcu`y6UI%rJQ!P8sEM1gG+gx^9dS>%As7l3%-ch@(OE(*0*:)+O`vq-hm^Mtt996Db3Nh+`=9`VF+e#K_g'olcF9Cjiqu[QJ=FNnHrDUQX.5Cy:O]lHF<VidPSML`ALBH<MKFO1]:ldl7F(x4_0(Xsc*6KN%3#DhDbd@PF$slXd4kF3GuO'!VdvI?cP$u#v<Ge@P<0ycCBO?9%rZ(Gf3!Cpp]uEg%0XF^jatY#-7R<^C5dbkqJOEpZN?iq+@A*t!?#=9ECu5P7.]az$U[`Or@Hzw?^_-1l1_kR*PP9%]9UsSUf%]285C#X>T%IRvK`lsF?RQ+1)xfUhY<!9.gZ]An%UrI5svKhyu#i'1$$c6[/l4f#jO.^O3m:T9Dg`)p*rU_-:U2aC]NrFFv5y'RN.bx2j'idM'1TFW6W^dJb15fu*D1N3F)Q1>2XL=[mfFf?#J`#J%BIJ2>Y2D%.B'?F0pRUqeZ9[9*Uf)zL=J`6`O3?UD%td!Ih7:WM=uUFcRg]TNZoxf]UFp=.RLJ:D@#jf7iDLfazJC:n'8K/SE^zcEZq5`OhT?I9aD/[s5IqE06s@g0Pr(WTHC11kMR:W(26wNIg[g9/nS+(6Hefke5A2:!QXJJY^u7#K9t_Sm+IeeRlY]Vas_W$=p1L@/Pr3?<^w>^O=^a_Zk!ElvFIES0h3*7kV^S3gX@fmJ!gLQJcdiB=L%Sh72!V0Nd%JmHE%kj2m%kEiM)sJIJ!>elxWjaa>/6sr=-aV9`>MoJqh>U3??'iK?]Fej[q!lh_(CZb>M^e47P'H2bpL?Zd!e5*hiZYszVHq4@%V.B*X*MD)'a<l0_ZLlMrKP^Z:V.ob6?XpQ!:s=h`i<wr)=5e+JS?Ke.M-[9:9420%Sd7F:%RM.Q`a4s'XdqEGOgA>ss=#B]5O-tM6[20Dp_7I/m1!Xh.m#/Yd*JA[Z`#CIc'uVRC6jt[Q0dF==Ed^#3kGAjC8F#>J<TtJJd#Qjgs<OOJeGOZ]`W5_C^r0/xi4YoLiVq'T0[5f!)@%4E.qB@T`2sv/[[I1:KSs2AXC?Z*b4AvRCwMen@T^M!6ef=2VRv#2%.]Ml(R8dMsYe'(4cuS1B*g`!22<BU(?.%^j[62jCn@)bR-%ZEcd[SWtNC4UT#(i+U3BIw*joi/R)lmbsclyREB2J8Iut+f#%%i!b%<BL`?Ml5<OjWJDF.gY[OWM>2MEu31UE!4yQBss4ErmE'`O`+@DIBemAf_WsSG?%7Wppq0dZLnnx*R3VSY2n0d2kHjn3g'#SB/#%-a0cYunhT64lfZ7sVL>J^/$CPm3_QRuY`eokD$zf2sRhnXrzJdE-ON/RXgc7wU->Z>R+('js(f6qK+ziA)uB%u$-GkkA$B`86yL0ZnhgDuG5I-v1to*^Hperk9H#VB6f9sYI6]'bEw:ZZp.t^qAb1/`Nilau^XzdQH5GsI<rakr+fzJ>MO1$si##o=<3='ml(f*mpTMDH:HU>h/zrBM?h$+6mL3F_-/9u/DlBIR1HQl$-7iL`Lz4d'b@[^Kly_It'8xFrIij<'<<f%vSA..T5J$ab2LsOb8ig24L[=GXGk@P4nR3DZ*6['jy2z$bM-9hZ5^!sc`k7i]NOcAS<ja*BBGJRum<f+W$*g*J6^++vCOt=7V[I'p[S>SkdGXGS[3StTuC6wrtzZR[ggOU@vc1ATZszA4a>3$A:8Y`-izl1TpwHew!llNlsI9NY^]k@egetoBW6X*mA(/$wt[p2MHGCZ8Jho_GQm*Cx%AIdbjWz=nUPMCdF<b(_fSLisJ)-IK_+3vS9B6CpL^>bLW44:kx:.crr_h3pp^8ENcQkCL7O!lgC>JG24:xLbEvxq*^fd2K#r>0r(MBiP^M=eew#2_E=@YlkF!oaGVr!TboGu5Nb[:1bk$QzdVr-7tvlOH3$LWYUjQIFo3knSR*]7y)ohRZGLdbnhSx%lkGS6Z49F!K"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://m.adnxs.com/mapuid?member=280&user=08D4EAC98DCF6F2B1C5BE5278CC96E06", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "uuid2=8555007021815792108; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTgzMjIyNjQ0NDgyNjUiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMVoifSwiYWRmb3JtIjp7InVpZCI6IjQyNTU2MjIwMDAyMjY1NjExNDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNToxMloifSwiYWRtaXhlciI6eyJ1aWQiOiIxYTYwMmQ3NzM4YTA0YWQyODA5YzFiYjNkNGMzMTA4NSIsImV4cGlyZXMiOiIyMDIxLTA0LTEyVDIwOjM4OjMzLjgyNDgzMjExNloifSwiYWRueHMiOnsidWlkIjoiODU1NTAwNzAyMTgxNTc5MjEwOCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjIzOjU1Ljc3NzYzMDg5M1oifSwiYWR2YW5nZWxpc3RzIjp7InVpZCI6IiRVSUQiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwiYWphIjp7InVpZCI6InMyc3VpZEJLem1NUFRva0MxTVdzQ2VBZTRMa0EiLCJleHBpcmVzIjoiMjAyMS0wNC0xMlQyMDozODozNi4zODY5NzI5MTNaIn0sImJlYWNoZnJvbnQiOnsidWlkIjoiNThmZDAwZGMtN2JmZC00NzFmLTljYzItNjY1M2E2OWUyODQ4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjdaIn0sImVteF9kaWdpdGFsIjp7InVpZCI6Ijg1NTUwMDcwMjE4MTU3OTIxMDhicnQyNTQ4MTYxNDY4MTM4MDQxOTg1N2Q1IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjM6NTRaIn0sImVwbGFubmluZyI6eyJ1aWQiOiJBSzI2a3N5Rzh0Zy14a2dCIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDdaIn0sImdhbW9zaGkiOnsidWlkIjoiZ3Vzcl82MDYyM2FjOGU0YjA1NDNjMjc2NjIzNjciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwiZ3VtZ3VtIjp7InVpZCI6ImFfMjMxZWUxNzktMWJjZi00MzExLTg2ZGYtODI5MzI3NDhiMmE2IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MjZaIn0sImppeGllIjp7InVpZCI6ImVhNGUzOTMwLTg2NzYtMTFlYi05NjZjLTkxYmRhZTFlN2U4NiIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIyLjM2NTk3MjgwNFoifSwibG9naWNhZCI6eyJ1aWQiOiJBWHphYU9UNWQ5RFNrczhBQzE1aWRFRzl0czhBQUFGNFlQbDZHUSIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI0OjI1Ljg0NTc1MTQ3NFoifSwibWVkaWFmdXNlIjp7InVpZCI6IjViZTIwNDE5Y2U4OGQ3OGIiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1Ni45NzAwNDA0ODlaIn0sIm1naWQiOnsidWlkIjoibDJia25WWkdGMUU4IiwiZXhwaXJlcyI6IjIwMjEtMDYtMjdUMjA6Mzg6MzNaIn0sIm5hbm9pbnRlcmFjdGl2ZSI6eyJ1aWQiOiI3MWNiZjM1MjM5MjI5NDU1ZWY4MTI4MjNlOTM5MWE4M2MyMWM4OWExNWE5MTk0MzY1ZmQ1NmIyNDhkMzJkZTQ5IiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MDIuNDg5NzIxNzA4WiJ9LCJuaW50aGRlY2ltYWwiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIwLjQ1MDAxOTcyNloifSwib25ldGFnIjp7InVpZCI6InNYZllYbTJvUl9sY3dUVVptbXhudURmMzIzNnJwVjZ4RmdvRjAyZkwyX2siLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyMzo1NS43Nzc2MzUyMzdaIn0sIm9wZW54Ijp7InVpZCI6ImE0NTliYjcwLWViNGUtMGViNS0yZGRmLTNmZmM5NDkxMjZkYyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjIzOjU2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiIxQjJBODI0MC0wQjRGLTQ5MTEtODNBMS05MjdGQkZGQkM0N0EiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyNDozMFoifSwicmh5dGhtb25lIjp7InVpZCI6IlJYLTQ2NjQ1OWI0LTYxZDQtNGQ5Ny05NWE1LTAxZjZmMDg3NjIyOS0wMDQiLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMVoifSwicnViaWNvbiI6eyJ1aWQiOiJLTFJWTFI3NC1HLUM4MjYiLCJleHBpcmVzIjoiMjAyMS0wNi0yMVQyMToyMzo1OFoifSwic2hhcmV0aHJvdWdoIjp7InVpZCI6ImNiNDA1NzczLWFlZGYtNDlhMC05MTljLTRhNzA4N2NhMDYwZCIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJzbWFydGFkc2VydmVyIjp7InVpZCI6IjIwOTAzNDE0MzYxNTYyMDg2MTciLCJleHBpcmVzIjoiMjAyMS0wNi0yN1QyMDozODozMloifSwic21hcnRydGIiOnsidWlkIjoieC1mOWU1N2Y5MS04ZjdkLTRjMTgtOWY0ZC00NGVjZjZjMTg4MTkiLCJleHBpcmVzIjoiMjAyMS0wNC0wNlQyMToyNDowNC42MDk3MDkyNjlaIn0sInNvdnJuIjp7InVpZCI6IjNkYjFmMDNlZjE5NDE2NTIyZjI1Y2Q1MyIsImV4cGlyZXMiOiIyMDIxLTA2LTIxVDIxOjI1OjE3WiJ9LCJ0YXBweCI6eyJ1aWQiOiI3OTYxNTQ4MDgzNzIyNzY5NjgzIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MzcuMzgyMTY0Mzg0WiJ9LCJ0cmlwbGVsaWZ0Ijp7InVpZCI6IjQ0ODQxODM3NTQ4OTk1MTM3MTYiLCJleHBpcmVzIjoiMjAyMS0wNi0yNVQxODozOTo0MVoifSwidHJ1c3R4Ijp7InVpZCI6IjJiNzcyZmE0LTkxY2MtNGU2Ny1hZGVlLTFjOTU0ODhkODUzNyIsImV4cGlyZXMiOiIyMDIxLTA0LTA2VDIxOjI1OjIxLjMxMDAxNDM2NVoifSwidmlzeCI6eyJ1aWQiOiJlM2RmNzZhYS0yZmY5LTRiZjUtOTk4Zi05NTExMGE3NDkxMzkiLCJleHBpcmVzIjoiMjAyMS0wNi0xNFQxNjo0NDo1OVoifSwieWllbGRsYWIiOnsidWlkIjoiNDFiMTQzOTEtZGY2OS00YjcwLTlmNzctNWFjNjFkMjc0Y2FhIiwiZXhwaXJlcyI6IjIwMjEtMDQtMDZUMjE6MjQ6MjUuMzUwMjI2MjIzWiJ9LCJ5aWVsZG1vIjp7InVpZCI6Imc2MjZiYjAwOWRkNDI3YjNiYzYzIiwiZXhwaXJlcyI6IjIwMjEtMDYtMjFUMjE6MjQ6MDBaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LVF0SDY3blpFMnVFNWdJaWZEVjZkMW95X3c1WXBTSUkxc1l3S2Z1WktHMG5vNjFFX0ozV3l1UzRELkg3U1FIYy5UQS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wNi0yOFQxNDo1NDoyNloifX19; usersync=eNqdmMtOozEMhd_lX3cRX2I7fRWEEGK6qMRNtEIgxLvT0QwVUpP8-Gzbfjq2e-w4-Vhedy-H_dPjsqXN8rx_290flu3Vx7L_s2zrZjm8P97dHI63L8fTD4ycqAbL_8_vnh6e73fH3emrz80_JC6RUkuhNkZaXoVKV0bKRIYIYDSfDtUuE3WWj3Vq4BrsF0z5ZpgGTB3rcC-2vzKT2M4xZJjIM8L5WosAOjXvA2n5WivgHfVf65x9UIFeMMrHZgxMg8vYLLyI24QhQAeJTfI914C6tU5vlxZ-zrM734BGJWhaDUdPnUEBzGyWvBlIAqiejiw0HfWR7z2qjhwQDVAatt9MyQSontV8Y5z-yfypxyQIVPOFYBrZyGdQy1ePuTeOWzvZfAYRUAhmREny3mNWYD3p7g1r4QlSPVEEMgBSQSAkPDXAsIo0YW9_WHVEBSYsV0UgYF3jilSvO8tXIeDCw8MDYNZPvbG8Gp4Z4Ai_dETVaEqzuefILPc6aA2bQQ2AelvlOsRAyUMRJaQQgdwaIwClhuTULA9JKfmcpBhwpSsOKHUfHlYcIdRf3bzNbqnIbiSD3WhFyQCIIagBkCDVE2BjEVVAaXDmzr2no0LE7N2CEcgBGxmwEogh4VlFIGDNESdAyZGcXAFHOFIIB9Yc8UAg4MoqUYCcAvmfum85fehHeJp_xJDIvIlff34B3oE5SQ..; icu=ChgIm_VtEAoYAiAEKAQw3IiWgwY4AkAESAQQ3IiWgwYYAw..; anj=dTM7k!M40F@gp_9k.oqGXa#36k1o_tQ%DA`0*!I^c9d%L%Wws/.z#ZiG+7O^>d73POLHhm*29Yn][!a-5LED%=`tqm*r>rF<VreSlZlmY0I2Q4-aQ94Hqv1LaQJrXMEL<(h@B>%r8amNwPRtWc!LGeL=@I:9dn*0OaxPow[3j2Kn.Qcx4''@M-OyThH4[QM@XD+Z9x)9:wdS+_ZstT]xUR+A`o2gtNj@=hXd/=N/50$Ma*R5+pBr!bmk+@PN(om4x=bACwhp]@ofz28z1X!Qn-1<qU<^BKDIVBt?Rn>Xq5HlP0bFb=:V#DdR%3C6rwnkH-X/$!F/h_eadWy5=/=Q'_m$@fcHT3DBhhKjU$5l'<)CP(8`r>I>^CvuAEOnBZEMxqSA5vFEFFY2'Ji_qA25rQxdt-`[z2_9zfga`W5QvR`<-@-*e#c0wIXz>2w8dA>v3O@B*5gdVv$f=jZ^N=@(ryWcnd'ol?==?X/$BQwiNxIF'7OVgI[P1qzD]HMEG[T(wP8GJQlq48)cls^@1[t]o.NtY/J0EXwCj3OmH?5`4P`3T%Ur%L2vT$Hl09'o`55OwM]=?m](.$>OEiFQqxi/s9?H3[0P.m(%LX.)x1p>4)*_M9`2e4a$oz6*bN[WHdX[2hx$dNiQrQ5<^]g(S3$K(2L@_%2^!$_A8Q^9:.cnO0_Fv@VTfAn<i1)`ytsQ-H<%>N6^Qp*$1e2BvUgO=K0zuw-0GaT7#^`]KM3w=5*-M$P_q9Gtm0DqWD[71mZo?]+Az<E2iJ)E:TcW1/vn*:xLvsIeaoiBBkbaS9ch'^cNaf38d@%t7^4-jq4A*]7T_8MwwPv`ihbBgM:'JhA.t)+/GOPA`u<iGgaQM.b5jn)/+mWZFo/xnX>I759'nIgAPdyYt=_a%EVV(k]]ClMnczOFw`*a07^]8=K%>:l@gKn!P-Y4'e^2.(vdjG.m/g*g(KMh]u6^rq:#`)F5ta%(IIi-sC?[=g>G0oFEBCi$yvyN7GAFnU6n=m=siY5:X@?h.Scr#X[:Rh8y)PqYr-'mQaoVh^:2JmRL.P!kcC8'J*rvoU[qAGdRaR*+Sxq>DIz:(/fMqnU'?>GAce#5U/f/kviW1>vOI>Ib^Y<j>JMIS0o7X+nmn(PobBa2705$xO=Pdr@HuyAfw#'[N?B_c@g[gqIBGCe)91=3qjd$UL%Z%0'<a7-NYsy+1h_FNV'/SC4TvNfd(-l'!$H5dZ0_=HIjQc'^2EBRp5)98M6i%vad]i(-2<6CQi+ERWOWHlO5`51.cuY-RdzWgU/tMSaLc1:PAil7KTMZK/>ys#KTgobj/qxpVS_LD2.Y*G=o3n*(MvqH2J)8P.<J.W:1:iUr[-(Tpm*I33fcWx8xz/U:fX]>O_-SX`[D1*:d(:q#Y^krthcK9@k3deWla$MZZwemiJiJ1_/<ERtpC%o>#-Ob)D[Nl@fO%F#T+j1OuG^Y<b80JVtBRRQs?U+m-f[C0NHBP<nm6#UPz_ldUe3Se0t`ju7%FtHtVcVn:XdQBqs!jd:*mY'(!3Qcu`y6UI%rJQ!P8sEM1gG+gx^9dS>%As7l3%-ch@(OE(*0*:)+O`vq-hm^Mtt996Db3Nh+`=9`VF+e#K_g'olcF9Cjiqu[QJ=FNnHrDUQX.5Cy:O]lHF<VidPSML`ALBH<MKFO1]:ldl7F(x4_0(Xsc*6KN%3#DhDbd@PF$slXd4kF3GuO'!VdvI?cP$u#v<Ge@P<0ycCBO?9%rZ(Gf3!Cpp]uEg%0XF^jatY#-7R<^C5dbkqJOEpZN?iq+@A*t!?#=9ECu5P7.]az$U[`Or@Hzw?^_-1l1_kR*PP9%]9UsSUf%]285C#X>T%IRvK`lsF?RQ+1)xfUhY<!9.gZ]An%UrI5svKhyu#i'1$$c6[/l4f#jO.^O3m:T9Dg`)p*rU_-:U2aC]NrFFv5y'RN.bx2j'idM'1TFW6W^dJb15fu*D1N3F)Q1>2XL=[mfFf?#J`#J%BIJ2>Y2D%.B'?F0pRUqeZ9[9*Uf)zL=J`6`O3?UD%td!Ih7:WM=uUFcRg]TNZoxf]UFp=.RLJ:D@#jf7iDLfazJC:n'8K/SE^zcEZq5`OhT?I9aD/[s5IqE06s@g0Pr(WTHC11kMR:W(26wNIg[g9/nS+(6Hefke5A2:!QXJJY^u7#K9t_Sm+IeeRlY]Vas_W$=p1L@/Pr3?<^w>^O=^a_Zk!ElvFIES0h3*7kV^S3gX@fmJ!gLQJcdiB=L%Sh72!V0Nd%JmHE%kj2m%kEiM)sJIJ!>elxWjaa>/6sr=-aV9`>MoJqh>U3??'iK?]Fej[q!lh_(CZb>M^e47P'H2bpL?Zd!e5*hiZYszVHq4@%V.B*X*MD)'a<l0_ZLlMrKP^Z:V.ob6?XpQ!:s=h`i<wr)=5e+JS?Ke.M-[9:9420%Sd7F:%RM.Q`a4s'XdqEGOgA>ss=#B]5O-tM6[20Dp_7I/m1!Xh.m#/Yd*JA[Z`#CIc'uVRC6jt[Q0dF==Ed^#3kGAjC8F#>J<TtJJd#Qjgs<OOJeGOZ]`W5_C^r0/xi4YoLiVq'T0[5f!)@%4E.qB@T`2sv/[[I1:KSs2AXC?Z*b4AvRCwMen@T^M!6ef=2VRv#2%.]Ml(R8dMsYe'(4cuS1B*g`!22<BU(?.%^j[62jCn@)bR-%ZEcd[SWtNC4UT#(i+U3BIw*joi/R)lmbsclyREB2J8Iut+f#%%i!b%<BL`?Ml5<OjWJDF.gY[OWM>2MEu31UE!4yQBss4ErmE'`O`+@DIBemAf_WsSG?%7Wppq0dZLnnx*R3VSY2n0d2kHjn3g'#SB/#%-a0cYunhT64lfZ7sVL>J^/$CPm3_QRuY`eokD$zf2sRhnXrzJdE-ON/RXgc7wU->Z>R+('js(f6qK+ziA)uB%u$-GkkA$B`86yL0ZnhgDuG5I-v1to*^Hperk9H#VB6f9sYI6]'bEw:ZZp.t^qAb1/`Nilau^XzdQH5GsI<rakr+fzJ>MO1$si##o=<3='ml(f*mpTMDH:HU>h/zrBM?h$+6mL3F_-/9u/DlBIR1HQl$-7iL`Lz4d'b@[^Kly_It'8xFrIij<'<<f%vSA..T5J$ab2LsOb8ig24L[=GXGk@P4nR3DZ*6['jy2z$bM-9hZ5^!sc`k7i]NOcAS<ja*BBGJRum<f+W$*g*J6^++vCOt=7V[I'p[S>SkdGXGS[3StTuC6wrtzZR[ggOU@vc1ATZszA4a>3$A:8Y`-izl1TpwHew!llNlsI9NY^]k@egetoBW6X*mA(/$wt[p2MHGCZ8Jho_GQm*Cx%AIdbjWz=nUPMCdF<b(_fSLisJ)-IK_+3vS9B6CpL^>bLW44:kx:.crr_h3pp^8ENcQkCL7O!lgC>JG24:xLbEvxq*^fd2K#r>0r(MBiP^M=eew#2_E=@YlkF!oaGVr!TboGu5Nb[:1bk$QzdVr-7tvlOH3$LWYUjQIFo3knSR*]7y)ohRZGLdbnhSx%lkGS6Z49F!K"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.stickyadstv.com/user-registering?dataProviderId=204&userId=2b772fa4-91cc-4e67-adee-1c95488d8537", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "UID=6d287c13efba077dc5241aaea920a7; uid-bp-951=8555007021815792108; uid-bp-36033=d094_6935847286496963655; MRM_UID=d094_6935847286496963655; uid-bp-8225=18072662211247065590; uid-bp-34673=YD4VHOXvWz2VhZV75SmW5QAA&903; uid-bp-892=58fd00dc-7bfd-471f-9cc2-6653a69e2848; uid-bp-159=CAESELX-NRHS4POEF0UP3TImlwk; sessionId=50cea789fbe45cc93c8c7345e16756d; uid-bp-45=\"YFn@IgAABPpYShTD\"; uid-bp-529=17bb603e-151c-4f00-a3a5-2e16f4414c5f; uid-bp-617=4255622000226561144; uid-bp-171=4333427470824928481; uid-bp-26913=AAA2Qk7AfCoAABL53WatCQ; uid-bp-717=y-b.KSt.5E2oOf1q.wgYzTbS7AeNpFZ4t60Jb4xj7JFsFU0TMuVVCNqvxxOrh1KUIkzXYh13PeMuyO~A; uid-bp-25746=e4a45aa0-7b48-11eb-ae9c-ebe1803d12b8; uid-bp-25522=08b7a627-fcf3-43f9-aeeb-4d29ad593ba4-603e1522-494e; uid-bp-23329=wF1G0jOd1Lh2nT5; dp-1361=HANDSHAKE_1616534963_300; uid-bp-27649=89cd12d26a5836be834514fd4d5db475; uid-bp-33281=d094_6935847286496963655; uid-bp-30833=1"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cm.adgrx.com/bridge?AG_PID=freewheel&AG_SETCOOKIE", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.stickyadstv.com/user-registering?dataProviderId=1025&userId=YD4VHOXvWz2VhZV75SmW5QAA%26903", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "UID=6d287c13efba077dc5241aaea920a7; uid-bp-951=8555007021815792108; uid-bp-36033=d094_6935847286496963655; MRM_UID=d094_6935847286496963655; uid-bp-8225=18072662211247065590; uid-bp-34673=YD4VHOXvWz2VhZV75SmW5QAA&903; uid-bp-892=58fd00dc-7bfd-471f-9cc2-6653a69e2848; uid-bp-159=CAESELX-NRHS4POEF0UP3TImlwk; sessionId=50cea789fbe45cc93c8c7345e16756d; uid-bp-45=\"YFn@IgAABPpYShTD\"; uid-bp-529=17bb603e-151c-4f00-a3a5-2e16f4414c5f; uid-bp-617=4255622000226561144; uid-bp-171=4333427470824928481; uid-bp-26913=AAA2Qk7AfCoAABL53WatCQ; uid-bp-717=y-b.KSt.5E2oOf1q.wgYzTbS7AeNpFZ4t60Jb4xj7JFsFU0TMuVVCNqvxxOrh1KUIkzXYh13PeMuyO~A; uid-bp-25746=e4a45aa0-7b48-11eb-ae9c-ebe1803d12b8; uid-bp-25522=08b7a627-fcf3-43f9-aeeb-4d29ad593ba4-603e1522-494e; uid-bp-23329=wF1G0jOd1Lh2nT5; dp-1361=HANDSHAKE_1616534963_300; uid-bp-27649=89cd12d26a5836be834514fd4d5db475; uid-bp-33281=d094_6935847286496963655; uid-bp-30833=1; uid-bp-838=2b772fa4-91cc-4e67-adee-1c95488d8537"
+  },
+  "referrer": "https://ssum-sec.casalemedia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://sync-tm.everesttech.net/upi/pid/ZMAwryCI?redir=https%3A%2F%2Fdsum-sec.casalemedia.com%2Frum%3Fcm_dsp_id%3D88%26external_user_id%3D%24%7BTM_USER_ID%7D", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "everest_g_v2=g_surferid~YFn@IgAABPpYShTD; everest_session_v2=YFn@IgAABPpYShTD"
+  },
+  "referrer": "https://ssum-sec.casalemedia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://js-sec.indexww.com/ht/htw-pixel.gif?YD4VHOXvWz2VhZV75SmW5QAA%26903", {
+  "referrer": "https://ssum-sec.casalemedia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://dsum-sec.casalemedia.com/rum?cm_dsp_id=88&external_user_id=YFn@IgAABPpYShTD", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "CMPS=845; CMID=YD4VHOXvWz2VhZV75SmW5QAA; CMPRO=903; CMDD=AAYahQMABWXJAg**; CMRUM3=7b60633a962760TYRBWVY4R_FP6nslhEOWZt_rh50&406062f821276008b7a627-fcf3-43f9-aeeb-4d29ad593ba4-603e1522-494e&c36062f91b2760av-7a46907d-f705-4806-b9f8-f1309cc47392&2f605f7bed2760wF1G0jOd1Lh2nT5&bf60633a9f2760e42fe1a9-61c1-235b-032cad33&0d60633a9f276005f3200532928e2d25f16713&ce6065759505a00&336062f91927602b772fa4-91cc-4e67-adee-1c95488d8537&496065759505a00&bc6065759505a00&0a6064211f27600&03605f7bec276017bb603e-151c-4f00-a3a5-2e16f4414c5f&e160510e4800010&be60633aa027608555007021815792108&83604a390f276018072662211247065590&516062f8212760t6iMorCtjv6sqtz3t_mS_-Sg3KWsro6i4KswJJh9&086063622227602221cb27-ccfd-4ff0-907d-7ed51a01c05a&6f60623ab427604255622000226561144&286065759505a00&6d6064212a2760301526212599494ca7cc28ae6a03c274&5a60623ab32760AE0542DA920C436A89106D3829A31835&396062f91b27601975461759268752127&9c6062f91927602858b41b-f972-4fcb-a4e7-5c1844255714&c460633aa1276004030001_603e155dcf63d&bd605f7bee27603rDOirKGT2CY&41606575e105a0AQEIxvg4gDyMbwJRCD37AQEBAQE&82604a4c6ea8c0AAA2Qk7AfCoAABL53WatCQ&da60623aac27600&056065759505a00&ef6065846205a00&2d60631c8c2760CAESEC69Gy5cb_erVqjY3AsIblw&696064be812760YTQ4NzQzM2NlYmMzYTRjOTI5NzZjOTAwYTI0MWIwODA&27605f7bed276058fd00dc-7bfd-471f-9cc2-6653a69e2848&dd6062f81e27600&e6605f7be627600&b0606575df05a00&1f60633a972760Q6679677781123688496&f16065759505a00&0460623ab327604333427470824928481&296065759505a00&2e606239a427608555007021815792108&986062f823276054d18c3f-1fd0-4f9a-bf3a-6287aa6d71aa&586065846205a0; CMST=YGWEXGBlhGIB"
+  },
+  "referrer": "https://ssum-sec.casalemedia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cm.adgrx.com/bridge?AG_PID=freewheel&AG_SETCOOKIE", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://ssum-sec.casalemedia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://de.tynt.com/deb/?m=xch&rt=html&id=0010b00002Mq2FYAAZ&ru=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D304%26cd%3D5615%26uid%3D33XUSERID33X", {
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "iframe",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "cookie": "uid=LBMCqmA+HtEG+Ec7Xuzj0g==; pids=%5B%7B%22p%22%3A%2266faace783%22%2C%22f%22%3A1%2C%22ts%22%3A1617261976861%7D%5D"
+  },
+  "referrer": "https://public.servenobid.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ssc-cms.33across.com/ps/?_=1617265764229.&ri=0010b00002Mq2FYAAZ&gdpr_58=&gdpr=0&gdpr_consent=&us_privacy=&ru=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D304%26cd%3D5615%26uid%3D33XUSERID33X", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "33x_ps=u%3D118322264448265%3As1%3D1614683856298%3Ats%3D1617265763333"
+  },
+  "referrer": "https://de.tynt.com/deb/?m=xch&rt=html&id=0010b00002Mq2FYAAZ&ru=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D304%26cd%3D5615%26uid%3D33XUSERID33X",
+  "referrerPolicy": "unsafe-url",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ups.analytics.yahoo.com/ups/55936/sync?uid=8555007021815792108&_origin=1&gdpr=0&gdpr_consent=&apid=UPfd1a7685-7b42-11eb-93e8-02ef4938b91e", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "APID=UPfd1a7685-7b42-11eb-93e8-02ef4938b91e; cmp=t=1614681367&j=0; A3=d=AQABBOQUPmACECN8f7ofFSHBy6aR6kiEGGkFEgEAAgJbP2AWYdwgyyMA_eMAAAcI5BQ-YEiEGGkID1_S5tJb6W51aanXrehL3wkBAAoBKQ&S=AQAAAuk9MiK7dhb_Bno3DOib3ow; IDSYNC=\"16pp~1wrm:172t~1wrm:173h~1wrm:173k~1wrm:173l~1wrm:173m~1wrm:173n~1wrm:175s~1xbk:175u~1x57:175v~1x57:175w~1xav:1760~1wrm:1761~1wrm:1762~1wrm:1763~1wrm:1766~1wrm:1769~1xae:176b~1wrm:176c~1wrm:176e~1wrm:176g~1wrm:176k~1wrm:176l~1wxs:176m~1wrm:176o~1wrm:176q~1wrm:176s~1x8i:176t~1x9w:176v~1wrm:1771~1wyi:1776~1xae:17kh~1xae:17ki~1xah:17mu~1wrm:17mv~1wrm:17my~1wrm:17n1~1wrm:17ot~1xae:187s~1xae:18bj~1wxn:18gs~1wxr:18gu~1wrm:18gx~1wrm:18kp~1xae:18p2~1x57:18qt~1wrm:18ve~1wrm:18vk~1x57:18vq~1wt4:18vw~1wrm:18wi~1x3u:18wm~1x9w:18xa~1wrm:18xi~1x14:18xn~1xae:18xu~1wrm:18xx~1wrm:18y2~1wrm:18y3~1x4c:18y7~1wrm:18yj~1wrm:18yl~1xae:18yp~1wrm:18yr~1wrm:18yw~1wrm:18yx~1xae:18z3~1wxv:18z8~1xae:18z9~1x0z:18za~1xae:18zp~1wrm:18zu~1wrm:18zz~1xae:190j~1wrm:1913~1wrm:191a~1x3u:191c~1x9w:191q~1wrm:192m~1xae:192w~1wt5:18zd~1xah:1770~1xb6\"; APIDTS=1617264659"
+  },
+  "referrer": "https://acdn.adnxs.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://ads.servenobid.com/sync?pid=304&cd=5615&uid=118322264448265", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "pid_310=3db1f03ef19416522f25cd53; pid_309=a_231ee179-1bcf-4311-86df-82932748b2a6; pid_304=118322264448265; pid_312=8555007021815792108; pid_314=eyJ4dWlkIjoiNzYzMjQ3ZjEtOTU4Ni00YzhkLWFlZWYtZDAxN2UyNGNlOTUwIiwiZHAiOnsicHVibWF0aWMiOnsidWlkIjoiMUIyQTgyNDAtMEI0Ri00OTExLTgzQTEtOTI3RkJGRkJDNDdBIiwiZXhwaXJlcyI6IjIwMjEtMDQtMTNUMTc6Mzg6NDQuNTQ1NTg5WiJ9LCJydWJpY29uIjp7InVpZCI6IktMUlZMUjc0LUctQzgyNiIsImV4cGlyZXMiOiIyMDIxLTA0LTEzVDE3OjM4OjQyLjgyMTU5WiJ9fSwiYmRheSI6IjIwMjEtMDMtMDJUMTE6MTc6MzYuNDE4Njg2WiJ9; pid_318=4odXUElFhVSNeiLacII1vEBKNTgWv6GlxVtPcPYZVjY"
+  },
+  "referrer": "https://de.tynt.com/deb/?m=xch&rt=html&id=0010b00002Mq2FYAAZ&ru=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D304%26cd%3D5615%26uid%3D33XUSERID33X",
+  "referrerPolicy": "unsafe-url",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/j/collect?v=1&_v=j89&a=441851974&t=event&ni=1&_s=4&dl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&ul=en-gb&de=UTF-8&dt=HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022&sd=24-bit&sr=1920x1080&vp=610x891&je=0&ec=Web%20Vitals&ea=CLS&el=1617265751578-4628699576517&ev=143&_u=CDCAAEABAAQCAC~&jid=1619413451&gjid=945235814&cid=1255903939.1617261943&tid=UA-180710564-1&_gid=1833083756.1617261943&_r=1&z=279140157", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "content-type": "text/plain",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://www.google-analytics.com/collect?v=1&_v=j89&a=441851974&t=event&ni=1&_s=5&dl=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F15845-hec-group-of-institutions-hec-haridwar&ul=en-gb&de=UTF-8&dt=HEC%20Group%20of%20Institutions%20-%20%5BHEC%5D%2C%20Haridwar%20-%20Admissions%2C%20Contact%2C%20Website%2C%20Facilities%202021-2022&sd=24-bit&sr=1920x1080&vp=610x891&je=0&ec=Web%20Vitals&ea=LCP&el=1617265751579-2889081361616&ev=3304&_u=CDCAAEABAAQCAC~&jid=&gjid=&cid=1255903939.1617261943&tid=UA-180710564-1&_gid=1833083756.1617261943&z=885896016", {
+  "headers": {
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABNEAAABEBAMAAABdZr6uAAAAGFBMVEUAAAD////a2tr/9/e6urpTU1P39/e5ubkY2m5RAAAAAXRSTlMAQObYZgAACRdJREFUeAHt3cFuo0gQBuDCvWiu1IG7lSdAQtxzmAcAWbVvkJzntq+/cfPDFHGB29gdcNK/Zj3tKgIJ+bYBJ2boeyUlJSUl40kKCsnh5UiBYWuTGHARUkDquhrHrq7pagOxGy8vL8ujqwvQkFciyqU9P7ZEItKSfMQXc/80l34kJIJFcqFcsNxt4TExqxFSyiQdXQl2czA1tjZZ9J6kCyggTuREQxqR6moDsRv4/NdKo8NUGkB5VAJB8OXhQVquRj9NWiafUlzd+uHo9zoFhYWNTXYD8iKoACqjFSfQtdRwNSHTBsgcL0bnQNEQ1UBHj7Q0grReENE4k1H/xDe8r3YcCVHe3g5NEI5bRQR54JSGdNe2fsC3I560AoVsrTTUqwVphjmtCLE6n9fxz2+iiRvBSFppMYmRz3nUhktL0m46VWMRtqQVgJUR8adC1kFaWfjCOmkOI0savBhTGkYBkxph9Psjr8pN/vfA2epj5nDapmrrpMkYjl8lGRNNmr11JQ27ep20rAOsssiEp4XSF/xJWl9YAFVXq6Qd6T5pGBtzmkcGadRfJkCa7/rBvdL4Bj18S5UtacwPlfbvnDRCmT8fNI5AhyWZrDCz+lglrZTCb5vPw25a0NJ8YV6ak1OANFejgUDXJbQjRirgZVE7YPSqpMHS4EswGhegXNX2Jq3sLGmoPkzaW6C0w9F8sSOCtOKKNBSrJWkOH1pFl9bCDaa0QVoupjQ0tjt6bijtPeToiR2ucpw9RqJ8Sa2AtGwqTRVwOH2AtKbCCA2DF0aQhpEKdC1cHrz2J/stpLWkLkAvpOnG1tI2OHq+f+QN2hakYT7TeTneKi3rIK0slLRpgX2B75bm5GRKO9Ld0tSk9oeI8un5l4i0HhSJ4AHEziM8w+tpP+iK4IPYOR9/vV2RRpc5YjlLGguk6ebUEaShcF1aXf0F5SpIQ2Mbab/oz69AaUna+zCnvS9JOxxfDGuHL5XW0wGo5lRBGhqKoC3N1RfQjhhBGkY6kKZe1tXUMKdFyLeUhiPnv4vSXojsbwQWY3uf4PE+aXgxw8sariQdnk8aIDgjrZHq8dJ+/Uc3JEl7uyptLvdLk2vSnFcyyqpsabphSjsPHi7tv4/8oclxUKTFKBf/H8Z6mbG0uCTGxl71ub+6gTSZl8Y+16AJ97ko4697pGlQtXJT2Y1FaXBivrBxxGgaOpgveeADMacFSkvSZDtp2ZNLw7Wn9pPLOJT8rxmaBrrM8cUy7+/WDwiZY1R1lLMI0uytL0DT4cUypImazajU0jDEo6yV5qqvkuavPS0bkCZJ2rbSugywCsoGWCiM0sr10hrPqv6qOS26tHfx0jJWhxkiFo5SJSFEK/MtK1hDcas0e+vz4T4yBM/JLI/SCkjrxt+R46EwSCv6+hpptf8j8hXSxp97SvAZl20yN5bEmncqLeMhhSGNx2worWPqpXExSOvGwiiNGLPeemkVVfGlLemiNr8+pxlXB6TKLUEacznuTCI4iVAl9aUoaX2bFS81LDvmQtljU9oYSDO3jtx7EMXJGSayggjDYigoaYRZb0lavSTtRO7kpdXxpL2+vv5QaeOHScespSGCMOufRvm8xZeGCQxbHqV1PBQAb5TGxbI0H1vaqa4IL7JJPGn//O5xzJ1xBUojkdaURiJnaYLvHQIncaokYrzCwaIWBq/JsFP2xJQm70iPwNx6ODXgnC2rszMlTRdKLa2gBWluWRpRfGn+d26JRMTWFfB6GgJoekkQlp1KK2UcG9JkDKRNE19axj0s4nIqDQWQkxBp1ARIoyb+nBZf2uR7x3ASqUoioqDRKO0iXamkXYSXpVlbD5eGsF3n4PdG+dJ1aW5ZmvNzGhaKeJ4WOzGlJWlFiDRqFqU1H43q/CBRrz2/Rhqiz+cjVUkmoT4wYaZjk1qANBXmYGn2R7AqB0vrWBWGS8waoGrpHyoih4YpzcmpkVpOrq6j/YQ9SXt2aTSRhgDTMCZCEw0QvJBG5AabEaTRBtLIhyNVLWnL1Loi4/JuaRQWnn2ZlxGi+6VVTo0hTTegzpAGm1tIS9LsuyXsThqcgEqjxl4anrhGc7SlVRHeRxA9BgmOXCVTmk0N0miBGs/dAYbXSQtYdp00aAIVB2d1BWmqgRaGWhoa30Max66SCW29NPOuVsbWt5cGRHWtJzGkUQ0QxFBLQyPCu/A2oMbRq2RKM6l1cGNTYx+aC6+UxhRJGtX13zfb4UqSENUAQQyVtKjvYU/S9iYt/l2tFMHm+0gzru3jV0lDs6jh5VoMCqLP1JjHQdhX9XhpxFwMB+6wwop7DblaSwu7AwyGGhpILdwBZhtpSVq8rLqrFa4Wot3VahNqzHGriAHNa5q+tNGnQFdTY2Ik9KsKDQvTzqThdC3anfp+sDTmsuM5aR2z8I+S5pt1Ffnuo/GjjlwswhxaZRzYdJWD1gBqdCmtxC8IeWkGG2w1WI7aenCY9ifNNVKpRoQ7Kv8saRlDWpGVWLe51TA6OJ3D1gV5TmmkpUW6S3z86DNhFg6v4sA2pRa4hl7ZpTR/f4uC5qQxETM4r/uq4ie+tAj5YdIoG6VN1o1AWh9K0p5XGuMhrGqEmUPXQEKWNGYuu4LmpAHYTdKYkrTZJGmILS08Iknabo+ewqFVO4FrIBE8GAfQInDVK7+q7aU5DapabFjSKtp7krScto1zHlTjrVT972qfLhrk0DCkofHMGd8ZHlo1s7SGgOAMbWHV4RExtr5xmkbGqcudBDOUbvQE0XBamm7ET5L23HGu/khFAHXOpwYIwldFbnwXnmqEJCXFaStNpRuK4Lnh8M9+NpWrdSMoKSmaigtoqDGePFtSUlJSUlJSRIT2nFykNcbPlpS8Pf/ZcYSoNcZPlpRciEhov8E/eKvHz5gUweM+A1h4FFV5SOTrktJiZhuCZ/uJMtHe54NS9jaFCKWkxE4/d6TkcuvybeBJ5/pgI/ETvrm0r4I3JxK2IkKEwiJzK0Da0CPMRdqgb7C0K2jk2CIWCNxXaV/tMnnYEisiKz6DDfdS2lf53OckcuP/S0HTd4stYPE4EVqTNu2r4AQeOmXVYaLd3TkjPu/2wfu2Tfvqhn313ZOSkpLyPyeERVeEgd/fAAAAAElFTkSuQmCC", {
+  "referrer": "",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACY4AAACCBAMAAAAZXNPFAAAAJFBMVEX////////a2tr/9/e5ubn39/dTU1P29vbv7+/+/v74+Pjw8PCvMVmIAAAAAXRSTlMAQObYZgAAC3xJREFUeAHs3cFx8kgTxvE57b1TcAqTAgH44vL1OymFN4S9OgRnsel90otV//KIZtQwCA16nn3LFj3dMnLBrwqtwEl5fhRFURRFUexqUrO8jWl/31ce4UMLJE9JpPECiU+8/c2tNdJir+T0fv7+zzAM/5s3z1tj5ac4/ITGNLA6lahNOW8Wexm/nHtpfMITq7vejSLH5Jgck2NyzIar+WhD2JS/3zd1jCO0BxZIHqZgSfsFEp3gd7+pY0SOyTE5Jsde2TGgmaH6uTlrwyoqnUMLE+ct+qiN81hZjRzrnjEgu/+weQCnpo6ZDYPZuiO0RxaQBEses5AzldoEgaB6jXJZJOViZOdHcczGDEXMeu8lZe/BHGNTjsmxz9O/X3JMjj2OMWJ3HjaP3U4dM6+wvWOZUtSxgG0ObmTtTPV+nE6ndwRaGjP8rgHStIBohFU51rxXjhE5Jsd+8vnnz+jYv3/+yLEOeuVYIu0dq0oGOXaxYFbpsMEopLJgWzqWqQUcw5T4q0pqDV5ZFvfkNOdFHRsuxKznXkIHOZZjY+RYdUGOcS6MrQunxhCt8I6tMfTJMTkWOOwdOmY4RGG6YVc7bKBjXlyOhFXKOW/oWCLPcoy6f37s9Rwze4w3Zo/qNVvrGL1HdCwlHuFyTI59t3ZMjsmxj6BjKVV+RTyWq47ZmOhFhvzUqmMGROcCHlU6XMcYCThGJbdxzCcRUNYoRnzFnKaAZNS4fuyyY1iEWXOoMcvZrzSW/qEvcH5Mjg3DesfoPZxjb2w8xDE5JsfkmBz7aOsYD9kXccwaOAZItztGvUaiHNP/r5RjzRxzLiWSY3JsZuj3OS6eGUjFTWqOY+XEsRyTYx9tzvPzyK44FjtnX3ZXJbPSMfMc8zuK0/p7cCzXd1UXq6gRXzG/LX6FrBzbvrf1eX45NkaOyTE51rZXjn3MwbPbHfMB29Sx2R3IKQs45ncUbO3AsczKGscSea5jlN3PH1teJ3GuAQ/MFVs4lqix8ZjPH9N1sHKMriM6Jsc+v0bHpq9yrFGvHPsgP7fucizFHKt5ROjGMXfSMchxjI4GjuWck7MAPuXEwRw7vZ//yTE51qFj5NiOybHvEbHpaw+RYx04VjB2vnm7Y3IMaZYLOYNPZQL5Ao5BossIdWqEWiXeMLutSDY5tsfIMTn29jb9W2fZ24Edk2N8HmyryDE5xrcpWzrGvuqSld3+5HaOlW8NwqmLC6xXJpAv5BjL+3aMz7vYW+SYHONR+1bPgR2TY3webOPIMTk2HNCx4V7HMn4sncohx5yJgGOQuHPHTnNe3jEjtudeIsfikWNyjI8RK+IUi6vyqbMfJ+PUOfftk7oc26Fjwy2OGbHbFWNfpNZd3nqKYz4lzkKuT7RwDEOC7wantkay4DvIWeD8mByTY3JMjvXs2Lcca9orx8hxHEsmx57lGNePoQehfsmcc72copMEDPTr1f3YmFV/hqevXje+YXJMjh3MMd5fKce26JVjkcOOK+bH7IZu4r905NisWPRGysWtHcv51Rzj/ZV9OibH5Jgck2O8v3KdFWSYI8fk2PEcs2VhjBVKOSMs2qaOMUHTi50f694xs18PPjO7fNplWuyrd8ryF+D5xVQ49VE5JsfkmByTY7HDjsUIe71y3n9998IxWxb4JSCTP2JGiWzi2PyVvJ5juNTiWoi4Y1Nl7T65z0HH5JhdyB2jXTkmx+SYHJNjcswpFI5ZZYSX2YykjR2DsSzH9ufY8pH568nRWy+OcZOwwn7R0herTHxUjsmx3Tj2+XV6//y6yauxmf4G58cq1/kvwx3blU1yrAyOhQ6bPP+sv3HLOFwKpWNWdjiO/R653bF8i2MwNn1lVx06dnqf/pNjh3CMDIQfePvokx2TY3Lsv9O/p2851qJXjjmQDb07hkqwZb5j/EbcERxj5EbHSNixPCYVHxZEuvu8C1SJXgvRxjECmOscO9PHnyH8yZWHbme9/Fpq7w9nv1f37GNUH5VjcmyXjvF5sHKsRa8cAzJCa/Cw20uGleFuK9ky3zGvw3zHUgo7hj43O5am9O/YaY4cO5Bjzo+7fVSOybF9OMYTJOBVw88fY4mit0/nuovneyPH/PTvWDKDHAqOY97IQBo5lnIrx1Lu//zYKzjmP9fMCkM66p3Cr+uSYYVj61I2mgVG5Zgc29n1Y6Nj/33Jsa165VjgsNs6RswC/XRDzr0Fig0cS/kux/jrbvT2e/1Y75FjckyOHdix79Gxbzm2ba8ck2OWWjjG1I2O5WnhvExzv++vfAXH/Njf9NeLY37SrwBEMGbxUTkmx+SYHDuuY/59aO5Y4CeY+d1tHTMHx8Vbg2ZwnIX8M+ZPuI5Ry3xJeUp3f4dXjskxOSbHXsKxbzlG5FggcqxlAccIojj1OWVDdkisOTZlYWUXjpFXdqzn3rpjDSQzu3VUjskxOUbkmBxr+5CIfz6jEfqf7lguFqiTfH2ChbWOMdGLY3JMjskxOSbH5JgcS1ZnTI7VCtnjKl9jjHVWsrOroGNTqSpZUSPUrubyKKkrdgzJzPrsJdcdayCZGaNyTI7JMTl2RMfqkBmHvZFjDfa6pWMOZHmxwCcgkuxPkEy14hgdcmwvjpn12kt8xeSYHJNjrSLH5Fiyq1lz2HIsZY8rFvCF5MoEC7nuGBMLS/bjGLWDSGbWby9Z4VhcMjNy+2j/jskxOSbH5FgkZls5xl47cqx4axBh4apjlRebVOuOuS/jKroRalfiDJJtX1XKMTkmx+SYHJNjckyO+ZTEFy7Ll+VYf5LZmJ57iaNYVDIbs6w0GZVjckyOybFDOOYf9k4dIzblcYX2jpUL8BZwjADHSsnKGnFbKoqRjhSTY3JMjskxOSbH5FhX2cAxqpllWpwJSIm8sow4FnlVSe0YktmY3nvJOsXwyH9HeJF2o3JMjskxOXYEx5zDbhyzqmJyjHU6lhMEPSqS+cUmV7tSk2PHcsymTN/CjjG6L8fkmByTY3JMjskxNnP2J8haai5K1eZVJbUXDmeizXiCtO2dtvx2es3a3gckO39f9Txm92AU/6vG9VE5JsfkmBw7kmPOYTfPmn3KsZQzy/7Emqsv1tZi3Ue64kKOFUEtTtH7P6J+rIzKMTkmx+TYkR0bflIeNreJHNvIsRR2bMpTHKP24uHJygmS5r1zqhKYtb0P+DVtrcKI3QcdY2iKHJNjckyOybHaYfcROaZsEDlGlo5xvytZDq0elWNyTJFjckyRYwpPC7aa9X58rL8XU1reB/Ra7ZgZkIYd+90ox+SYIsfkWOCwFTnmRI7JMRJzrIgck2OKHJNjwxg5JseUVSde2GraG0jL+wABbDW4A4EhOSbHFDkmx+KHLcdyw4WwY6JMjskxOSbHFDl2YMeGIyOWMpRkhIkskGIh5BgTytaxn7DVuDeQZvehwa+jwZAck2OKHJNjw5jrh63k4ddHTec7FgCOhew45kwockyOyTE51nHkmByLR4GSOfEFn8S59NuxjGPLCUVRFDmmKIpeYsYXHODmhfnblHlg2vQn/t+uXdg2EERBAD3RNeSGLJr+Owgzr7Sc94SJ+d/8MQLoMeAfu7Q/4fLTjQPoMQAAACAPrkc9BmiwoMf0GFAgOe6c9q3CAA22HOgxPQbkcdvsW7UBGmw50GN6DLwnenSm3sIZoMGCHtNjLWRLcLxx5oNr+RIY4M//72OnHgM9psfAR9gD3x0B6DGA05sVQI9tgNYHv2K6Bud07z3JHbnqTa7krT15k6v25Kr9UPL5+ms/zNJ78F5a3ZUfpOIqJOm1fnl8jAXXIFc1yJUekzc9Jlf75YrUvo72ksYzkB+5kit5kzfkarVcpXQ2udNivGkwqDzegQ3WO1lrieWqnFzJm7zpMbnaIlc/pCLp98lt/K6u8Phk8qxGrpqQKz0mb3psA3IFABMDbgGADz0OeQJaFAAAAABJRU5ErkJggg==", {
+  "referrer": "",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1576049301Annotation20191211125804.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1431953162ccgsygdygw.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://images.static-collegedunia.com/public/college_data/images/logos/1482226505srmscet-logo.jpg?tr=w-35,h-35,c-force", {
+  "referrer": "https://collegedunia.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+});
